@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+<shortcuts xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:targetApi="25">
+    <shortcut
+        android:enabled="true"
+        android:icon="@drawable/ic_diet"
+        android:shortcutId="diet_plan"
+        android:shortcutShortLabel="@string/text_diet_plan">
+        <intent
+            android:action="android.intent.action.VIEW"
+            android:targetClass="com.workout.sixpacksabs.view.activity.DrawerActivity"
+            android:targetPackage="com.workoutapps.abs.workout.tips">
+            <extra
+                android:name="plan_number"
+                android:value="0" />
+        </intent>
+        <categories android:name="android.shortcut.conversation" />
+    </shortcut>
+    <shortcut
+        android:enabled="true"
+        android:icon="@drawable/ic_fitness"
+        android:shortcutId="belly_plan"
+        android:shortcutShortLabel="@string/text_belly_abs">
+        <intent
+            android:action="android.intent.action.VIEW"
+            android:targetClass="com.workout.sixpacksabs.view.activity.ExerciseDaysActivity"
+            android:targetPackage="com.workoutapps.abs.workout.tips">
+            <extra
+                android:name="plan_number"
+                android:value="1" />
+        </intent>
+        <categories android:name="android.shortcut.conversation" />
+    </shortcut>
+    <shortcut
+        android:enabled="true"
+        android:icon="@drawable/ic_fitness"
+        android:shortcutId="perfect_plan"
+        android:shortcutShortLabel="@string/text_perfect_abs">
+        <intent
+            android:action="android.intent.action.VIEW"
+            android:targetClass="com.workout.sixpacksabs.view.activity.ExerciseDaysActivity"
+            android:targetPackage="com.workoutapps.abs.workout.tips">
+            <extra
+                android:name="plan_number"
+                android:value="2" />
+        </intent>
+        <categories android:name="android.shortcut.conversation" />
+    </shortcut>
+    <shortcut
+        android:enabled="true"
+        android:icon="@drawable/ic_fitness"
+        android:shortcutId="six_pack"
+        android:shortcutShortLabel="@string/text_six_pack_abs">
+        <intent
+            android:action="android.intent.action.VIEW"
+            android:targetClass="com.workout.sixpacksabs.view.activity.ExerciseDaysActivity"
+            android:targetPackage="com.workoutapps.abs.workout.tips">
+            <extra
+                android:name="plan_number"
+                android:value="3" />
+        </intent>
+        <categories android:name="android.shortcut.conversation" />
+    </shortcut>
+
+
+</shortcuts>

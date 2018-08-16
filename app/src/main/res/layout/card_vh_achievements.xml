@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools">
+
+    <data>
+
+        <variable
+            name="achivement"
+            type="com.workout.sixpacksabs.data.entity.Achievement" />
+
+        <variable
+            name="adapter"
+            type="com.workout.sixpacksabs.view.adapter.AchievementsAdapter" />
+
+        <!--   <variable
+               android:onClick="@{() -> handler.onCategoryClicked(category)}"
+
+               name="handler"
+               type="com.workout.sixpackabs.binder.MyHandler" />-->
+    </data>
+
+    <android.support.v7.widget.CardView
+
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        app:cardUseCompatPadding="true"
+        android:layout_margin="@dimen/_5dp"
+        >
+
+        <android.support.constraint.ConstraintLayout
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:padding="@dimen/_3dp"
+            tools:layout_editor_absoluteY="81dp">
+            <!--android:onClick="@{handler::onClickTextShow}"-->
+            <ImageView
+                android:id="@+id/iv_category"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_margin="@dimen/_5dp"
+                android:contentDescription="@string/text_nstruction"
+                android:scaleType="fitCenter"
+                app:achievementImage="@{achivement}"
+                app:layout_constraintLeft_toLeftOf="parent"
+                app:layout_constraintEnd_toEndOf="parent"
+                app:layout_constraintTop_toTopOf="parent"
+                tools:src="@drawable/award_unselected" />
+
+            <TextView
+                android:id="@+id/acheivements_text"
+                android:layout_width="@dimen/_100dp"
+                android:layout_height="wrap_content"
+                android:gravity="center_horizontal"
+                android:text="@{String.format(@string/achievement_days,achivement.achievementsDays)}"
+                tools:text="5 Days"
+                android:background="@color/red"
+                android:textColor="@android:color/white"
+                app:layout_constraintTop_toBottomOf="@+id/iv_category"
+                app:layout_constraintBottom_toBottomOf="parent"
+                app:layout_constraintEnd_toEndOf="parent"
+                app:layout_constraintStart_toStartOf="parent" />
+
+        </android.support.constraint.ConstraintLayout>
+    </android.support.v7.widget.CardView>
+</layout>

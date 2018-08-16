@@ -1,0 +1,98 @@
+apply plugin: 'com.android.application'
+apply plugin: 'io.fabric'
+
+android {
+    compileSdkVersion androidCompileSdkVersion
+
+    defaultConfig {
+        applicationId androidApplicationId
+        minSdkVersion androidMinSdkVersion
+        targetSdkVersion androidTargetSdkVersion
+        versionCode androidVersionCode
+        versionName androidVersionName
+        multiDexEnabled true
+        vectorDrawables.useSupportLibrary = true
+        dataBinding {
+            enabled = true
+        }
+        javaCompileOptions {
+            annotationProcessorOptions {
+                arguments = ["room.schemaLocation": "$projectDir/schemas".toString()]
+            }
+        }
+    }
+    buildTypes {
+        release {
+            minifyEnabled true
+            proguardFiles getDefaultProguardFile('proguard-android.txt'), 'proguard-rules.pro'
+        }
+        debug {
+            minifyEnabled false
+            useProguard false
+            //proguardFiles getDefaultProguardFile('proguard-android.txt'), 'proguard-rules.pro'
+        }
+    }
+    android {
+        lintOptions {
+            checkReleaseBuilds true
+            disable 'MissingTranslation'
+            // Or, if you prefer, you can continue to check for errors in release builds,
+            // but continue the build even when errors are found:
+            abortOnError true
+        }
+    }
+    compileOptions {
+        sourceCompatibility JavaVersion.VERSION_1_8
+        targetCompatibility JavaVersion.VERSION_1_8
+    }
+}
+
+dependencies {
+    implementation project(':NumberPick')
+
+    implementation 'com.android.billingclient:billing:1.0'
+    implementation 'com.google.android.ads.consent:consent-library:1.0.3'
+    // support dependencies
+    implementation supportDependencies.appCompat
+    implementation supportDependencies.appCompatV4
+    implementation supportDependencies.recyclerview
+    implementation supportDependencies.cardview
+    implementation supportDependencies.design
+    //implementation supportDependencies.palette
+    implementation supportDependencies.multidex
+    implementation supportDependencies.constraintLayout
+    implementation supportDependencies.ads
+    // Parcing and image loading
+    implementation supportDependencies.gson
+    //implementation supportDependencies.stetho
+    implementation supportDependencies.picasso
+    // Firebase
+    //implementation supportDependencies.firebaseDatabase
+    // implementation supportDependencies.firebaseAuth
+    // implementation supportDependencies.firebaseStorage
+
+    // Databinding and architecture component
+    implementation supportDependencies.viewModelLiveData
+    implementation 'com.android.support.constraint:constraint-layout:1.1.2'
+    annotationProcessor supportDependencies.archCompiler
+    implementation supportDependencies.room
+    annotationProcessor supportDependencies.roomCompiler
+
+    implementation 'com.github.jakob-grabner:Circle-Progress-View:v1.3'
+
+    implementation 'com.github.PhilJay:MPChart:v3.0.3'
+    implementation 'com.firebase:firebase-jobdispatcher:0.8.5'
+    implementation 'com.dinuscxj:circleprogressbar:1.1.1'
+    //Facebook Audionce network
+    implementation 'com.facebook.android:audience-network-sdk:4.+'
+    implementation 'com.crashlytics.sdk.android:crashlytics:2.9.4'
+
+    //Dagget  dependencies
+    implementation 'com.google.dagger:dagger:2.16'
+    annotationProcessor 'com.google.dagger:dagger-compiler:2.16'
+    annotationProcessor 'com.google.dagger:dagger-android-processor:2.16'
+    implementation 'com.google.dagger:dagger-android-support:2.16'
+}
+
+
+apply plugin: 'com.google.gms.google-services'

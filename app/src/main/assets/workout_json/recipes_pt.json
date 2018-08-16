@@ -1,0 +1,1780 @@
+[
+  {
+    "day": "1",
+    "meals": [
+      {
+        "name": "早",
+        "recipes": [
+          {
+            "type": 0,
+            "name": "1 xícara chá ou café preto sem açúcar e leite "
+          },
+          {
+            "type": 0,
+            "name": "Mingau de aveia"
+          }
+        ]
+      },
+      {
+        "name": "甜",
+        "recipes": [
+          {
+            "type": 0,
+            "name": "Nozes ou castanhas sem sal "
+          },
+          {
+            "type": 0,
+            "name": "1 fatia de queijo (de preferência, com sal ou baixo teor de gordura)"
+          }
+        ]
+      },
+      {
+        "name": "午",
+        "recipes": [
+          {
+            "type": 0,
+            "name": "2 fatias de torrada integral com legumes (cebola, tomate, alface etc.)"
+          },
+          {
+            "type": 1,
+            "name": "Qualquer carne magra grelhada ou cozida (bife, peito de frango, cordeiro, fraldinha etc.) "
+          },
+          {
+            "type": 2,
+            "name": "Salada de frutas (maçã, pera, laranja, toranja, abacaxi etc.) "
+          }
+        ]
+      },
+      {
+        "name": "晚",
+        "recipes": [
+          {
+            "type": 1,
+            "name": "Salada de frango (peito de frango, grelhado ou cozido, com algumas frutas ou legumes)"
+          },
+          {
+            "type": 2,
+            "name": "Salada de legumes (cenouras, tomates, pimentões-doces, pepinos etc.)"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "day": "2",
+    "meals": [
+      {
+        "name": "早",
+        "recipes": [
+          {
+            "type": 0,
+            "name": "1 xícara chá ou café preto sem açúcar e leite "
+          },
+          {
+            "type": 0,
+            "name": "Cereais com leite desnatado (aveia, pedaços de trigo, cevada ou polenta)"
+          }
+        ]
+      },
+      {
+        "name": "甜",
+        "recipes": [
+          {
+            "type": 0,
+            "name": "1 biscoito (de preferência, com baixo teor de açúcar ou sem açúcar)"
+          }
+        ]
+      },
+      {
+        "name": "午",
+        "recipes": [
+          {
+            "type": 0,
+            "name": "Salada de legumes (cenouras, tomates, pimentões-doces, pepinos etc.)"
+          },
+          {
+            "type": 0,
+            "name": "Iogurte (de preferência, com baixo teor de gordura ou açúcar)"
+          }
+        ]
+      },
+      {
+        "name": "晚",
+        "recipes": [
+          {
+            "type": 0,
+            "name": "Qualquer sopa de legumes sem adição de sal"
+          },
+          {
+            "type": 1,
+            "name": "Qualquer peixe ou fruto do mar grelhado ou cozido (lula, siri, camarão)"
+          },
+          {
+            "type": 2,
+            "name": "Legumes cozidos (aspargos, brócolis, couve-flor, abobrinha, espinafre ou ervilhas) "
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "day": "3",
+    "meals": [
+      {
+        "name": "早",
+        "recipes": [
+          {
+            "type": 0,
+            "name": "1 xícara chá ou café preto sem açúcar e leite "
+          },
+          {
+            "type": 0,
+            "name": "2 ovos mexidos (sem manteiga ou óleo)"
+          },
+          {
+            "type": 0,
+            "name": "Mingau de aveia"
+          }
+        ]
+      },
+      {
+        "name": "甜",
+        "recipes": [
+          {
+            "type": 0,
+            "name": "Iogurte (de preferência, com baixo teor de gordura ou açúcar)"
+          },
+          {
+            "type": 0,
+            "name": "Homus ou purê de batata"
+          }
+        ]
+      },
+      {
+        "name": "午",
+        "recipes": [
+          {
+            "type": 0,
+            "name": "Arroz integral cozido no vapor ou macarrão cozido "
+          },
+          {
+            "type": 0,
+            "name": "Legumes cozidos (aspargos, brócolis, couve-flor, abobrinha, espinafre ou ervilhas) "
+          }
+        ]
+      },
+      {
+        "name": "晚",
+        "recipes": [
+          {
+            "type": 0,
+            "name": "3 batatas assadas ou cozidas"
+          },
+          {
+            "type": 1,
+            "name": "Qualquer carne magra grelhada ou cozida (bife, peito de frango, cordeiro, fraldinha etc.) "
+          },
+          {
+            "type": 2,
+            "name": "Salada de frutas (maçã, pera, laranja, toranja, abacaxi etc.) "
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "day": "4",
+    "meals": [
+      {
+        "name": "早",
+        "recipes": [
+          {
+            "type": 0,
+            "name": "1 xícara chá ou café preto sem açúcar e leite "
+          },
+          {
+            "type": 0,
+            "name": "2 fatias de torrada integral com legumes (cebola, tomate, alface etc.)"
+          }
+        ]
+      },
+      {
+        "name": "甜",
+        "recipes": [
+          {
+            "type": 0,
+            "name": "Iogurte com baixo teor de gordura ou leite desnatado com frutas silvestres"
+          }
+        ]
+      },
+      {
+        "name": "午",
+        "recipes": [
+          {
+            "type": 0,
+            "name": "Alguns mirtilos, morangos, framboesas ou amoras"
+          },
+          {
+            "type": 1,
+            "name": "Qualquer peixe ou fruto do mar grelhado ou cozido (lula, siri, camarão)"
+          },
+          {
+            "type": 2,
+            "name": "Legumes cozidos (aspargos, brócolis, couve-flor, abobrinha, espinafre ou ervilhas) "
+          }
+        ]
+      },
+      {
+        "name": "晚",
+        "recipes": [
+          {
+            "type": 0,
+            "name": "Alguns grãos cozidos"
+          },
+          {
+            "type": 1,
+            "name": "Salada de frango (peito de frango, grelhado ou cozido, com algumas frutas ou legumes)"
+          },
+          {
+            "type": 2,
+            "name": "Salada de legumes (cenouras, tomates, pimentões-doces, pepinos etc.)"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "day": "5",
+    "meals": [
+      {
+        "name": "早",
+        "recipes": [
+          {
+            "type": 0,
+            "name": "1 xícara de chá ou chocolate quente sem açúcar e leite "
+          },
+          {
+            "type": 0,
+            "name": "2 ovos mexidos (sem manteiga ou óleo)"
+          },
+          {
+            "type": 0,
+            "name": "1 fatia de pão ou torrada integral"
+          }
+        ]
+      },
+      {
+        "name": "甜",
+        "recipes": [
+          {
+            "type": 0,
+            "name": "Nozes ou castanhas sem sal "
+          }
+        ]
+      },
+      {
+        "name": "午",
+        "recipes": [
+          {
+            "type": 0,
+            "name": "1 toranja ou laranja"
+          },
+          {
+            "type": 0,
+            "name": "Feijões cozidos ou assados (soja, lentilha, feijão preto, feijão vermelho etc.)"
+          }
+        ]
+      },
+      {
+        "name": "晚",
+        "recipes": [
+          {
+            "type": 0,
+            "name": "Batida ou iogurte com baixo teor de gordura"
+          },
+          {
+            "type": 0,
+            "name": "Iogurte com baixo teor de gordura ou leite desnatado com frutas silvestres"
+          },
+          {
+            "type": 1,
+            "name": "Qualquer carne magra grelhada ou cozida (bife, peito de frango, cordeiro, fraldinha etc.) "
+          },
+          {
+            "type": 2,
+            "name": "Salada de frutas (maçã, pera, laranja, toranja, abacaxi etc.) "
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "day": "6",
+    "meals": [
+      {
+        "name": "早",
+        "recipes": [
+          {
+            "type": 0,
+            "name": "1 xícara chá ou café preto sem açúcar e leite "
+          },
+          {
+            "type": 0,
+            "name": "Cereais com leite desnatado (aveia, pedaços de trigo, cevada ou polenta)"
+          }
+        ]
+      },
+      {
+        "name": "甜",
+        "recipes": [
+          {
+            "type": 0,
+            "name": "Homus ou purê de batata"
+          },
+          {
+            "type": 0,
+            "name": "Iogurte com baixo teor de gordura ou leite desnatado com frutas silvestres"
+          }
+        ]
+      },
+      {
+        "name": "午",
+        "recipes": [
+          {
+            "type": 0,
+            "name": "2 fatias de torrada integral com legumes (cebola, tomate, alface etc.)"
+          },
+          {
+            "type": 0,
+            "name": "Legumes cozidos (aspargos, brócolis, couve-flor, abobrinha, espinafre ou ervilhas) "
+          }
+        ]
+      },
+      {
+        "name": "晚",
+        "recipes": [
+          {
+            "type": 0,
+            "name": "Salada de frutas (maçã, pera, laranja, toranja, abacaxi etc.) "
+          },
+          {
+            "type": 1,
+            "name": "Qualquer peixe ou fruto do mar grelhado ou cozido (lula, siri, camarão)"
+          },
+          {
+            "type": 2,
+            "name": "Legumes cozidos (aspargos, brócolis, couve-flor, abobrinha, espinafre ou ervilhas) "
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "day": "7",
+    "meals": [
+      {
+        "name": "早",
+        "recipes": [
+          {
+            "type": 0,
+            "name": "1 xícara chá ou café preto sem açúcar e leite "
+          },
+          {
+            "type": 0,
+            "name": "Milho cozido com legumes de sua preferência"
+          }
+        ]
+      },
+      {
+        "name": "甜",
+        "recipes": [
+          {
+            "type": 0,
+            "name": "1 biscoito (de preferência, com baixo teor de açúcar ou sem açúcar)"
+          }
+        ]
+      },
+      {
+        "name": "午",
+        "recipes": [
+          {
+            "type": 0,
+            "name": "Omelete feito com três ovos inteiros e alguns legumes"
+          },
+          {
+            "type": 0,
+            "name": "Iogurte (de preferência, com baixo teor de gordura ou açúcar)"
+          }
+        ]
+      },
+      {
+        "name": "晚",
+        "recipes": [
+          {
+            "type": 0,
+            "name": "Salada de legumes (cenouras, tomates, pimentões-doces, pepinos etc.)"
+          },
+          {
+            "type": 1,
+            "name": "Qualquer carne magra grelhada ou cozida (bife, peito de frango, cordeiro, fraldinha etc.) "
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "day": "8",
+    "meals": [
+      {
+        "name": "早",
+        "recipes": [
+          {
+            "type": 0,
+            "name": "1 xícara chá ou café preto sem açúcar e leite "
+          },
+          {
+            "type": 0,
+            "name": "2 fatias de torrada integral com legumes (cebola, tomate, alface etc.)"
+          }
+        ]
+      },
+      {
+        "name": "甜",
+        "recipes": [
+          {
+            "type": 0,
+            "name": "Iogurte com baixo teor de gordura ou leite desnatado com frutas silvestres"
+          },
+          {
+            "type": 0,
+            "name": "1 fatia de queijo (de preferência, com sal ou baixo teor de gordura)"
+          }
+        ]
+      },
+      {
+        "name": "午",
+        "recipes": [
+          {
+            "type": 0,
+            "name": "Arroz integral cozido no vapor ou macarrão cozido "
+          },
+          {
+            "type": 0,
+            "name": "3 batatas assadas ou cozidas"
+          }
+        ]
+      },
+      {
+        "name": "晚",
+        "recipes": [
+          {
+            "type": 0,
+            "name": "Qualquer sopa de legumes sem adição de sal"
+          },
+          {
+            "type": 0,
+            "name": "Feijões cozidos ou assados (soja, lentilha, feijão preto, feijão vermelho etc.)"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "day": "9",
+    "meals": [
+      {
+        "name": "早",
+        "recipes": [
+          {
+            "type": 0,
+            "name": "1 xícara chá ou café preto sem açúcar e leite "
+          },
+          {
+            "type": 0,
+            "name": "Mingau de aveia"
+          }
+        ]
+      },
+      {
+        "name": "甜",
+        "recipes": [
+          {
+            "type": 0,
+            "name": "1 biscoito (de preferência, com baixo teor de açúcar ou sem açúcar)"
+          }
+        ]
+      },
+      {
+        "name": "午",
+        "recipes": [
+          {
+            "type": 0,
+            "name": "Salada de legumes (cenouras, tomates, pimentões-doces, pepinos etc.)"
+          },
+          {
+            "type": 1,
+            "name": "Qualquer carne magra grelhada ou cozida (bife, peito de frango, cordeiro, fraldinha etc.) "
+          }
+        ]
+      },
+      {
+        "name": "晚",
+        "recipes": [
+          {
+            "type": 1,
+            "name": "Salada de frango (peito de frango, grelhado ou cozido, com algumas frutas ou legumes)"
+          },
+          {
+            "type": 2,
+            "name": "Salada de legumes (cenouras, tomates, pimentões-doces, pepinos etc.)"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "day": "10",
+    "meals": [
+      {
+        "name": "早",
+        "recipes": [
+          {
+            "type": 0,
+            "name": "1 xícara de chá ou chocolate quente sem açúcar e leite "
+          },
+          {
+            "type": 0,
+            "name": "Milho cozido com legumes de sua preferência"
+          }
+        ]
+      },
+      {
+        "name": "甜",
+        "recipes": [
+          {
+            "type": 0,
+            "name": "Homus ou purê de batata"
+          }
+        ]
+      },
+      {
+        "name": "午",
+        "recipes": [
+          {
+            "type": 0,
+            "name": "Batida ou iogurte com baixo teor de gordura"
+          },
+          {
+            "type": 0,
+            "name": "Feijões cozidos ou assados (soja, lentilha, feijão preto, feijão vermelho etc.)"
+          }
+        ]
+      },
+      {
+        "name": "晚",
+        "recipes": [
+          {
+            "type": 0,
+            "name": "1 porção de fruta (maçã, pera, banana, laranja, toranja, abacaxi etc.) "
+          },
+          {
+            "type": 1,
+            "name": "Qualquer peixe ou fruto do mar grelhado ou cozido (lula, siri, camarão)"
+          },
+          {
+            "type": 2,
+            "name": "Legumes cozidos (aspargos, brócolis, couve-flor, abobrinha, espinafre ou ervilhas) "
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "day": "11",
+    "meals": [
+      {
+        "name": "早",
+        "recipes": [
+          {
+            "type": 0,
+            "name": "1 xícara chá ou café preto sem açúcar e leite "
+          },
+          {
+            "type": 0,
+            "name": "2 ovos mexidos (sem manteiga ou óleo)"
+          },
+          {
+            "type": 0,
+            "name": "2 fatias de torrada integral com legumes (cebola, tomate, alface etc.)"
+          }
+        ]
+      },
+      {
+        "name": "甜",
+        "recipes": [
+          {
+            "type": 0,
+            "name": "Iogurte (de preferência, com baixo teor de gordura ou açúcar)"
+          }
+        ]
+      },
+      {
+        "name": "午",
+        "recipes": [
+          {
+            "type": 0,
+            "name": "Alguns mirtilos, morangos, framboesas ou amoras"
+          },
+          {
+            "type": 0,
+            "name": "Legumes cozidos (aspargos, brócolis, couve-flor, abobrinha, espinafre ou ervilhas) "
+          }
+        ]
+      },
+      {
+        "name": "晚",
+        "recipes": [
+          {
+            "type": 0,
+            "name": "1 biscoito (de preferência, com baixo teor de açúcar ou sem açúcar)"
+          },
+          {
+            "type": 1,
+            "name": "Qualquer carne magra grelhada ou cozida (bife, peito de frango, cordeiro, fraldinha etc.) "
+          },
+          {
+            "type": 2,
+            "name": "Salada de frutas (maçã, pera, laranja, toranja, abacaxi etc.) "
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "day": "12",
+    "meals": [
+      {
+        "name": "早",
+        "recipes": [
+          {
+            "type": 0,
+            "name": "1 xícara chá ou café preto sem açúcar e leite "
+          },
+          {
+            "type": 0,
+            "name": "2 ovos mexidos (sem manteiga ou óleo)"
+          },
+          {
+            "type": 0,
+            "name": "Cereais com leite desnatado (aveia, pedaços de trigo, cevada ou polenta)"
+          }
+        ]
+      },
+      {
+        "name": "甜",
+        "recipes": [
+          {
+            "type": 0,
+            "name": "Nozes ou castanhas sem sal "
+          }
+        ]
+      },
+      {
+        "name": "午",
+        "recipes": [
+          {
+            "type": 0,
+            "name": "Arroz integral cozido no vapor ou macarrão cozido "
+          },
+          {
+            "type": 0,
+            "name": "Qualquer sopa de legumes sem adição de sal"
+          }
+        ]
+      },
+      {
+        "name": "晚",
+        "recipes": [
+          {
+            "type": 0,
+            "name": "1 toranja ou laranja"
+          },
+          {
+            "type": 1,
+            "name": "Salada de frango (peito de frango, grelhado ou cozido, com algumas frutas ou legumes)"
+          },
+          {
+            "type": 2,
+            "name": "Salada de legumes (cenouras, tomates, pimentões-doces, pepinos etc.)"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "day": "13",
+    "meals": [
+      {
+        "name": "早",
+        "recipes": [
+          {
+            "type": 0,
+            "name": "1 xícara chá ou café preto sem açúcar e leite "
+          },
+          {
+            "type": 0,
+            "name": "Omelete feito com três ovos inteiros e alguns legumes"
+          }
+        ]
+      },
+      {
+        "name": "甜",
+        "recipes": [
+          {
+            "type": 0,
+            "name": "1 biscoito (de preferência, com baixo teor de açúcar ou sem açúcar)"
+          }
+        ]
+      },
+      {
+        "name": "午",
+        "recipes": [
+          {
+            "type": 0,
+            "name": "Batida ou iogurte com baixo teor de gordura"
+          },
+          {
+            "type": 0,
+            "name": "Legumes cozidos (aspargos, brócolis, couve-flor, abobrinha, espinafre ou ervilhas) "
+          }
+        ]
+      },
+      {
+        "name": "晚",
+        "recipes": [
+          {
+            "type": 0,
+            "name": "Qualquer sopa de legumes sem adição de sal"
+          },
+          {
+            "type": 1,
+            "name": "Qualquer peixe ou fruto do mar grelhado ou cozido (lula, siri, camarão)"
+          },
+          {
+            "type": 2,
+            "name": "Legumes cozidos (aspargos, brócolis, couve-flor, abobrinha, espinafre ou ervilhas) "
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "day": "14",
+    "meals": [
+      {
+        "name": "早",
+        "recipes": [
+          {
+            "type": 0,
+            "name": "1 xícara chá ou café preto sem açúcar e leite "
+          },
+          {
+            "type": 0,
+            "name": "Cereais com leite desnatado (aveia, pedaços de trigo, cevada ou polenta)"
+          }
+        ]
+      },
+      {
+        "name": "甜",
+        "recipes": [
+          {
+            "type": 0,
+            "name": "Nozes ou castanhas sem sal "
+          }
+        ]
+      },
+      {
+        "name": "午",
+        "recipes": [
+          {
+            "type": 0,
+            "name": "Iogurte (de preferência, com baixo teor de gordura ou açúcar)"
+          },
+          {
+            "type": 1,
+            "name": "Salada de frango (peito de frango, grelhado ou cozido, com algumas frutas ou legumes)"
+          },
+          {
+            "type": 2,
+            "name": "Salada de legumes (cenouras, tomates, pimentões-doces, pepinos etc.)"
+          }
+        ]
+      },
+      {
+        "name": "晚",
+        "recipes": [
+          {
+            "type": 0,
+            "name": "Omelete feito com três ovos inteiros e alguns legumes"
+          },
+          {
+            "type": 0,
+            "name": "3 batatas assadas ou cozidas"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "day": "15",
+    "meals": [
+      {
+        "name": "早",
+        "recipes": [
+          {
+            "type": 0,
+            "name": "1 xícara de chá ou chocolate quente sem açúcar e leite "
+          },
+          {
+            "type": 0,
+            "name": "Mingau de aveia"
+          }
+        ]
+      },
+      {
+        "name": "甜",
+        "recipes": [
+          {
+            "type": 0,
+            "name": "1 biscoito (de preferência, com baixo teor de açúcar ou sem açúcar)"
+          }
+        ]
+      },
+      {
+        "name": "午",
+        "recipes": [
+          {
+            "type": 0,
+            "name": "Cereais com leite desnatado (aveia, pedaços de trigo, cevada ou polenta)"
+          },
+          {
+            "type": 0,
+            "name": "Batida ou iogurte com baixo teor de gordura"
+          }
+        ]
+      },
+      {
+        "name": "晚",
+        "recipes": [
+          {
+            "type": 0,
+            "name": "Iogurte (de preferência, com baixo teor de gordura ou açúcar)"
+          },
+          {
+            "type": 1,
+            "name": "Qualquer carne magra grelhada ou cozida (bife, peito de frango, cordeiro, fraldinha etc.) "
+          },
+          {
+            "type": 2,
+            "name": "Salada de frutas (maçã, pera, laranja, toranja, abacaxi etc.) "
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "day": "16",
+    "meals": [
+      {
+        "name": "早",
+        "recipes": [
+          {
+            "type": 0,
+            "name": "1 xícara de chá ou chocolate quente sem açúcar e leite "
+          },
+          {
+            "type": 0,
+            "name": "1 fatia de pão ou torrada integral"
+          },
+          {
+            "type": 0,
+            "name": "1 toranja ou laranja"
+          }
+        ]
+      },
+      {
+        "name": "甜",
+        "recipes": [
+          {
+            "type": 0,
+            "name": "Iogurte com baixo teor de gordura ou leite desnatado com frutas silvestres"
+          },
+          {
+            "type": 0,
+            "name": "1 biscoito (de preferência, com baixo teor de açúcar ou sem açúcar)"
+          }
+        ]
+      },
+      {
+        "name": "午",
+        "recipes": [
+          {
+            "type": 0,
+            "name": "Cereais com leite desnatado (aveia, pedaços de trigo, cevada ou polenta)"
+          },
+          {
+            "type": 0,
+            "name": "Feijões cozidos ou assados (soja, lentilha, feijão preto, feijão vermelho etc.)"
+          }
+        ]
+      },
+      {
+        "name": "晚",
+        "recipes": [
+          {
+            "type": 0,
+            "name": "Qualquer sopa de legumes sem adição de sal"
+          },
+          {
+            "type": 1,
+            "name": "Salada de frango (peito de frango, grelhado ou cozido, com algumas frutas ou legumes)"
+          },
+          {
+            "type": 2,
+            "name": "Salada de legumes (cenouras, tomates, pimentões-doces, pepinos etc.)"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "day": "17",
+    "meals": [
+      {
+        "name": "早",
+        "recipes": [
+          {
+            "type": 0,
+            "name": "1 xícara chá ou café preto sem açúcar e leite "
+          },
+          {
+            "type": 0,
+            "name": "Omelete feito com três ovos inteiros e alguns legumes"
+          }
+        ]
+      },
+      {
+        "name": "甜",
+        "recipes": [
+          {
+            "type": 0,
+            "name": "Homus ou purê de batata"
+          },
+          {
+            "type": 0,
+            "name": "1 biscoito (de preferência, com baixo teor de açúcar ou sem açúcar)"
+          }
+        ]
+      },
+      {
+        "name": "午",
+        "recipes": [
+          {
+            "type": 0,
+            "name": "Arroz integral cozido no vapor ou macarrão cozido "
+          },
+          {
+            "type": 0,
+            "name": "Legumes cozidos (aspargos, brócolis, couve-flor, abobrinha, espinafre ou ervilhas) "
+          }
+        ]
+      },
+      {
+        "name": "晚",
+        "recipes": [
+          {
+            "type": 0,
+            "name": "Salada de frutas (maçã, pera, laranja, toranja, abacaxi etc.) "
+          },
+          {
+            "type": 1,
+            "name": "Qualquer carne magra grelhada ou cozida (bife, peito de frango, cordeiro, fraldinha etc.) "
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "day": "18",
+    "meals": [
+      {
+        "name": "早",
+        "recipes": [
+          {
+            "type": 0,
+            "name": "1 xícara chá ou café preto sem açúcar e leite "
+          },
+          {
+            "type": 0,
+            "name": "Cereais com leite desnatado (aveia, pedaços de trigo, cevada ou polenta)"
+          }
+        ]
+      },
+      {
+        "name": "甜",
+        "recipes": [
+          {
+            "type": 0,
+            "name": "Alguns grãos cozidos"
+          },
+          {
+            "type": 0,
+            "name": "Nozes ou castanhas sem sal "
+          }
+        ]
+      },
+      {
+        "name": "午",
+        "recipes": [
+          {
+            "type": 0,
+            "name": "Mingau de aveia"
+          },
+          {
+            "type": 0,
+            "name": "Alguns mirtilos, morangos, framboesas ou amoras"
+          }
+        ]
+      },
+      {
+        "name": "晚",
+        "recipes": [
+          {
+            "type": 0,
+            "name": "Salada de legumes (cenouras, tomates, pimentões-doces, pepinos etc.)"
+          },
+          {
+            "type": 1,
+            "name": "Qualquer peixe ou fruto do mar grelhado ou cozido (lula, siri, camarão)"
+          },
+          {
+            "type": 2,
+            "name": "Legumes cozidos (aspargos, brócolis, couve-flor, abobrinha, espinafre ou ervilhas) "
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "day": "19",
+    "meals": [
+      {
+        "name": "早",
+        "recipes": [
+          {
+            "type": 0,
+            "name": "1 xícara chá ou café preto sem açúcar e leite "
+          },
+          {
+            "type": 0,
+            "name": "Milho cozido com legumes de sua preferência"
+          }
+        ]
+      },
+      {
+        "name": "甜",
+        "recipes": [
+          {
+            "type": 0,
+            "name": "Iogurte (de preferência, com baixo teor de gordura ou açúcar)"
+          },
+          {
+            "type": 0,
+            "name": "1 fatia de queijo (de preferência, com sal ou baixo teor de gordura)"
+          }
+        ]
+      },
+      {
+        "name": "午",
+        "recipes": [
+          {
+            "type": 0,
+            "name": "Omelete feito com três ovos inteiros e alguns legumes"
+          },
+          {
+            "type": 1,
+            "name": "Qualquer carne magra grelhada ou cozida (bife, peito de frango, cordeiro, fraldinha etc.) "
+          },
+          {
+            "type": 2,
+            "name": "Salada de frutas (maçã, pera, laranja, toranja, abacaxi etc.) "
+          }
+        ]
+      },
+      {
+        "name": "晚",
+        "recipes": [
+          {
+            "type": 0,
+            "name": "Legumes cozidos (aspargos, brócolis, couve-flor, abobrinha, espinafre ou ervilhas) "
+          },
+          {
+            "type": 0,
+            "name": "Iogurte com baixo teor de gordura ou leite desnatado com frutas silvestres"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "day": "20",
+    "meals": [
+      {
+        "name": "早",
+        "recipes": [
+          {
+            "type": 0,
+            "name": "1 xícara de chá ou chocolate quente sem açúcar e leite "
+          },
+          {
+            "type": 0,
+            "name": "2 ovos mexidos (sem manteiga ou óleo)"
+          },
+          {
+            "type": 0,
+            "name": "Cereais com leite desnatado (aveia, pedaços de trigo, cevada ou polenta)"
+          }
+        ]
+      },
+      {
+        "name": "甜",
+        "recipes": [
+          {
+            "type": 0,
+            "name": "Homus ou purê de batata"
+          }
+        ]
+      },
+      {
+        "name": "午",
+        "recipes": [
+          {
+            "type": 0,
+            "name": "Mingau de aveia"
+          },
+          {
+            "type": 0,
+            "name": "1 biscoito (de preferência, com baixo teor de açúcar ou sem açúcar)"
+          }
+        ]
+      },
+      {
+        "name": "晚",
+        "recipes": [
+          {
+            "type": 0,
+            "name": "3 batatas assadas ou cozidas"
+          },
+          {
+            "type": 1,
+            "name": "Salada de frango (peito de frango, grelhado ou cozido, com algumas frutas ou legumes)"
+          },
+          {
+            "type": 2,
+            "name": "Salada de legumes (cenouras, tomates, pimentões-doces, pepinos etc.)"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "day": "21",
+    "meals": [
+      {
+        "name": "早",
+        "recipes": [
+          {
+            "type": 0,
+            "name": "1 xícara chá ou café preto sem açúcar e leite "
+          },
+          {
+            "type": 0,
+            "name": "Milho cozido com legumes de sua preferência"
+          }
+        ]
+      },
+      {
+        "name": "甜",
+        "recipes": [
+          {
+            "type": 0,
+            "name": "Homus ou purê de batata"
+          }
+        ]
+      },
+      {
+        "name": "午",
+        "recipes": [
+          {
+            "type": 0,
+            "name": "2 fatias de torrada integral com legumes (cebola, tomate, alface etc.)"
+          },
+          {
+            "type": 0,
+            "name": "Salada de frutas (maçã, pera, laranja, toranja, abacaxi etc.) "
+          }
+        ]
+      },
+      {
+        "name": "晚",
+        "recipes": [
+          {
+            "type": 0,
+            "name": "Iogurte com baixo teor de gordura ou leite desnatado com frutas silvestres"
+          },
+          {
+            "type": 1,
+            "name": "Qualquer peixe ou fruto do mar grelhado ou cozido (lula, siri, camarão)"
+          },
+          {
+            "type": 2,
+            "name": "Legumes cozidos (aspargos, brócolis, couve-flor, abobrinha, espinafre ou ervilhas) "
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "day": "22",
+    "meals": [
+      {
+        "name": "早",
+        "recipes": [
+          {
+            "type": 0,
+            "name": "1 xícara de chá ou chocolate quente sem açúcar e leite "
+          },
+          {
+            "type": 0,
+            "name": "Mingau de aveia"
+          }
+        ]
+      },
+      {
+        "name": "甜",
+        "recipes": [
+          {
+            "type": 0,
+            "name": "Nozes ou castanhas sem sal "
+          }
+        ]
+      },
+      {
+        "name": "午",
+        "recipes": [
+          {
+            "type": 0,
+            "name": "Cereais com leite desnatado (aveia, pedaços de trigo, cevada ou polenta)"
+          },
+          {
+            "type": 1,
+            "name": "Salada de frango (peito de frango, grelhado ou cozido, com algumas frutas ou legumes)"
+          },
+          {
+            "type": 2,
+            "name": "Salada de legumes (cenouras, tomates, pimentões-doces, pepinos etc.)"
+          }
+        ]
+      },
+      {
+        "name": "晚",
+        "recipes": [
+          {
+            "type": 0,
+            "name": "1 toranja ou laranja"
+          },
+          {
+            "type": 0,
+            "name": "Salada de legumes (cenouras, tomates, pimentões-doces, pepinos etc.)"
+          },
+          {
+            "type": 0,
+            "name": "Iogurte (de preferência, com baixo teor de gordura ou açúcar)"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "day": "23",
+    "meals": [
+      {
+        "name": "早",
+        "recipes": [
+          {
+            "type": 0,
+            "name": "1 xícara chá ou café preto sem açúcar e leite "
+          },
+          {
+            "type": 0,
+            "name": "2 ovos mexidos (sem manteiga ou óleo)"
+          },
+          {
+            "type": 0,
+            "name": "1 fatia de pão ou torrada integral"
+          }
+        ]
+      },
+      {
+        "name": "甜",
+        "recipes": [
+          {
+            "type": 0,
+            "name": "1 biscoito (de preferência, com baixo teor de açúcar ou sem açúcar)"
+          }
+        ]
+      },
+      {
+        "name": "午",
+        "recipes": [
+          {
+            "type": 0,
+            "name": "Milho cozido com legumes de sua preferência"
+          },
+          {
+            "type": 0,
+            "name": "Alguns mirtilos, morangos, framboesas ou amoras"
+          }
+        ]
+      },
+      {
+        "name": "晚",
+        "recipes": [
+          {
+            "type": 0,
+            "name": "Alguns grãos cozidos"
+          },
+          {
+            "type": 1,
+            "name": "Qualquer peixe ou fruto do mar grelhado ou cozido (lula, siri, camarão)"
+          },
+          {
+            "type": 2,
+            "name": "Legumes cozidos (aspargos, brócolis, couve-flor, abobrinha, espinafre ou ervilhas) "
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "day": "24",
+    "meals": [
+      {
+        "name": "早",
+        "recipes": [
+          {
+            "type": 0,
+            "name": "1 xícara chá ou café preto sem açúcar e leite "
+          },
+          {
+            "type": 0,
+            "name": "Cereais com leite desnatado (aveia, pedaços de trigo, cevada ou polenta)"
+          },
+          {
+            "type": 0,
+            "name": "1 toranja ou laranja"
+          }
+        ]
+      },
+      {
+        "name": "甜",
+        "recipes": [
+          {
+            "type": 0,
+            "name": "Iogurte (de preferência, com baixo teor de gordura ou açúcar)"
+          },
+          {
+            "type": 0,
+            "name": "1 fatia de queijo (de preferência, com sal ou baixo teor de gordura)"
+          }
+        ]
+      },
+      {
+        "name": "午",
+        "recipes": [
+          {
+            "type": 0,
+            "name": "Arroz integral cozido no vapor ou macarrão cozido "
+          },
+          {
+            "type": 0,
+            "name": "2 fatias de torrada integral com legumes (cebola, tomate, alface etc.)"
+          }
+        ]
+      },
+      {
+        "name": "晚",
+        "recipes": [
+          {
+            "type": 0,
+            "name": "Salada de frutas (maçã, pera, laranja, toranja, abacaxi etc.) "
+          },
+          {
+            "type": 0,
+            "name": "Legumes cozidos (aspargos, brócolis, couve-flor, abobrinha, espinafre ou ervilhas) "
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "day": "25",
+    "meals": [
+      {
+        "name": "早",
+        "recipes": [
+          {
+            "type": 0,
+            "name": "1 xícara chá ou café preto sem açúcar e leite "
+          },
+          {
+            "type": 0,
+            "name": "Cereais com leite desnatado (aveia, pedaços de trigo, cevada ou polenta)"
+          }
+        ]
+      },
+      {
+        "name": "甜",
+        "recipes": [
+          {
+            "type": 0,
+            "name": "Nozes ou castanhas sem sal "
+          }
+        ]
+      },
+      {
+        "name": "午",
+        "recipes": [
+          {
+            "type": 0,
+            "name": "1 toranja ou laranja"
+          },
+          {
+            "type": 0,
+            "name": "Legumes cozidos (aspargos, brócolis, couve-flor, abobrinha, espinafre ou ervilhas) "
+          }
+        ]
+      },
+      {
+        "name": "晚",
+        "recipes": [
+          {
+            "type": 0,
+            "name": "Batida ou iogurte com baixo teor de gordura"
+          },
+          {
+            "type": 1,
+            "name": "Qualquer carne magra grelhada ou cozida (bife, peito de frango, cordeiro, fraldinha etc.) "
+          },
+          {
+            "type": 2,
+            "name": "Salada de frutas (maçã, pera, laranja, toranja, abacaxi etc.) "
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "day": "26",
+    "meals": [
+      {
+        "name": "早",
+        "recipes": [
+          {
+            "type": 0,
+            "name": "1 xícara chá ou café preto sem açúcar e leite "
+          },
+          {
+            "type": 0,
+            "name": "Omelete feito com três ovos inteiros e alguns legumes"
+          }
+        ]
+      },
+      {
+        "name": "甜",
+        "recipes": [
+          {
+            "type": 0,
+            "name": "1 biscoito (de preferência, com baixo teor de açúcar ou sem açúcar)"
+          }
+        ]
+      },
+      {
+        "name": "午",
+        "recipes": [
+          {
+            "type": 0,
+            "name": "Arroz integral cozido no vapor ou macarrão cozido "
+          },
+          {
+            "type": 0,
+            "name": "3 batatas assadas ou cozidas"
+          }
+        ]
+      },
+      {
+        "name": "晚",
+        "recipes": [
+          {
+            "type": 0,
+            "name": "Alguns mirtilos, morangos, framboesas ou amoras"
+          },
+          {
+            "type": 1,
+            "name": "Qualquer peixe ou fruto do mar grelhado ou cozido (lula, siri, camarão)"
+          },
+          {
+            "type": 2,
+            "name": "Legumes cozidos (aspargos, brócolis, couve-flor, abobrinha, espinafre ou ervilhas) "
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "day": "27",
+    "meals": [
+      {
+        "name": "早",
+        "recipes": [
+          {
+            "type": 0,
+            "name": "1 xícara de chá ou chocolate quente sem açúcar e leite "
+          },
+          {
+            "type": 0,
+            "name": "Mingau de aveia"
+          }
+        ]
+      },
+      {
+        "name": "甜",
+        "recipes": [
+          {
+            "type": 0,
+            "name": "Iogurte com baixo teor de gordura ou leite desnatado com frutas silvestres"
+          }
+        ]
+      },
+      {
+        "name": "午",
+        "recipes": [
+          {
+            "type": 0,
+            "name": "Cereais com leite desnatado (aveia, pedaços de trigo, cevada ou polenta)"
+          },
+          {
+            "type": 1,
+            "name": "Qualquer carne magra grelhada ou cozida (bife, peito de frango, cordeiro, fraldinha etc.) "
+          },
+          {
+            "type": 2,
+            "name": "Salada de frutas (maçã, pera, laranja, toranja, abacaxi etc.) "
+          }
+        ]
+      },
+      {
+        "name": "晚",
+        "recipes": [
+          {
+            "type": 0,
+            "name": "Salada de frutas (maçã, pera, laranja, toranja, abacaxi etc.) "
+          },
+          {
+            "type": 0,
+            "name": "Feijões cozidos ou assados (soja, lentilha, feijão preto, feijão vermelho etc.)"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "day": "28",
+    "meals": [
+      {
+        "name": "早",
+        "recipes": [
+          {
+            "type": 0,
+            "name": "1 xícara de chá ou chocolate quente sem açúcar e leite "
+          },
+          {
+            "type": 0,
+            "name": "1 fatia de pão ou torrada integral"
+          }
+        ]
+      },
+      {
+        "name": "甜",
+        "recipes": [
+          {
+            "type": 0,
+            "name": "1 biscoito (de preferência, com baixo teor de açúcar ou sem açúcar)"
+          }
+        ]
+      },
+      {
+        "name": "午",
+        "recipes": [
+          {
+            "type": 0,
+            "name": "Salada de frutas (maçã, pera, laranja, toranja, abacaxi etc.) "
+          },
+          {
+            "type": 0,
+            "name": "Homus ou purê de batata"
+          }
+        ]
+      },
+      {
+        "name": "晚",
+        "recipes": [
+          {
+            "type": 0,
+            "name": "Qualquer sopa de legumes sem adição de sal"
+          },
+          {
+            "type": 1,
+            "name": "Salada de frango (peito de frango, grelhado ou cozido, com algumas frutas ou legumes)"
+          },
+          {
+            "type": 2,
+            "name": "Salada de legumes (cenouras, tomates, pimentões-doces, pepinos etc.)"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "day": "29",
+    "meals": [
+      {
+        "name": "早",
+        "recipes": [
+          {
+            "type": 0,
+            "name": "1 xícara chá ou café preto sem açúcar e leite "
+          },
+          {
+            "type": 0,
+            "name": "Omelete feito com três ovos inteiros e alguns legumes"
+          }
+        ]
+      },
+      {
+        "name": "甜",
+        "recipes": [
+          {
+            "type": 0,
+            "name": "Nozes ou castanhas sem sal "
+          }
+        ]
+      },
+      {
+        "name": "午",
+        "recipes": [
+          {
+            "type": 0,
+            "name": "Arroz integral cozido no vapor ou macarrão cozido "
+          },
+          {
+            "type": 0,
+            "name": "Legumes cozidos (aspargos, brócolis, couve-flor, abobrinha, espinafre ou ervilhas) "
+          }
+        ]
+      },
+      {
+        "name": "晚",
+        "recipes": [
+          {
+            "type": 1,
+            "name": "1 porção de fruta (maçã, pera, banana, laranja, toranja, abacaxi etc.) "
+          },
+          {
+            "type": 1,
+            "name": "Qualquer carne magra grelhada ou cozida (bife, peito de frango, cordeiro, fraldinha etc.) "
+          },
+          {
+            "type": 2,
+            "name": "Salada de frutas (maçã, pera, laranja, toranja, abacaxi etc.) "
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "day": "30",
+    "meals": [
+      {
+        "name": "早",
+        "recipes": [
+          {
+            "type": 0,
+            "name": "1 xícara de chá ou chocolate quente sem açúcar e leite "
+          },
+          {
+            "type": 0,
+            "name": "2 ovos mexidos (sem manteiga ou óleo)"
+          },
+          {
+            "type": 0,
+            "name": "Cereais com leite desnatado (aveia, pedaços de trigo, cevada ou polenta)"
+          }
+        ]
+      },
+      {
+        "name": "甜",
+        "recipes": [
+          {
+            "type": 0,
+            "name": "Alguns grãos cozidos"
+          },
+          {
+            "type": 0,
+            "name": "Homus ou purê de batata"
+          }
+        ]
+      },
+      {
+        "name": "午",
+        "recipes": [
+          {
+            "type": 0,
+            "name": "Mingau de aveia"
+          },
+          {
+            "type": 0,
+            "name": "Alguns mirtilos, morangos, framboesas ou amoras"
+          }
+        ]
+      },
+      {
+        "name": "晚",
+        "recipes": [
+          {
+            "type": 0,
+            "name": "Qualquer sopa de legumes sem adição de sal"
+          },
+          {
+            "type": 1,
+            "name": "Qualquer peixe ou fruto do mar grelhado ou cozido (lula, siri, camarão)"
+          },
+          {
+            "type": 2,
+            "name": "Legumes cozidos (aspargos, brócolis, couve-flor, abobrinha, espinafre ou ervilhas) "
+          }
+        ]
+      }
+    ]
+  }
+]

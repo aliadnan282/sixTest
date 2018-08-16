@@ -1,0 +1,1780 @@
+[
+  {
+    "day": "1",
+    "meals": [
+      {
+        "name": "早",
+        "recipes": [
+          {
+            "type": 0,
+            "name": "1 taza de té o café negro sin azúcar ni leche "
+          },
+          {
+            "type": 0,
+            "name": "Gachas de avena"
+          }
+        ]
+      },
+      {
+        "name": "甜",
+        "recipes": [
+          {
+            "type": 0,
+            "name": "Nueces sin sal "
+          },
+          {
+            "type": 0,
+            "name": "1 trozo de queso (mejor si es salado o bajo en grasa)"
+          }
+        ]
+      },
+      {
+        "name": "午",
+        "recipes": [
+          {
+            "type": 0,
+            "name": "2 tostadas de grano entero con verduras (cebollas, tomate, lechuga, etc.)"
+          },
+          {
+            "type": 1,
+            "name": "Cualquier carne magra a la plancha o cocida (ternera, pechuga de pollo, cordero, filete de falda, etc.) "
+          },
+          {
+            "type": 2,
+            "name": "Ensalada de frutas (manzana, pera, naranja, toronja, piña, etc.) "
+          }
+        ]
+      },
+      {
+        "name": "晚",
+        "recipes": [
+          {
+            "type": 1,
+            "name": "Ensalada de pollo (pechuga de pollo, a la plancha o cocida, con algunas frutas o verduras)"
+          },
+          {
+            "type": 2,
+            "name": "Ensalada de verduras (zanahorias, tomates, pimientos dulces, pepinos, etc.)"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "day": "2",
+    "meals": [
+      {
+        "name": "早",
+        "recipes": [
+          {
+            "type": 0,
+            "name": "1 taza de té o café negro sin azúcar ni leche "
+          },
+          {
+            "type": 0,
+            "name": "Copos de avena con leche desnatada (harina de avena, trigo partido, cebada o polenta)"
+          }
+        ]
+      },
+      {
+        "name": "甜",
+        "recipes": [
+          {
+            "type": 0,
+            "name": "1 galleta (mejor si es baja en azúcar o sin azúcar)"
+          }
+        ]
+      },
+      {
+        "name": "午",
+        "recipes": [
+          {
+            "type": 0,
+            "name": "Ensalada de verduras (zanahorias, tomates, pimientos dulces, pepinos, etc.)"
+          },
+          {
+            "type": 0,
+            "name": "Yogur (mejor si es bajo en grasa o azúcar)"
+          }
+        ]
+      },
+      {
+        "name": "晚",
+        "recipes": [
+          {
+            "type": 0,
+            "name": "Cualquier sopa de verduras sin sal añadida"
+          },
+          {
+            "type": 1,
+            "name": "Cualquier pescado o marisco a la plancha o hervido (calamares, cangrejos, langostinos)"
+          },
+          {
+            "type": 2,
+            "name": "Verduras cocidas (espárragos, brócoli, coliflor, calabacín, espinacas o guisantes) "
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "day": "3",
+    "meals": [
+      {
+        "name": "早",
+        "recipes": [
+          {
+            "type": 0,
+            "name": "1 taza de té o café negro sin azúcar ni leche "
+          },
+          {
+            "type": 0,
+            "name": "2 huevos revueltos (sin mantequilla ni aceite)"
+          },
+          {
+            "type": 0,
+            "name": "Gachas de avena"
+          }
+        ]
+      },
+      {
+        "name": "甜",
+        "recipes": [
+          {
+            "type": 0,
+            "name": "Yogur (mejor si es bajo en grasa o azúcar)"
+          },
+          {
+            "type": 0,
+            "name": "Algo de humus o puré de patatas"
+          }
+        ]
+      },
+      {
+        "name": "午",
+        "recipes": [
+          {
+            "type": 0,
+            "name": "Arroz integral al vapor o fideos cocidos "
+          },
+          {
+            "type": 0,
+            "name": "Verduras cocidas (espárragos, brócoli, coliflor, calabacín, espinacas o guisantes) "
+          }
+        ]
+      },
+      {
+        "name": "晚",
+        "recipes": [
+          {
+            "type": 0,
+            "name": "3 patatas asadas o cocidas"
+          },
+          {
+            "type": 1,
+            "name": "Cualquier carne magra a la plancha o cocida (ternera, pechuga de pollo, cordero, filete de falda, etc.) "
+          },
+          {
+            "type": 2,
+            "name": "Ensalada de frutas (manzana, pera, naranja, toronja, piña, etc.) "
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "day": "4",
+    "meals": [
+      {
+        "name": "早",
+        "recipes": [
+          {
+            "type": 0,
+            "name": "1 taza de té o café negro sin azúcar ni leche "
+          },
+          {
+            "type": 0,
+            "name": "2 tostadas de grano entero con verduras (cebollas, tomate, lechuga, etc.)"
+          }
+        ]
+      },
+      {
+        "name": "甜",
+        "recipes": [
+          {
+            "type": 0,
+            "name": "Yogur desnatado o leche con frutas del bosque"
+          }
+        ]
+      },
+      {
+        "name": "午",
+        "recipes": [
+          {
+            "type": 0,
+            "name": "Algunos arándanos, fresas, frambuesas o moras"
+          },
+          {
+            "type": 1,
+            "name": "Cualquier pescado o marisco a la plancha o hervido (calamares, cangrejos, langostinos)"
+          },
+          {
+            "type": 2,
+            "name": "Verduras cocidas (espárragos, brócoli, coliflor, calabacín, espinacas o guisantes) "
+          }
+        ]
+      },
+      {
+        "name": "晚",
+        "recipes": [
+          {
+            "type": 0,
+            "name": "Algo de maíz cocido"
+          },
+          {
+            "type": 1,
+            "name": "Ensalada de pollo (pechuga de pollo, a la plancha o cocida, con algunas frutas o verduras)"
+          },
+          {
+            "type": 2,
+            "name": "Ensalada de verduras (zanahorias, tomates, pimientos dulces, pepinos, etc.)"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "day": "5",
+    "meals": [
+      {
+        "name": "早",
+        "recipes": [
+          {
+            "type": 0,
+            "name": "1 taza de té o chocolate caliente sin azúcar ni leche "
+          },
+          {
+            "type": 0,
+            "name": "2 huevos revueltos (sin mantequilla ni aceite)"
+          },
+          {
+            "type": 0,
+            "name": "1 trozo de pan o tostada de grano entero"
+          }
+        ]
+      },
+      {
+        "name": "甜",
+        "recipes": [
+          {
+            "type": 0,
+            "name": "Nueces sin sal "
+          }
+        ]
+      },
+      {
+        "name": "午",
+        "recipes": [
+          {
+            "type": 0,
+            "name": "1 toronja o naranja"
+          },
+          {
+            "type": 0,
+            "name": "Legumbres cocidas o asadas (soja, lentejas, judías negras, habichuelas rojas, etc)"
+          }
+        ]
+      },
+      {
+        "name": "晚",
+        "recipes": [
+          {
+            "type": 0,
+            "name": "Smoothie o yogur bajo en grasa"
+          },
+          {
+            "type": 0,
+            "name": "Yogur desnatado o leche con frutas del bosque"
+          },
+          {
+            "type": 1,
+            "name": "Cualquier carne magra a la plancha o cocida (ternera, pechuga de pollo, cordero, filete de falda, etc.) "
+          },
+          {
+            "type": 2,
+            "name": "Ensalada de frutas (manzana, pera, naranja, toronja, piña, etc.) "
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "day": "6",
+    "meals": [
+      {
+        "name": "早",
+        "recipes": [
+          {
+            "type": 0,
+            "name": "1 taza de té o café negro sin azúcar ni leche "
+          },
+          {
+            "type": 0,
+            "name": "Copos de avena con leche desnatada (harina de avena, trigo partido, cebada o polenta)"
+          }
+        ]
+      },
+      {
+        "name": "甜",
+        "recipes": [
+          {
+            "type": 0,
+            "name": "Algo de humus o puré de patatas"
+          },
+          {
+            "type": 0,
+            "name": "Yogur desnatado o leche con frutas del bosque"
+          }
+        ]
+      },
+      {
+        "name": "午",
+        "recipes": [
+          {
+            "type": 0,
+            "name": "2 tostadas de grano entero con verduras (cebollas, tomate, lechuga, etc.)"
+          },
+          {
+            "type": 0,
+            "name": "Verduras cocidas (espárragos, brócoli, coliflor, calabacín, espinacas o guisantes) "
+          }
+        ]
+      },
+      {
+        "name": "晚",
+        "recipes": [
+          {
+            "type": 0,
+            "name": "Ensalada de frutas (manzana, pera, naranja, toronja, piña, etc.) "
+          },
+          {
+            "type": 1,
+            "name": "Cualquier pescado o marisco a la plancha o hervido (calamares, cangrejos, langostinos)"
+          },
+          {
+            "type": 2,
+            "name": "Verduras cocidas (espárragos, brócoli, coliflor, calabacín, espinacas o guisantes) "
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "day": "7",
+    "meals": [
+      {
+        "name": "早",
+        "recipes": [
+          {
+            "type": 0,
+            "name": "1 taza de té o café negro sin azúcar ni leche "
+          },
+          {
+            "type": 0,
+            "name": "Maíz preparado o cocido con verduras que te gustan"
+          }
+        ]
+      },
+      {
+        "name": "甜",
+        "recipes": [
+          {
+            "type": 0,
+            "name": "1 galleta (mejor si es baja en azúcar o sin azúcar)"
+          }
+        ]
+      },
+      {
+        "name": "午",
+        "recipes": [
+          {
+            "type": 0,
+            "name": "Tortilla de tres huevos enteros y algunas verduras"
+          },
+          {
+            "type": 0,
+            "name": "Yogur (mejor si es bajo en grasa o azúcar)"
+          }
+        ]
+      },
+      {
+        "name": "晚",
+        "recipes": [
+          {
+            "type": 0,
+            "name": "Ensalada de verduras (zanahorias, tomates, pimientos dulces, pepinos, etc.)"
+          },
+          {
+            "type": 1,
+            "name": "Cualquier carne magra a la plancha o cocida (ternera, pechuga de pollo, cordero, filete de falda, etc.) "
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "day": "8",
+    "meals": [
+      {
+        "name": "早",
+        "recipes": [
+          {
+            "type": 0,
+            "name": "1 taza de té o café negro sin azúcar ni leche "
+          },
+          {
+            "type": 0,
+            "name": "2 tostadas de grano entero con verduras (cebollas, tomate, lechuga, etc.)"
+          }
+        ]
+      },
+      {
+        "name": "甜",
+        "recipes": [
+          {
+            "type": 0,
+            "name": "Yogur desnatado o leche con frutas del bosque"
+          },
+          {
+            "type": 0,
+            "name": "1 trozo de queso (mejor si es salado o bajo en grasa)"
+          }
+        ]
+      },
+      {
+        "name": "午",
+        "recipes": [
+          {
+            "type": 0,
+            "name": "Arroz integral al vapor o fideos cocidos "
+          },
+          {
+            "type": 0,
+            "name": "3 patatas asadas o cocidas"
+          }
+        ]
+      },
+      {
+        "name": "晚",
+        "recipes": [
+          {
+            "type": 0,
+            "name": "Cualquier sopa de verduras sin sal añadida"
+          },
+          {
+            "type": 0,
+            "name": "Legumbres cocidas o asadas (soja, lentejas, judías negras, habichuelas rojas, etc)"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "day": "9",
+    "meals": [
+      {
+        "name": "早",
+        "recipes": [
+          {
+            "type": 0,
+            "name": "1 taza de té o café negro sin azúcar ni leche "
+          },
+          {
+            "type": 0,
+            "name": "Gachas de avena"
+          }
+        ]
+      },
+      {
+        "name": "甜",
+        "recipes": [
+          {
+            "type": 0,
+            "name": "1 galleta (mejor si es baja en azúcar o sin azúcar)"
+          }
+        ]
+      },
+      {
+        "name": "午",
+        "recipes": [
+          {
+            "type": 0,
+            "name": "Ensalada de verduras (zanahorias, tomates, pimientos dulces, pepinos, etc.)"
+          },
+          {
+            "type": 1,
+            "name": "Cualquier carne magra a la plancha o cocida (ternera, pechuga de pollo, cordero, filete de falda, etc.) "
+          }
+        ]
+      },
+      {
+        "name": "晚",
+        "recipes": [
+          {
+            "type": 1,
+            "name": "Ensalada de pollo (pechuga de pollo, a la plancha o cocida, con algunas frutas o verduras)"
+          },
+          {
+            "type": 2,
+            "name": "Ensalada de verduras (zanahorias, tomates, pimientos dulces, pepinos, etc.)"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "day": "10",
+    "meals": [
+      {
+        "name": "早",
+        "recipes": [
+          {
+            "type": 0,
+            "name": "1 taza de té o chocolate caliente sin azúcar ni leche "
+          },
+          {
+            "type": 0,
+            "name": "Maíz preparado o cocido con verduras que te gustan"
+          }
+        ]
+      },
+      {
+        "name": "甜",
+        "recipes": [
+          {
+            "type": 0,
+            "name": "Algo de humus o puré de patatas"
+          }
+        ]
+      },
+      {
+        "name": "午",
+        "recipes": [
+          {
+            "type": 0,
+            "name": "Smoothie o yogur bajo en grasa"
+          },
+          {
+            "type": 0,
+            "name": "Legumbres cocidas o asadas (soja, lentejas, judías negras, habichuelas rojas, etc)"
+          }
+        ]
+      },
+      {
+        "name": "晚",
+        "recipes": [
+          {
+            "type": 0,
+            "name": "1 ración de fruta (manzana, pera, plátano, naranja, toronja, piña, etc.) "
+          },
+          {
+            "type": 1,
+            "name": "Cualquier pescado o marisco a la plancha o hervido (calamares, cangrejos, langostinos)"
+          },
+          {
+            "type": 2,
+            "name": "Verduras cocidas (espárragos, brócoli, coliflor, calabacín, espinacas o guisantes) "
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "day": "11",
+    "meals": [
+      {
+        "name": "早",
+        "recipes": [
+          {
+            "type": 0,
+            "name": "1 taza de té o café negro sin azúcar ni leche "
+          },
+          {
+            "type": 0,
+            "name": "2 huevos revueltos (sin mantequilla ni aceite)"
+          },
+          {
+            "type": 0,
+            "name": "2 tostadas de grano entero con verduras (cebollas, tomate, lechuga, etc.)"
+          }
+        ]
+      },
+      {
+        "name": "甜",
+        "recipes": [
+          {
+            "type": 0,
+            "name": "Yogur (mejor si es bajo en grasa o azúcar)"
+          }
+        ]
+      },
+      {
+        "name": "午",
+        "recipes": [
+          {
+            "type": 0,
+            "name": "Algunos arándanos, fresas, frambuesas o moras"
+          },
+          {
+            "type": 0,
+            "name": "Verduras cocidas (espárragos, brócoli, coliflor, calabacín, espinacas o guisantes) "
+          }
+        ]
+      },
+      {
+        "name": "晚",
+        "recipes": [
+          {
+            "type": 0,
+            "name": "1 galleta (mejor si es baja en azúcar o sin azúcar)"
+          },
+          {
+            "type": 1,
+            "name": "Cualquier carne magra a la plancha o cocida (ternera, pechuga de pollo, cordero, filete de falda, etc.) "
+          },
+          {
+            "type": 2,
+            "name": "Ensalada de frutas (manzana, pera, naranja, toronja, piña, etc.) "
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "day": "12",
+    "meals": [
+      {
+        "name": "早",
+        "recipes": [
+          {
+            "type": 0,
+            "name": "1 taza de té o café negro sin azúcar ni leche "
+          },
+          {
+            "type": 0,
+            "name": "2 huevos revueltos (sin mantequilla ni aceite)"
+          },
+          {
+            "type": 0,
+            "name": "Copos de avena con leche desnatada (harina de avena, trigo partido, cebada o polenta)"
+          }
+        ]
+      },
+      {
+        "name": "甜",
+        "recipes": [
+          {
+            "type": 0,
+            "name": "Nueces sin sal "
+          }
+        ]
+      },
+      {
+        "name": "午",
+        "recipes": [
+          {
+            "type": 0,
+            "name": "Arroz integral al vapor o fideos cocidos "
+          },
+          {
+            "type": 0,
+            "name": "Cualquier sopa de verduras sin sal añadida"
+          }
+        ]
+      },
+      {
+        "name": "晚",
+        "recipes": [
+          {
+            "type": 0,
+            "name": "1 toronja o naranja"
+          },
+          {
+            "type": 1,
+            "name": "Ensalada de pollo (pechuga de pollo, a la plancha o cocida, con algunas frutas o verduras)"
+          },
+          {
+            "type": 2,
+            "name": "Ensalada de verduras (zanahorias, tomates, pimientos dulces, pepinos, etc.)"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "day": "13",
+    "meals": [
+      {
+        "name": "早",
+        "recipes": [
+          {
+            "type": 0,
+            "name": "1 taza de té o café negro sin azúcar ni leche "
+          },
+          {
+            "type": 0,
+            "name": "Tortilla de tres huevos enteros y algunas verduras"
+          }
+        ]
+      },
+      {
+        "name": "甜",
+        "recipes": [
+          {
+            "type": 0,
+            "name": "1 galleta (mejor si es baja en azúcar o sin azúcar)"
+          }
+        ]
+      },
+      {
+        "name": "午",
+        "recipes": [
+          {
+            "type": 0,
+            "name": "Smoothie o yogur bajo en grasa"
+          },
+          {
+            "type": 0,
+            "name": "Verduras cocidas (espárragos, brócoli, coliflor, calabacín, espinacas o guisantes) "
+          }
+        ]
+      },
+      {
+        "name": "晚",
+        "recipes": [
+          {
+            "type": 0,
+            "name": "Cualquier sopa de verduras sin sal añadida"
+          },
+          {
+            "type": 1,
+            "name": "Cualquier pescado o marisco a la plancha o hervido (calamares, cangrejos, langostinos)"
+          },
+          {
+            "type": 2,
+            "name": "Verduras cocidas (espárragos, brócoli, coliflor, calabacín, espinacas o guisantes) "
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "day": "14",
+    "meals": [
+      {
+        "name": "早",
+        "recipes": [
+          {
+            "type": 0,
+            "name": "1 taza de té o café negro sin azúcar ni leche "
+          },
+          {
+            "type": 0,
+            "name": "Copos de avena con leche desnatada (harina de avena, trigo partido, cebada o polenta)"
+          }
+        ]
+      },
+      {
+        "name": "甜",
+        "recipes": [
+          {
+            "type": 0,
+            "name": "Nueces sin sal "
+          }
+        ]
+      },
+      {
+        "name": "午",
+        "recipes": [
+          {
+            "type": 0,
+            "name": "Yogur (mejor si es bajo en grasa o azúcar)"
+          },
+          {
+            "type": 1,
+            "name": "Ensalada de pollo (pechuga de pollo, a la plancha o cocida, con algunas frutas o verduras)"
+          },
+          {
+            "type": 2,
+            "name": "Ensalada de verduras (zanahorias, tomates, pimientos dulces, pepinos, etc.)"
+          }
+        ]
+      },
+      {
+        "name": "晚",
+        "recipes": [
+          {
+            "type": 0,
+            "name": "Tortilla de tres huevos enteros y algunas verduras"
+          },
+          {
+            "type": 0,
+            "name": "3 patatas asadas o cocidas"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "day": "15",
+    "meals": [
+      {
+        "name": "早",
+        "recipes": [
+          {
+            "type": 0,
+            "name": "1 taza de té o chocolate caliente sin azúcar ni leche "
+          },
+          {
+            "type": 0,
+            "name": "Gachas de avena"
+          }
+        ]
+      },
+      {
+        "name": "甜",
+        "recipes": [
+          {
+            "type": 0,
+            "name": "1 galleta (mejor si es baja en azúcar o sin azúcar)"
+          }
+        ]
+      },
+      {
+        "name": "午",
+        "recipes": [
+          {
+            "type": 0,
+            "name": "Copos de avena con leche desnatada (harina de avena, trigo partido, cebada o polenta)"
+          },
+          {
+            "type": 0,
+            "name": "Smoothie o yogur bajo en grasa"
+          }
+        ]
+      },
+      {
+        "name": "晚",
+        "recipes": [
+          {
+            "type": 0,
+            "name": "Yogur (mejor si es bajo en grasa o azúcar)"
+          },
+          {
+            "type": 1,
+            "name": "Cualquier carne magra a la plancha o cocida (ternera, pechuga de pollo, cordero, filete de falda, etc.) "
+          },
+          {
+            "type": 2,
+            "name": "Ensalada de frutas (manzana, pera, naranja, toronja, piña, etc.) "
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "day": "16",
+    "meals": [
+      {
+        "name": "早",
+        "recipes": [
+          {
+            "type": 0,
+            "name": "1 taza de té o chocolate caliente sin azúcar ni leche "
+          },
+          {
+            "type": 0,
+            "name": "1 trozo de pan o tostada de grano entero"
+          },
+          {
+            "type": 0,
+            "name": "1 toronja o naranja"
+          }
+        ]
+      },
+      {
+        "name": "甜",
+        "recipes": [
+          {
+            "type": 0,
+            "name": "Yogur desnatado o leche con frutas del bosque"
+          },
+          {
+            "type": 0,
+            "name": "1 galleta (mejor si es baja en azúcar o sin azúcar)"
+          }
+        ]
+      },
+      {
+        "name": "午",
+        "recipes": [
+          {
+            "type": 0,
+            "name": "Copos de avena con leche desnatada (harina de avena, trigo partido, cebada o polenta)"
+          },
+          {
+            "type": 0,
+            "name": "Legumbres cocidas o asadas (soja, lentejas, judías negras, habichuelas rojas, etc)"
+          }
+        ]
+      },
+      {
+        "name": "晚",
+        "recipes": [
+          {
+            "type": 0,
+            "name": "Cualquier sopa de verduras sin sal añadida"
+          },
+          {
+            "type": 1,
+            "name": "Ensalada de pollo (pechuga de pollo, a la plancha o cocida, con algunas frutas o verduras)"
+          },
+          {
+            "type": 2,
+            "name": "Ensalada de verduras (zanahorias, tomates, pimientos dulces, pepinos, etc.)"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "day": "17",
+    "meals": [
+      {
+        "name": "早",
+        "recipes": [
+          {
+            "type": 0,
+            "name": "1 taza de té o café negro sin azúcar ni leche "
+          },
+          {
+            "type": 0,
+            "name": "Tortilla de tres huevos enteros y algunas verduras"
+          }
+        ]
+      },
+      {
+        "name": "甜",
+        "recipes": [
+          {
+            "type": 0,
+            "name": "Algo de humus o puré de patatas"
+          },
+          {
+            "type": 0,
+            "name": "1 galleta (mejor si es baja en azúcar o sin azúcar)"
+          }
+        ]
+      },
+      {
+        "name": "午",
+        "recipes": [
+          {
+            "type": 0,
+            "name": "Arroz integral al vapor o fideos cocidos "
+          },
+          {
+            "type": 0,
+            "name": "Verduras cocidas (espárragos, brócoli, coliflor, calabacín, espinacas o guisantes) "
+          }
+        ]
+      },
+      {
+        "name": "晚",
+        "recipes": [
+          {
+            "type": 0,
+            "name": "Ensalada de frutas (manzana, pera, naranja, toronja, piña, etc.) "
+          },
+          {
+            "type": 1,
+            "name": "Cualquier carne magra a la plancha o cocida (ternera, pechuga de pollo, cordero, filete de falda, etc.) "
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "day": "18",
+    "meals": [
+      {
+        "name": "早",
+        "recipes": [
+          {
+            "type": 0,
+            "name": "1 taza de té o café negro sin azúcar ni leche "
+          },
+          {
+            "type": 0,
+            "name": "Copos de avena con leche desnatada (harina de avena, trigo partido, cebada o polenta)"
+          }
+        ]
+      },
+      {
+        "name": "甜",
+        "recipes": [
+          {
+            "type": 0,
+            "name": "Algo de maíz cocido"
+          },
+          {
+            "type": 0,
+            "name": "Nueces sin sal "
+          }
+        ]
+      },
+      {
+        "name": "午",
+        "recipes": [
+          {
+            "type": 0,
+            "name": "Gachas de avena"
+          },
+          {
+            "type": 0,
+            "name": "Algunos arándanos, fresas, frambuesas o moras"
+          }
+        ]
+      },
+      {
+        "name": "晚",
+        "recipes": [
+          {
+            "type": 0,
+            "name": "Ensalada de verduras (zanahorias, tomates, pimientos dulces, pepinos, etc.)"
+          },
+          {
+            "type": 1,
+            "name": "Cualquier pescado o marisco a la plancha o hervido (calamares, cangrejos, langostinos)"
+          },
+          {
+            "type": 2,
+            "name": "Verduras cocidas (espárragos, brócoli, coliflor, calabacín, espinacas o guisantes) "
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "day": "19",
+    "meals": [
+      {
+        "name": "早",
+        "recipes": [
+          {
+            "type": 0,
+            "name": "1 taza de té o café negro sin azúcar ni leche "
+          },
+          {
+            "type": 0,
+            "name": "Maíz preparado o cocido con verduras que te gustan"
+          }
+        ]
+      },
+      {
+        "name": "甜",
+        "recipes": [
+          {
+            "type": 0,
+            "name": "Yogur (mejor si es bajo en grasa o azúcar)"
+          },
+          {
+            "type": 0,
+            "name": "1 trozo de queso (mejor si es salado o bajo en grasa)"
+          }
+        ]
+      },
+      {
+        "name": "午",
+        "recipes": [
+          {
+            "type": 0,
+            "name": "Tortilla de tres huevos enteros y algunas verduras"
+          },
+          {
+            "type": 1,
+            "name": "Cualquier carne magra a la plancha o cocida (ternera, pechuga de pollo, cordero, filete de falda, etc.) "
+          },
+          {
+            "type": 2,
+            "name": "Ensalada de frutas (manzana, pera, naranja, toronja, piña, etc.) "
+          }
+        ]
+      },
+      {
+        "name": "晚",
+        "recipes": [
+          {
+            "type": 0,
+            "name": "Verduras cocidas (espárragos, brócoli, coliflor, calabacín, espinacas o guisantes) "
+          },
+          {
+            "type": 0,
+            "name": "Yogur desnatado o leche con frutas del bosque"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "day": "20",
+    "meals": [
+      {
+        "name": "早",
+        "recipes": [
+          {
+            "type": 0,
+            "name": "1 taza de té o chocolate caliente sin azúcar ni leche "
+          },
+          {
+            "type": 0,
+            "name": "2 huevos revueltos (sin mantequilla ni aceite)"
+          },
+          {
+            "type": 0,
+            "name": "Copos de avena con leche desnatada (harina de avena, trigo partido, cebada o polenta)"
+          }
+        ]
+      },
+      {
+        "name": "甜",
+        "recipes": [
+          {
+            "type": 0,
+            "name": "Algo de humus o puré de patatas"
+          }
+        ]
+      },
+      {
+        "name": "午",
+        "recipes": [
+          {
+            "type": 0,
+            "name": "Gachas de avena"
+          },
+          {
+            "type": 0,
+            "name": "1 galleta (mejor si es baja en azúcar o sin azúcar)"
+          }
+        ]
+      },
+      {
+        "name": "晚",
+        "recipes": [
+          {
+            "type": 0,
+            "name": "3 patatas asadas o cocidas"
+          },
+          {
+            "type": 1,
+            "name": "Ensalada de pollo (pechuga de pollo, a la plancha o cocida, con algunas frutas o verduras)"
+          },
+          {
+            "type": 2,
+            "name": "Ensalada de verduras (zanahorias, tomates, pimientos dulces, pepinos, etc.)"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "day": "21",
+    "meals": [
+      {
+        "name": "早",
+        "recipes": [
+          {
+            "type": 0,
+            "name": "1 taza de té o café negro sin azúcar ni leche "
+          },
+          {
+            "type": 0,
+            "name": "Maíz preparado o cocido con verduras que te gustan"
+          }
+        ]
+      },
+      {
+        "name": "甜",
+        "recipes": [
+          {
+            "type": 0,
+            "name": "Algo de humus o puré de patatas"
+          }
+        ]
+      },
+      {
+        "name": "午",
+        "recipes": [
+          {
+            "type": 0,
+            "name": "2 tostadas de grano entero con verduras (cebollas, tomate, lechuga, etc.)"
+          },
+          {
+            "type": 0,
+            "name": "Ensalada de frutas (manzana, pera, naranja, toronja, piña, etc.) "
+          }
+        ]
+      },
+      {
+        "name": "晚",
+        "recipes": [
+          {
+            "type": 0,
+            "name": "Yogur desnatado o leche con frutas del bosque"
+          },
+          {
+            "type": 1,
+            "name": "Cualquier pescado o marisco a la plancha o hervido (calamares, cangrejos, langostinos)"
+          },
+          {
+            "type": 2,
+            "name": "Verduras cocidas (espárragos, brócoli, coliflor, calabacín, espinacas o guisantes) "
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "day": "22",
+    "meals": [
+      {
+        "name": "早",
+        "recipes": [
+          {
+            "type": 0,
+            "name": "1 taza de té o chocolate caliente sin azúcar ni leche "
+          },
+          {
+            "type": 0,
+            "name": "Gachas de avena"
+          }
+        ]
+      },
+      {
+        "name": "甜",
+        "recipes": [
+          {
+            "type": 0,
+            "name": "Nueces sin sal "
+          }
+        ]
+      },
+      {
+        "name": "午",
+        "recipes": [
+          {
+            "type": 0,
+            "name": "Copos de avena con leche desnatada (harina de avena, trigo partido, cebada o polenta)"
+          },
+          {
+            "type": 1,
+            "name": "Ensalada de pollo (pechuga de pollo, a la plancha o cocida, con algunas frutas o verduras)"
+          },
+          {
+            "type": 2,
+            "name": "Ensalada de verduras (zanahorias, tomates, pimientos dulces, pepinos, etc.)"
+          }
+        ]
+      },
+      {
+        "name": "晚",
+        "recipes": [
+          {
+            "type": 0,
+            "name": "1 toronja o naranja"
+          },
+          {
+            "type": 0,
+            "name": "Ensalada de verduras (zanahorias, tomates, pimientos dulces, pepinos, etc.)"
+          },
+          {
+            "type": 0,
+            "name": "Yogur (mejor si es bajo en grasa o azúcar)"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "day": "23",
+    "meals": [
+      {
+        "name": "早",
+        "recipes": [
+          {
+            "type": 0,
+            "name": "1 taza de té o café negro sin azúcar ni leche "
+          },
+          {
+            "type": 0,
+            "name": "2 huevos revueltos (sin mantequilla ni aceite)"
+          },
+          {
+            "type": 0,
+            "name": "1 trozo de pan o tostada de grano entero"
+          }
+        ]
+      },
+      {
+        "name": "甜",
+        "recipes": [
+          {
+            "type": 0,
+            "name": "1 galleta (mejor si es baja en azúcar o sin azúcar)"
+          }
+        ]
+      },
+      {
+        "name": "午",
+        "recipes": [
+          {
+            "type": 0,
+            "name": "Maíz preparado o cocido con verduras que te gustan"
+          },
+          {
+            "type": 0,
+            "name": "Algunos arándanos, fresas, frambuesas o moras"
+          }
+        ]
+      },
+      {
+        "name": "晚",
+        "recipes": [
+          {
+            "type": 0,
+            "name": "Algo de maíz cocido"
+          },
+          {
+            "type": 1,
+            "name": "Cualquier pescado o marisco a la plancha o hervido (calamares, cangrejos, langostinos)"
+          },
+          {
+            "type": 2,
+            "name": "Verduras cocidas (espárragos, brócoli, coliflor, calabacín, espinacas o guisantes) "
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "day": "24",
+    "meals": [
+      {
+        "name": "早",
+        "recipes": [
+          {
+            "type": 0,
+            "name": "1 taza de té o café negro sin azúcar ni leche "
+          },
+          {
+            "type": 0,
+            "name": "Copos de avena con leche desnatada (harina de avena, trigo partido, cebada o polenta)"
+          },
+          {
+            "type": 0,
+            "name": "1 toronja o naranja"
+          }
+        ]
+      },
+      {
+        "name": "甜",
+        "recipes": [
+          {
+            "type": 0,
+            "name": "Yogur (mejor si es bajo en grasa o azúcar)"
+          },
+          {
+            "type": 0,
+            "name": "1 trozo de queso (mejor si es salado o bajo en grasa)"
+          }
+        ]
+      },
+      {
+        "name": "午",
+        "recipes": [
+          {
+            "type": 0,
+            "name": "Arroz integral al vapor o fideos cocidos "
+          },
+          {
+            "type": 0,
+            "name": "2 tostadas de grano entero con verduras (cebollas, tomate, lechuga, etc.)"
+          }
+        ]
+      },
+      {
+        "name": "晚",
+        "recipes": [
+          {
+            "type": 0,
+            "name": "Ensalada de frutas (manzana, pera, naranja, toronja, piña, etc.) "
+          },
+          {
+            "type": 0,
+            "name": "Verduras cocidas (espárragos, brócoli, coliflor, calabacín, espinacas o guisantes) "
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "day": "25",
+    "meals": [
+      {
+        "name": "早",
+        "recipes": [
+          {
+            "type": 0,
+            "name": "1 taza de té o café negro sin azúcar ni leche "
+          },
+          {
+            "type": 0,
+            "name": "Copos de avena con leche desnatada (harina de avena, trigo partido, cebada o polenta)"
+          }
+        ]
+      },
+      {
+        "name": "甜",
+        "recipes": [
+          {
+            "type": 0,
+            "name": "Nueces sin sal "
+          }
+        ]
+      },
+      {
+        "name": "午",
+        "recipes": [
+          {
+            "type": 0,
+            "name": "1 toronja o naranja"
+          },
+          {
+            "type": 0,
+            "name": "Verduras cocidas (espárragos, brócoli, coliflor, calabacín, espinacas o guisantes) "
+          }
+        ]
+      },
+      {
+        "name": "晚",
+        "recipes": [
+          {
+            "type": 0,
+            "name": "Smoothie o yogur bajo en grasa"
+          },
+          {
+            "type": 1,
+            "name": "Cualquier carne magra a la plancha o cocida (ternera, pechuga de pollo, cordero, filete de falda, etc.) "
+          },
+          {
+            "type": 2,
+            "name": "Ensalada de frutas (manzana, pera, naranja, toronja, piña, etc.) "
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "day": "26",
+    "meals": [
+      {
+        "name": "早",
+        "recipes": [
+          {
+            "type": 0,
+            "name": "1 taza de té o café negro sin azúcar ni leche "
+          },
+          {
+            "type": 0,
+            "name": "Tortilla de tres huevos enteros y algunas verduras"
+          }
+        ]
+      },
+      {
+        "name": "甜",
+        "recipes": [
+          {
+            "type": 0,
+            "name": "1 galleta (mejor si es baja en azúcar o sin azúcar)"
+          }
+        ]
+      },
+      {
+        "name": "午",
+        "recipes": [
+          {
+            "type": 0,
+            "name": "Arroz integral al vapor o fideos cocidos "
+          },
+          {
+            "type": 0,
+            "name": "3 patatas asadas o cocidas"
+          }
+        ]
+      },
+      {
+        "name": "晚",
+        "recipes": [
+          {
+            "type": 0,
+            "name": "Algunos arándanos, fresas, frambuesas o moras"
+          },
+          {
+            "type": 1,
+            "name": "Cualquier pescado o marisco a la plancha o hervido (calamares, cangrejos, langostinos)"
+          },
+          {
+            "type": 2,
+            "name": "Verduras cocidas (espárragos, brócoli, coliflor, calabacín, espinacas o guisantes) "
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "day": "27",
+    "meals": [
+      {
+        "name": "早",
+        "recipes": [
+          {
+            "type": 0,
+            "name": "1 taza de té o chocolate caliente sin azúcar ni leche "
+          },
+          {
+            "type": 0,
+            "name": "Gachas de avena"
+          }
+        ]
+      },
+      {
+        "name": "甜",
+        "recipes": [
+          {
+            "type": 0,
+            "name": "Yogur desnatado o leche con frutas del bosque"
+          }
+        ]
+      },
+      {
+        "name": "午",
+        "recipes": [
+          {
+            "type": 0,
+            "name": "Copos de avena con leche desnatada (harina de avena, trigo partido, cebada o polenta)"
+          },
+          {
+            "type": 1,
+            "name": "Cualquier carne magra a la plancha o cocida (ternera, pechuga de pollo, cordero, filete de falda, etc.) "
+          },
+          {
+            "type": 2,
+            "name": "Ensalada de frutas (manzana, pera, naranja, toronja, piña, etc.) "
+          }
+        ]
+      },
+      {
+        "name": "晚",
+        "recipes": [
+          {
+            "type": 0,
+            "name": "Ensalada de frutas (manzana, pera, naranja, toronja, piña, etc.) "
+          },
+          {
+            "type": 0,
+            "name": "Legumbres cocidas o asadas (soja, lentejas, judías negras, habichuelas rojas, etc)"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "day": "28",
+    "meals": [
+      {
+        "name": "早",
+        "recipes": [
+          {
+            "type": 0,
+            "name": "1 taza de té o chocolate caliente sin azúcar ni leche "
+          },
+          {
+            "type": 0,
+            "name": "1 trozo de pan o tostada de grano entero"
+          }
+        ]
+      },
+      {
+        "name": "甜",
+        "recipes": [
+          {
+            "type": 0,
+            "name": "1 galleta (mejor si es baja en azúcar o sin azúcar)"
+          }
+        ]
+      },
+      {
+        "name": "午",
+        "recipes": [
+          {
+            "type": 0,
+            "name": "Ensalada de frutas (manzana, pera, naranja, toronja, piña, etc.) "
+          },
+          {
+            "type": 0,
+            "name": "Algo de humus o puré de patatas"
+          }
+        ]
+      },
+      {
+        "name": "晚",
+        "recipes": [
+          {
+            "type": 0,
+            "name": "Cualquier sopa de verduras sin sal añadida"
+          },
+          {
+            "type": 1,
+            "name": "Ensalada de pollo (pechuga de pollo, a la plancha o cocida, con algunas frutas o verduras)"
+          },
+          {
+            "type": 2,
+            "name": "Ensalada de verduras (zanahorias, tomates, pimientos dulces, pepinos, etc.)"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "day": "29",
+    "meals": [
+      {
+        "name": "早",
+        "recipes": [
+          {
+            "type": 0,
+            "name": "1 taza de té o café negro sin azúcar ni leche "
+          },
+          {
+            "type": 0,
+            "name": "Tortilla de tres huevos enteros y algunas verduras"
+          }
+        ]
+      },
+      {
+        "name": "甜",
+        "recipes": [
+          {
+            "type": 0,
+            "name": "Nueces sin sal "
+          }
+        ]
+      },
+      {
+        "name": "午",
+        "recipes": [
+          {
+            "type": 0,
+            "name": "Arroz integral al vapor o fideos cocidos "
+          },
+          {
+            "type": 0,
+            "name": "Verduras cocidas (espárragos, brócoli, coliflor, calabacín, espinacas o guisantes) "
+          }
+        ]
+      },
+      {
+        "name": "晚",
+        "recipes": [
+          {
+            "type": 1,
+            "name": "1 ración de fruta (manzana, pera, plátano, naranja, toronja, piña, etc.) "
+          },
+          {
+            "type": 1,
+            "name": "Cualquier carne magra a la plancha o cocida (ternera, pechuga de pollo, cordero, filete de falda, etc.) "
+          },
+          {
+            "type": 2,
+            "name": "Ensalada de frutas (manzana, pera, naranja, toronja, piña, etc.) "
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "day": "30",
+    "meals": [
+      {
+        "name": "早",
+        "recipes": [
+          {
+            "type": 0,
+            "name": "1 taza de té o chocolate caliente sin azúcar ni leche "
+          },
+          {
+            "type": 0,
+            "name": "2 huevos revueltos (sin mantequilla ni aceite)"
+          },
+          {
+            "type": 0,
+            "name": "Copos de avena con leche desnatada (harina de avena, trigo partido, cebada o polenta)"
+          }
+        ]
+      },
+      {
+        "name": "甜",
+        "recipes": [
+          {
+            "type": 0,
+            "name": "Algo de maíz cocido"
+          },
+          {
+            "type": 0,
+            "name": "Algo de humus o puré de patatas"
+          }
+        ]
+      },
+      {
+        "name": "午",
+        "recipes": [
+          {
+            "type": 0,
+            "name": "Gachas de avena"
+          },
+          {
+            "type": 0,
+            "name": "Algunos arándanos, fresas, frambuesas o moras"
+          }
+        ]
+      },
+      {
+        "name": "晚",
+        "recipes": [
+          {
+            "type": 0,
+            "name": "Cualquier sopa de verduras sin sal añadida"
+          },
+          {
+            "type": 1,
+            "name": "Cualquier pescado o marisco a la plancha o hervido (calamares, cangrejos, langostinos)"
+          },
+          {
+            "type": 2,
+            "name": "Verduras cocidas (espárragos, brócoli, coliflor, calabacín, espinacas o guisantes) "
+          }
+        ]
+      }
+    ]
+  }
+]

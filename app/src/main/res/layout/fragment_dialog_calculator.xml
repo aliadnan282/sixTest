@@ -1,0 +1,213 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layout>
+
+    <LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        android:paddingBottom="@dimen/_10dp"
+        android:paddingLeft="@dimen/_18dp"
+        android:paddingRight="@dimen/_18dp"
+        android:paddingTop="@dimen/_25dp">
+
+        <TextView
+            android:id="@+id/weightText"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:fontFamily="sans-serif"
+            android:text="@string/calculator_weight_label"
+            android:textAppearance="@style/TextAppearance.AppCompat.Light.SearchResult.Title"
+            android:textSize="@dimen/day_text_size"
+            android:textStyle="bold" />
+
+        <LinearLayout
+            android:id="@+id/weightLayout"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:descendantFocusability="beforeDescendants"
+            android:focusableInTouchMode="true"
+            android:orientation="horizontal">
+
+
+            <EditText
+                android:id="@+id/weight"
+                style="@style/Widget.AppCompat.EditText"
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"
+                android:ems="3"
+                android:hint="0.0 kg"
+                android:gravity="center_horizontal"
+                android:imeOptions="actionDone"
+                android:inputType="numberDecimal"
+                android:maxLength="5"
+                android:textSize="@dimen/dialog_edit_text_size" />
+
+            <RadioGroup
+                android:layout_width="0dp"
+                android:layout_height="@dimen/_30dp"
+                android:layout_weight="1"
+                android:orientation="horizontal"
+                android:weightSum="2">
+
+                <RadioButton
+                    android:id="@+id/radio_kg"
+                    android:layout_width="0dp"
+                    android:layout_height="@dimen/_30dp"
+                    android:layout_gravity="center"
+                    android:layout_weight="1"
+                    android:checked="true"
+                    android:text="@string/calculator_weight_kg_label" />
+
+                <RadioButton
+                    android:id="@+id/radio_lbs"
+                    android:layout_width="0dp"
+                    android:layout_height="@dimen/_30dp"
+                    android:layout_gravity="center"
+                    android:layout_weight="1"
+                    android:text="@string/calculator_weight_pound_label" />
+            </RadioGroup>
+        </LinearLayout>
+
+        <TextView
+            android:id="@+id/tv_gender"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="@dimen/_10dp"
+            android:fontFamily="sans-serif"
+            android:text="@string/calculator_height_label"
+            android:textAppearance="@style/TextAppearance.AppCompat.Light.SearchResult.Title"
+            android:textSize="@dimen/day_text_size"
+            android:textStyle="bold" />
+
+
+        <LinearLayout
+            android:id="@+id/heightLayout"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="5dp">
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center_vertical"
+                android:text="FT:" />
+
+            <Spinner
+                android:id="@+id/spinner_feet"
+                style="@style/AppSpinner"
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:layout_weight=".5"
+                android:entries="@array/height_feet"
+                android:gravity="center" />
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center_vertical"
+                android:text="IN:" />
+
+            <Spinner
+                android:id="@+id/spinner_inches"
+                style="@style/AppSpinner"
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:layout_weight=".5"
+                android:entries="@array/height_inches"
+                android:gravity="center" />
+        </LinearLayout>
+
+        <TextView
+            android:id="@+id/genderText"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="@dimen/_10dp"
+            android:fontFamily="sans-serif"
+            android:text="@string/calculator_gender_label"
+            android:textAppearance="@style/TextAppearance.AppCompat.Light.SearchResult.Title"
+            android:textSize="@dimen/day_text_size"
+            android:textStyle="bold" />
+
+        <LinearLayout
+            android:id="@+id/genderLayout"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="5dp">
+
+            <RadioGroup
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:orientation="horizontal">
+
+                <RadioButton
+                    android:id="@+id/maleRadio"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_gravity="center"
+                    android:layout_marginLeft="10dp"
+                    android:checked="true"
+                    android:text="@string/text_male" />
+
+                <RadioButton
+                    android:id="@+id/femaleRadio"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_gravity="center"
+                    android:text="@string/text_female" />
+            </RadioGroup>
+        </LinearLayout>
+
+        <TextView
+            android:id="@+id/ageText"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="@dimen/_10dp"
+            android:fontFamily="sans-serif"
+            android:text="@string/calculator_gender_label"
+            android:textAppearance="@style/TextAppearance.AppCompat.Light.SearchResult.Title"
+            android:textSize="@dimen/day_text_size"
+            android:textStyle="bold" />
+
+        <LinearLayout
+            android:id="@+id/ageLayout"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:descendantFocusability="beforeDescendants"
+            android:focusableInTouchMode="true">
+
+
+            <EditText
+                android:id="@+id/age"
+                style="@style/Widget.AppCompat.EditText"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:ems="5"
+                android:gravity="center_horizontal"
+                android:inputType="number"
+                android:maxLength="10"
+                android:hint="10-150"
+                android:textColor="@android:color/black"
+                android:textSize="@dimen/dialog_edit_text_size" />
+
+            <TextView
+                android:id="@+id/ageText2"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center"
+                android:text="@string/calculator_age_label" />
+        </LinearLayout>
+
+
+        <android.support.v7.widget.AppCompatButton
+            android:id="@+id/dialog_btn_calculate"
+            android:layout_width="wrap_content"
+            android:layout_height="@dimen/dialog_next_button_height"
+            android:layout_gravity="center"
+            android:layout_margin="10dp"
+            android:background="@color/holo_blue_dark"
+            android:text="@string/calculate_text"
+            android:textColor="@android:color/white"
+            android:textStyle="bold" />
+    </LinearLayout>
+</layout>

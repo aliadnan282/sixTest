@@ -1,0 +1,1780 @@
+[
+  {
+    "day": "1",
+    "meals": [
+      {
+        "name": "早",
+        "recipes": [
+          {
+            "type": 0,
+            "name": "1 Tasse Tee oder schwarzen Kaffee ohne Zucker und Milch "
+          },
+          {
+            "type": 0,
+            "name": "Haferbrei"
+          }
+        ]
+      },
+      {
+        "name": "甜",
+        "recipes": [
+          {
+            "type": 0,
+            "name": "Beliebige Nüsse ohne Salz "
+          },
+          {
+            "type": 0,
+            "name": "1 Stück Käse (salzig oder mit wenig Fett ist besser)"
+          }
+        ]
+      },
+      {
+        "name": "午",
+        "recipes": [
+          {
+            "type": 0,
+            "name": "2 Scheiben Vollkorntoast mit Gemüse (Zwiebeln, Tomaten, Salat etc.)"
+          },
+          {
+            "type": 1,
+            "name": "Beliebig gegrilltes oder gekochtes, mageres Fleisch (Rindfleisch, Hühnerbrust, Lamm, Flankensteak etc.) "
+          },
+          {
+            "type": 2,
+            "name": "Obstsalat (Apfel, Birne, Orange, Grapefruit, Ananas etc.) "
+          }
+        ]
+      },
+      {
+        "name": "晚",
+        "recipes": [
+          {
+            "type": 1,
+            "name": "Hühnersalat (Hühnerbrust, gegrillt oder gekocht, mit etwas Obst oder Gemüse)"
+          },
+          {
+            "type": 2,
+            "name": "Gemüsesalat (Karotten, Tomaten, Paprika, Gurke etc.)"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "day": "2",
+    "meals": [
+      {
+        "name": "早",
+        "recipes": [
+          {
+            "type": 0,
+            "name": "1 Tasse Tee oder schwarzen Kaffee ohne Zucker und Milch "
+          },
+          {
+            "type": 0,
+            "name": "Hafer mit fettfreier Milch (Haferflocken, Weizenschrot, Gerste oder Polenta)"
+          }
+        ]
+      },
+      {
+        "name": "甜",
+        "recipes": [
+          {
+            "type": 0,
+            "name": "1 Keks (wenig Zucker oder ohne Zucker ist besser)"
+          }
+        ]
+      },
+      {
+        "name": "午",
+        "recipes": [
+          {
+            "type": 0,
+            "name": "Gemüsesalat (Karotten, Tomaten, Paprika, Gurke etc.)"
+          },
+          {
+            "type": 0,
+            "name": "Joghurt (fettarm oder mit weniger Zucker ist besser)"
+          }
+        ]
+      },
+      {
+        "name": "晚",
+        "recipes": [
+          {
+            "type": 0,
+            "name": "Beliebige Gemüsesuppe ohne Salz"
+          },
+          {
+            "type": 1,
+            "name": "Beliebig gegrillt oder gekochte Fische oder Meeresfrüchte (Tintenfisch, Krabben, Shrimps)"
+          },
+          {
+            "type": 2,
+            "name": "Gekochtes Gemüse (Spargel, Brokkoli, Blumenkohl, Zucchini, Spinat oder Erbsen) "
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "day": "3",
+    "meals": [
+      {
+        "name": "早",
+        "recipes": [
+          {
+            "type": 0,
+            "name": "1 Tasse Tee oder schwarzen Kaffee ohne Zucker und Milch "
+          },
+          {
+            "type": 0,
+            "name": "2 Rühreier (keine Butter oder Öl)"
+          },
+          {
+            "type": 0,
+            "name": "Haferbrei"
+          }
+        ]
+      },
+      {
+        "name": "甜",
+        "recipes": [
+          {
+            "type": 0,
+            "name": "Joghurt (fettarm oder mit weniger Zucker ist besser)"
+          },
+          {
+            "type": 0,
+            "name": "Etwas Hummus oder Kartoffelbrei"
+          }
+        ]
+      },
+      {
+        "name": "午",
+        "recipes": [
+          {
+            "type": 0,
+            "name": "Gedünsteter brauner Reis oder gekochte Nudeln "
+          },
+          {
+            "type": 0,
+            "name": "Gekochtes Gemüse (Spargel, Brokkoli, Blumenkohl, Zucchini, Spinat oder Erbsen) "
+          }
+        ]
+      },
+      {
+        "name": "晚",
+        "recipes": [
+          {
+            "type": 0,
+            "name": "3 gebackene oder gekochte Kartoffeln"
+          },
+          {
+            "type": 1,
+            "name": "Beliebig gegrilltes oder gekochtes, mageres Fleisch (Rindfleisch, Hühnerbrust, Lamm, Flankensteak etc.) "
+          },
+          {
+            "type": 2,
+            "name": "Obstsalat (Apfel, Birne, Orange, Grapefruit, Ananas etc.) "
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "day": "4",
+    "meals": [
+      {
+        "name": "早",
+        "recipes": [
+          {
+            "type": 0,
+            "name": "1 Tasse Tee oder schwarzen Kaffee ohne Zucker und Milch "
+          },
+          {
+            "type": 0,
+            "name": "2 Scheiben Vollkorntoast mit Gemüse (Zwiebeln, Tomaten, Salat etc.)"
+          }
+        ]
+      },
+      {
+        "name": "甜",
+        "recipes": [
+          {
+            "type": 0,
+            "name": "Joghurt oder Milch (fettfrei) mit Beeren"
+          }
+        ]
+      },
+      {
+        "name": "午",
+        "recipes": [
+          {
+            "type": 0,
+            "name": "Ein paar Heidelbeeren, Erdbeeren, Himbeeren oder Brombeeren"
+          },
+          {
+            "type": 1,
+            "name": "Beliebig gegrillt oder gekochte Fische oder Meeresfrüchte (Tintenfisch, Krabben, Shrimps)"
+          },
+          {
+            "type": 2,
+            "name": "Gekochtes Gemüse (Spargel, Brokkoli, Blumenkohl, Zucchini, Spinat oder Erbsen) "
+          }
+        ]
+      },
+      {
+        "name": "晚",
+        "recipes": [
+          {
+            "type": 0,
+            "name": "Gekochter Mais"
+          },
+          {
+            "type": 1,
+            "name": "Hühnersalat (Hühnerbrust, gegrillt oder gekocht, mit etwas Obst oder Gemüse)"
+          },
+          {
+            "type": 2,
+            "name": "Gemüsesalat (Karotten, Tomaten, Paprika, Gurke etc.)"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "day": "5",
+    "meals": [
+      {
+        "name": "早",
+        "recipes": [
+          {
+            "type": 0,
+            "name": "1 Tasse Tee oder heißen Kakao ohne Zucker und Milch "
+          },
+          {
+            "type": 0,
+            "name": "2 Rühreier (keine Butter oder Öl)"
+          },
+          {
+            "type": 0,
+            "name": "1 Scheibe Vollkornbrot oder Toast"
+          }
+        ]
+      },
+      {
+        "name": "甜",
+        "recipes": [
+          {
+            "type": 0,
+            "name": "Beliebige Nüsse ohne Salz "
+          }
+        ]
+      },
+      {
+        "name": "午",
+        "recipes": [
+          {
+            "type": 0,
+            "name": "1 Grapefruit oder Orange"
+          },
+          {
+            "type": 0,
+            "name": "Gekochte oder gebackene Bohnen (Sojabohnen, Linsen, schwarze Bohnen, rote Bohnen etc.)"
+          }
+        ]
+      },
+      {
+        "name": "晚",
+        "recipes": [
+          {
+            "type": 0,
+            "name": "Smoothie oder fettarmer Joghurt"
+          },
+          {
+            "type": 0,
+            "name": "Joghurt oder Milch (fettfrei) mit Beeren"
+          },
+          {
+            "type": 1,
+            "name": "Beliebig gegrilltes oder gekochtes, mageres Fleisch (Rindfleisch, Hühnerbrust, Lamm, Flankensteak etc.) "
+          },
+          {
+            "type": 2,
+            "name": "Obstsalat (Apfel, Birne, Orange, Grapefruit, Ananas etc.) "
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "day": "6",
+    "meals": [
+      {
+        "name": "早",
+        "recipes": [
+          {
+            "type": 0,
+            "name": "1 Tasse Tee oder schwarzen Kaffee ohne Zucker und Milch "
+          },
+          {
+            "type": 0,
+            "name": "Hafer mit fettfreier Milch (Haferflocken, Weizenschrot, Gerste oder Polenta)"
+          }
+        ]
+      },
+      {
+        "name": "甜",
+        "recipes": [
+          {
+            "type": 0,
+            "name": "Etwas Hummus oder Kartoffelbrei"
+          },
+          {
+            "type": 0,
+            "name": "Joghurt oder Milch (fettfrei) mit Beeren"
+          }
+        ]
+      },
+      {
+        "name": "午",
+        "recipes": [
+          {
+            "type": 0,
+            "name": "2 Scheiben Vollkorntoast mit Gemüse (Zwiebeln, Tomaten, Salat etc.)"
+          },
+          {
+            "type": 0,
+            "name": "Gekochtes Gemüse (Spargel, Brokkoli, Blumenkohl, Zucchini, Spinat oder Erbsen) "
+          }
+        ]
+      },
+      {
+        "name": "晚",
+        "recipes": [
+          {
+            "type": 0,
+            "name": "Obstsalat (Apfel, Birne, Orange, Grapefruit, Ananas etc.) "
+          },
+          {
+            "type": 1,
+            "name": "Beliebig gegrillt oder gekochte Fische oder Meeresfrüchte (Tintenfisch, Krabben, Shrimps)"
+          },
+          {
+            "type": 2,
+            "name": "Gekochtes Gemüse (Spargel, Brokkoli, Blumenkohl, Zucchini, Spinat oder Erbsen) "
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "day": "7",
+    "meals": [
+      {
+        "name": "早",
+        "recipes": [
+          {
+            "type": 0,
+            "name": "1 Tasse Tee oder schwarzen Kaffee ohne Zucker und Milch "
+          },
+          {
+            "type": 0,
+            "name": "Gekochtes Mais mit Gemüse Ihrer Wahl"
+          }
+        ]
+      },
+      {
+        "name": "甜",
+        "recipes": [
+          {
+            "type": 0,
+            "name": "1 Keks (wenig Zucker oder ohne Zucker ist besser)"
+          }
+        ]
+      },
+      {
+        "name": "午",
+        "recipes": [
+          {
+            "type": 0,
+            "name": "Omlett aus drei ganzen Eiern und Gemüse"
+          },
+          {
+            "type": 0,
+            "name": "Joghurt (fettarm oder mit weniger Zucker ist besser)"
+          }
+        ]
+      },
+      {
+        "name": "晚",
+        "recipes": [
+          {
+            "type": 0,
+            "name": "Gemüsesalat (Karotten, Tomaten, Paprika, Gurke etc.)"
+          },
+          {
+            "type": 1,
+            "name": "Beliebig gegrilltes oder gekochtes, mageres Fleisch (Rindfleisch, Hühnerbrust, Lamm, Flankensteak etc.) "
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "day": "8",
+    "meals": [
+      {
+        "name": "早",
+        "recipes": [
+          {
+            "type": 0,
+            "name": "1 Tasse Tee oder schwarzen Kaffee ohne Zucker und Milch "
+          },
+          {
+            "type": 0,
+            "name": "2 Scheiben Vollkorntoast mit Gemüse (Zwiebeln, Tomaten, Salat etc.)"
+          }
+        ]
+      },
+      {
+        "name": "甜",
+        "recipes": [
+          {
+            "type": 0,
+            "name": "Joghurt oder Milch (fettfrei) mit Beeren"
+          },
+          {
+            "type": 0,
+            "name": "1 Stück Käse (salzig oder mit wenig Fett ist besser)"
+          }
+        ]
+      },
+      {
+        "name": "午",
+        "recipes": [
+          {
+            "type": 0,
+            "name": "Gedünsteter brauner Reis oder gekochte Nudeln "
+          },
+          {
+            "type": 0,
+            "name": "3 gebackene oder gekochte Kartoffeln"
+          }
+        ]
+      },
+      {
+        "name": "晚",
+        "recipes": [
+          {
+            "type": 0,
+            "name": "Beliebige Gemüsesuppe ohne Salz"
+          },
+          {
+            "type": 0,
+            "name": "Gekochte oder gebackene Bohnen (Sojabohnen, Linsen, schwarze Bohnen, rote Bohnen etc.)"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "day": "9",
+    "meals": [
+      {
+        "name": "早",
+        "recipes": [
+          {
+            "type": 0,
+            "name": "1 Tasse Tee oder schwarzen Kaffee ohne Zucker und Milch "
+          },
+          {
+            "type": 0,
+            "name": "Haferbrei"
+          }
+        ]
+      },
+      {
+        "name": "甜",
+        "recipes": [
+          {
+            "type": 0,
+            "name": "1 Keks (wenig Zucker oder ohne Zucker ist besser)"
+          }
+        ]
+      },
+      {
+        "name": "午",
+        "recipes": [
+          {
+            "type": 0,
+            "name": "Gemüsesalat (Karotten, Tomaten, Paprika, Gurke etc.)"
+          },
+          {
+            "type": 1,
+            "name": "Beliebig gegrilltes oder gekochtes, mageres Fleisch (Rindfleisch, Hühnerbrust, Lamm, Flankensteak etc.) "
+          }
+        ]
+      },
+      {
+        "name": "晚",
+        "recipes": [
+          {
+            "type": 1,
+            "name": "Hühnersalat (Hühnerbrust, gegrillt oder gekocht, mit etwas Obst oder Gemüse)"
+          },
+          {
+            "type": 2,
+            "name": "Gemüsesalat (Karotten, Tomaten, Paprika, Gurke etc.)"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "day": "10",
+    "meals": [
+      {
+        "name": "早",
+        "recipes": [
+          {
+            "type": 0,
+            "name": "1 Tasse Tee oder heißen Kakao ohne Zucker und Milch "
+          },
+          {
+            "type": 0,
+            "name": "Gekochtes Mais mit Gemüse Ihrer Wahl"
+          }
+        ]
+      },
+      {
+        "name": "甜",
+        "recipes": [
+          {
+            "type": 0,
+            "name": "Etwas Hummus oder Kartoffelbrei"
+          }
+        ]
+      },
+      {
+        "name": "午",
+        "recipes": [
+          {
+            "type": 0,
+            "name": "Smoothie oder fettarmer Joghurt"
+          },
+          {
+            "type": 0,
+            "name": "Gekochte oder gebackene Bohnen (Sojabohnen, Linsen, schwarze Bohnen, rote Bohnen etc.)"
+          }
+        ]
+      },
+      {
+        "name": "晚",
+        "recipes": [
+          {
+            "type": 0,
+            "name": "1 Portion Obst (Apfel, Birne, Banane, Orange, Grapefruit, Ananas etc.) "
+          },
+          {
+            "type": 1,
+            "name": "Beliebig gegrillt oder gekochte Fische oder Meeresfrüchte (Tintenfisch, Krabben, Shrimps)"
+          },
+          {
+            "type": 2,
+            "name": "Gekochtes Gemüse (Spargel, Brokkoli, Blumenkohl, Zucchini, Spinat oder Erbsen) "
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "day": "11",
+    "meals": [
+      {
+        "name": "早",
+        "recipes": [
+          {
+            "type": 0,
+            "name": "1 Tasse Tee oder schwarzen Kaffee ohne Zucker und Milch "
+          },
+          {
+            "type": 0,
+            "name": "2 Rühreier (keine Butter oder Öl)"
+          },
+          {
+            "type": 0,
+            "name": "2 Scheiben Vollkorntoast mit Gemüse (Zwiebeln, Tomaten, Salat etc.)"
+          }
+        ]
+      },
+      {
+        "name": "甜",
+        "recipes": [
+          {
+            "type": 0,
+            "name": "Joghurt (fettarm oder mit weniger Zucker ist besser)"
+          }
+        ]
+      },
+      {
+        "name": "午",
+        "recipes": [
+          {
+            "type": 0,
+            "name": "Ein paar Heidelbeeren, Erdbeeren, Himbeeren oder Brombeeren"
+          },
+          {
+            "type": 0,
+            "name": "Gekochtes Gemüse (Spargel, Brokkoli, Blumenkohl, Zucchini, Spinat oder Erbsen) "
+          }
+        ]
+      },
+      {
+        "name": "晚",
+        "recipes": [
+          {
+            "type": 0,
+            "name": "1 Keks (wenig Zucker oder ohne Zucker ist besser)"
+          },
+          {
+            "type": 1,
+            "name": "Beliebig gegrilltes oder gekochtes, mageres Fleisch (Rindfleisch, Hühnerbrust, Lamm, Flankensteak etc.) "
+          },
+          {
+            "type": 2,
+            "name": "Obstsalat (Apfel, Birne, Orange, Grapefruit, Ananas etc.) "
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "day": "12",
+    "meals": [
+      {
+        "name": "早",
+        "recipes": [
+          {
+            "type": 0,
+            "name": "1 Tasse Tee oder schwarzen Kaffee ohne Zucker und Milch "
+          },
+          {
+            "type": 0,
+            "name": "2 Rühreier (keine Butter oder Öl)"
+          },
+          {
+            "type": 0,
+            "name": "Hafer mit fettfreier Milch (Haferflocken, Weizenschrot, Gerste oder Polenta)"
+          }
+        ]
+      },
+      {
+        "name": "甜",
+        "recipes": [
+          {
+            "type": 0,
+            "name": "Beliebige Nüsse ohne Salz "
+          }
+        ]
+      },
+      {
+        "name": "午",
+        "recipes": [
+          {
+            "type": 0,
+            "name": "Gedünsteter brauner Reis oder gekochte Nudeln "
+          },
+          {
+            "type": 0,
+            "name": "Beliebige Gemüsesuppe ohne Salz"
+          }
+        ]
+      },
+      {
+        "name": "晚",
+        "recipes": [
+          {
+            "type": 0,
+            "name": "1 Grapefruit oder Orange"
+          },
+          {
+            "type": 1,
+            "name": "Hühnersalat (Hühnerbrust, gegrillt oder gekocht, mit etwas Obst oder Gemüse)"
+          },
+          {
+            "type": 2,
+            "name": "Gemüsesalat (Karotten, Tomaten, Paprika, Gurke etc.)"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "day": "13",
+    "meals": [
+      {
+        "name": "早",
+        "recipes": [
+          {
+            "type": 0,
+            "name": "1 Tasse Tee oder schwarzen Kaffee ohne Zucker und Milch "
+          },
+          {
+            "type": 0,
+            "name": "Omlett aus drei ganzen Eiern und Gemüse"
+          }
+        ]
+      },
+      {
+        "name": "甜",
+        "recipes": [
+          {
+            "type": 0,
+            "name": "1 Keks (wenig Zucker oder ohne Zucker ist besser)"
+          }
+        ]
+      },
+      {
+        "name": "午",
+        "recipes": [
+          {
+            "type": 0,
+            "name": "Smoothie oder fettarmer Joghurt"
+          },
+          {
+            "type": 0,
+            "name": "Gekochtes Gemüse (Spargel, Brokkoli, Blumenkohl, Zucchini, Spinat oder Erbsen) "
+          }
+        ]
+      },
+      {
+        "name": "晚",
+        "recipes": [
+          {
+            "type": 0,
+            "name": "Beliebige Gemüsesuppe ohne Salz"
+          },
+          {
+            "type": 1,
+            "name": "Beliebig gegrillt oder gekochte Fische oder Meeresfrüchte (Tintenfisch, Krabben, Shrimps)"
+          },
+          {
+            "type": 2,
+            "name": "Gekochtes Gemüse (Spargel, Brokkoli, Blumenkohl, Zucchini, Spinat oder Erbsen) "
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "day": "14",
+    "meals": [
+      {
+        "name": "早",
+        "recipes": [
+          {
+            "type": 0,
+            "name": "1 Tasse Tee oder schwarzen Kaffee ohne Zucker und Milch "
+          },
+          {
+            "type": 0,
+            "name": "Hafer mit fettfreier Milch (Haferflocken, Weizenschrot, Gerste oder Polenta)"
+          }
+        ]
+      },
+      {
+        "name": "甜",
+        "recipes": [
+          {
+            "type": 0,
+            "name": "Beliebige Nüsse ohne Salz "
+          }
+        ]
+      },
+      {
+        "name": "午",
+        "recipes": [
+          {
+            "type": 0,
+            "name": "Joghurt (fettarm oder mit weniger Zucker ist besser)"
+          },
+          {
+            "type": 1,
+            "name": "Hühnersalat (Hühnerbrust, gegrillt oder gekocht, mit etwas Obst oder Gemüse)"
+          },
+          {
+            "type": 2,
+            "name": "Gemüsesalat (Karotten, Tomaten, Paprika, Gurke etc.)"
+          }
+        ]
+      },
+      {
+        "name": "晚",
+        "recipes": [
+          {
+            "type": 0,
+            "name": "Omlett aus drei ganzen Eiern und Gemüse"
+          },
+          {
+            "type": 0,
+            "name": "3 gebackene oder gekochte Kartoffeln"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "day": "15",
+    "meals": [
+      {
+        "name": "早",
+        "recipes": [
+          {
+            "type": 0,
+            "name": "1 Tasse Tee oder heißen Kakao ohne Zucker und Milch "
+          },
+          {
+            "type": 0,
+            "name": "Haferbrei"
+          }
+        ]
+      },
+      {
+        "name": "甜",
+        "recipes": [
+          {
+            "type": 0,
+            "name": "1 Keks (wenig Zucker oder ohne Zucker ist besser)"
+          }
+        ]
+      },
+      {
+        "name": "午",
+        "recipes": [
+          {
+            "type": 0,
+            "name": "Hafer mit fettfreier Milch (Haferflocken, Weizenschrot, Gerste oder Polenta)"
+          },
+          {
+            "type": 0,
+            "name": "Smoothie oder fettarmer Joghurt"
+          }
+        ]
+      },
+      {
+        "name": "晚",
+        "recipes": [
+          {
+            "type": 0,
+            "name": "Joghurt (fettarm oder mit weniger Zucker ist besser)"
+          },
+          {
+            "type": 1,
+            "name": "Beliebig gegrilltes oder gekochtes, mageres Fleisch (Rindfleisch, Hühnerbrust, Lamm, Flankensteak etc.) "
+          },
+          {
+            "type": 2,
+            "name": "Obstsalat (Apfel, Birne, Orange, Grapefruit, Ananas etc.) "
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "day": "16",
+    "meals": [
+      {
+        "name": "早",
+        "recipes": [
+          {
+            "type": 0,
+            "name": "1 Tasse Tee oder heißen Kakao ohne Zucker und Milch "
+          },
+          {
+            "type": 0,
+            "name": "1 Scheibe Vollkornbrot oder Toast"
+          },
+          {
+            "type": 0,
+            "name": "1 Grapefruit oder Orange"
+          }
+        ]
+      },
+      {
+        "name": "甜",
+        "recipes": [
+          {
+            "type": 0,
+            "name": "Joghurt oder Milch (fettfrei) mit Beeren"
+          },
+          {
+            "type": 0,
+            "name": "1 Keks (wenig Zucker oder ohne Zucker ist besser)"
+          }
+        ]
+      },
+      {
+        "name": "午",
+        "recipes": [
+          {
+            "type": 0,
+            "name": "Hafer mit fettfreier Milch (Haferflocken, Weizenschrot, Gerste oder Polenta)"
+          },
+          {
+            "type": 0,
+            "name": "Gekochte oder gebackene Bohnen (Sojabohnen, Linsen, schwarze Bohnen, rote Bohnen etc.)"
+          }
+        ]
+      },
+      {
+        "name": "晚",
+        "recipes": [
+          {
+            "type": 0,
+            "name": "Beliebige Gemüsesuppe ohne Salz"
+          },
+          {
+            "type": 1,
+            "name": "Hühnersalat (Hühnerbrust, gegrillt oder gekocht, mit etwas Obst oder Gemüse)"
+          },
+          {
+            "type": 2,
+            "name": "Gemüsesalat (Karotten, Tomaten, Paprika, Gurke etc.)"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "day": "17",
+    "meals": [
+      {
+        "name": "早",
+        "recipes": [
+          {
+            "type": 0,
+            "name": "1 Tasse Tee oder schwarzen Kaffee ohne Zucker und Milch "
+          },
+          {
+            "type": 0,
+            "name": "Omlett aus drei ganzen Eiern und Gemüse"
+          }
+        ]
+      },
+      {
+        "name": "甜",
+        "recipes": [
+          {
+            "type": 0,
+            "name": "Etwas Hummus oder Kartoffelbrei"
+          },
+          {
+            "type": 0,
+            "name": "1 Keks (wenig Zucker oder ohne Zucker ist besser)"
+          }
+        ]
+      },
+      {
+        "name": "午",
+        "recipes": [
+          {
+            "type": 0,
+            "name": "Gedünsteter brauner Reis oder gekochte Nudeln "
+          },
+          {
+            "type": 0,
+            "name": "Gekochtes Gemüse (Spargel, Brokkoli, Blumenkohl, Zucchini, Spinat oder Erbsen) "
+          }
+        ]
+      },
+      {
+        "name": "晚",
+        "recipes": [
+          {
+            "type": 0,
+            "name": "Obstsalat (Apfel, Birne, Orange, Grapefruit, Ananas etc.) "
+          },
+          {
+            "type": 1,
+            "name": "Beliebig gegrilltes oder gekochtes, mageres Fleisch (Rindfleisch, Hühnerbrust, Lamm, Flankensteak etc.) "
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "day": "18",
+    "meals": [
+      {
+        "name": "早",
+        "recipes": [
+          {
+            "type": 0,
+            "name": "1 Tasse Tee oder schwarzen Kaffee ohne Zucker und Milch "
+          },
+          {
+            "type": 0,
+            "name": "Hafer mit fettfreier Milch (Haferflocken, Weizenschrot, Gerste oder Polenta)"
+          }
+        ]
+      },
+      {
+        "name": "甜",
+        "recipes": [
+          {
+            "type": 0,
+            "name": "Gekochter Mais"
+          },
+          {
+            "type": 0,
+            "name": "Beliebige Nüsse ohne Salz "
+          }
+        ]
+      },
+      {
+        "name": "午",
+        "recipes": [
+          {
+            "type": 0,
+            "name": "Haferbrei"
+          },
+          {
+            "type": 0,
+            "name": "Ein paar Heidelbeeren, Erdbeeren, Himbeeren oder Brombeeren"
+          }
+        ]
+      },
+      {
+        "name": "晚",
+        "recipes": [
+          {
+            "type": 0,
+            "name": "Gemüsesalat (Karotten, Tomaten, Paprika, Gurke etc.)"
+          },
+          {
+            "type": 1,
+            "name": "Beliebig gegrillt oder gekochte Fische oder Meeresfrüchte (Tintenfisch, Krabben, Shrimps)"
+          },
+          {
+            "type": 2,
+            "name": "Gekochtes Gemüse (Spargel, Brokkoli, Blumenkohl, Zucchini, Spinat oder Erbsen) "
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "day": "19",
+    "meals": [
+      {
+        "name": "早",
+        "recipes": [
+          {
+            "type": 0,
+            "name": "1 Tasse Tee oder schwarzen Kaffee ohne Zucker und Milch "
+          },
+          {
+            "type": 0,
+            "name": "Gekochtes Mais mit Gemüse Ihrer Wahl"
+          }
+        ]
+      },
+      {
+        "name": "甜",
+        "recipes": [
+          {
+            "type": 0,
+            "name": "Joghurt (fettarm oder mit weniger Zucker ist besser)"
+          },
+          {
+            "type": 0,
+            "name": "1 Stück Käse (salzig oder mit wenig Fett ist besser)"
+          }
+        ]
+      },
+      {
+        "name": "午",
+        "recipes": [
+          {
+            "type": 0,
+            "name": "Omlett aus drei ganzen Eiern und Gemüse"
+          },
+          {
+            "type": 1,
+            "name": "Beliebig gegrilltes oder gekochtes, mageres Fleisch (Rindfleisch, Hühnerbrust, Lamm, Flankensteak etc.) "
+          },
+          {
+            "type": 2,
+            "name": "Obstsalat (Apfel, Birne, Orange, Grapefruit, Ananas etc.) "
+          }
+        ]
+      },
+      {
+        "name": "晚",
+        "recipes": [
+          {
+            "type": 0,
+            "name": "Gekochtes Gemüse (Spargel, Brokkoli, Blumenkohl, Zucchini, Spinat oder Erbsen) "
+          },
+          {
+            "type": 0,
+            "name": "Joghurt oder Milch (fettfrei) mit Beeren"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "day": "20",
+    "meals": [
+      {
+        "name": "早",
+        "recipes": [
+          {
+            "type": 0,
+            "name": "1 Tasse Tee oder heißen Kakao ohne Zucker und Milch "
+          },
+          {
+            "type": 0,
+            "name": "2 Rühreier (keine Butter oder Öl)"
+          },
+          {
+            "type": 0,
+            "name": "Hafer mit fettfreier Milch (Haferflocken, Weizenschrot, Gerste oder Polenta)"
+          }
+        ]
+      },
+      {
+        "name": "甜",
+        "recipes": [
+          {
+            "type": 0,
+            "name": "Etwas Hummus oder Kartoffelbrei"
+          }
+        ]
+      },
+      {
+        "name": "午",
+        "recipes": [
+          {
+            "type": 0,
+            "name": "Haferbrei"
+          },
+          {
+            "type": 0,
+            "name": "1 Keks (wenig Zucker oder ohne Zucker ist besser)"
+          }
+        ]
+      },
+      {
+        "name": "晚",
+        "recipes": [
+          {
+            "type": 0,
+            "name": "3 gebackene oder gekochte Kartoffeln"
+          },
+          {
+            "type": 1,
+            "name": "Hühnersalat (Hühnerbrust, gegrillt oder gekocht, mit etwas Obst oder Gemüse)"
+          },
+          {
+            "type": 2,
+            "name": "Gemüsesalat (Karotten, Tomaten, Paprika, Gurke etc.)"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "day": "21",
+    "meals": [
+      {
+        "name": "早",
+        "recipes": [
+          {
+            "type": 0,
+            "name": "1 Tasse Tee oder schwarzen Kaffee ohne Zucker und Milch "
+          },
+          {
+            "type": 0,
+            "name": "Gekochtes Mais mit Gemüse Ihrer Wahl"
+          }
+        ]
+      },
+      {
+        "name": "甜",
+        "recipes": [
+          {
+            "type": 0,
+            "name": "Etwas Hummus oder Kartoffelbrei"
+          }
+        ]
+      },
+      {
+        "name": "午",
+        "recipes": [
+          {
+            "type": 0,
+            "name": "2 Scheiben Vollkorntoast mit Gemüse (Zwiebeln, Tomaten, Salat etc.)"
+          },
+          {
+            "type": 0,
+            "name": "Obstsalat (Apfel, Birne, Orange, Grapefruit, Ananas etc.) "
+          }
+        ]
+      },
+      {
+        "name": "晚",
+        "recipes": [
+          {
+            "type": 0,
+            "name": "Joghurt oder Milch (fettfrei) mit Beeren"
+          },
+          {
+            "type": 1,
+            "name": "Beliebig gegrillt oder gekochte Fische oder Meeresfrüchte (Tintenfisch, Krabben, Shrimps)"
+          },
+          {
+            "type": 2,
+            "name": "Gekochtes Gemüse (Spargel, Brokkoli, Blumenkohl, Zucchini, Spinat oder Erbsen) "
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "day": "22",
+    "meals": [
+      {
+        "name": "早",
+        "recipes": [
+          {
+            "type": 0,
+            "name": "1 Tasse Tee oder heißen Kakao ohne Zucker und Milch "
+          },
+          {
+            "type": 0,
+            "name": "Haferbrei"
+          }
+        ]
+      },
+      {
+        "name": "甜",
+        "recipes": [
+          {
+            "type": 0,
+            "name": "Beliebige Nüsse ohne Salz "
+          }
+        ]
+      },
+      {
+        "name": "午",
+        "recipes": [
+          {
+            "type": 0,
+            "name": "Hafer mit fettfreier Milch (Haferflocken, Weizenschrot, Gerste oder Polenta)"
+          },
+          {
+            "type": 1,
+            "name": "Hühnersalat (Hühnerbrust, gegrillt oder gekocht, mit etwas Obst oder Gemüse)"
+          },
+          {
+            "type": 2,
+            "name": "Gemüsesalat (Karotten, Tomaten, Paprika, Gurke etc.)"
+          }
+        ]
+      },
+      {
+        "name": "晚",
+        "recipes": [
+          {
+            "type": 0,
+            "name": "1 Grapefruit oder Orange"
+          },
+          {
+            "type": 0,
+            "name": "Gemüsesalat (Karotten, Tomaten, Paprika, Gurke etc.)"
+          },
+          {
+            "type": 0,
+            "name": "Joghurt (fettarm oder mit weniger Zucker ist besser)"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "day": "23",
+    "meals": [
+      {
+        "name": "早",
+        "recipes": [
+          {
+            "type": 0,
+            "name": "1 Tasse Tee oder schwarzen Kaffee ohne Zucker und Milch "
+          },
+          {
+            "type": 0,
+            "name": "2 Rühreier (keine Butter oder Öl)"
+          },
+          {
+            "type": 0,
+            "name": "1 Scheibe Vollkornbrot oder Toast"
+          }
+        ]
+      },
+      {
+        "name": "甜",
+        "recipes": [
+          {
+            "type": 0,
+            "name": "1 Keks (wenig Zucker oder ohne Zucker ist besser)"
+          }
+        ]
+      },
+      {
+        "name": "午",
+        "recipes": [
+          {
+            "type": 0,
+            "name": "Gekochtes Mais mit Gemüse Ihrer Wahl"
+          },
+          {
+            "type": 0,
+            "name": "Ein paar Heidelbeeren, Erdbeeren, Himbeeren oder Brombeeren"
+          }
+        ]
+      },
+      {
+        "name": "晚",
+        "recipes": [
+          {
+            "type": 0,
+            "name": "Gekochter Mais"
+          },
+          {
+            "type": 1,
+            "name": "Beliebig gegrillt oder gekochte Fische oder Meeresfrüchte (Tintenfisch, Krabben, Shrimps)"
+          },
+          {
+            "type": 2,
+            "name": "Gekochtes Gemüse (Spargel, Brokkoli, Blumenkohl, Zucchini, Spinat oder Erbsen) "
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "day": "24",
+    "meals": [
+      {
+        "name": "早",
+        "recipes": [
+          {
+            "type": 0,
+            "name": "1 Tasse Tee oder schwarzen Kaffee ohne Zucker und Milch "
+          },
+          {
+            "type": 0,
+            "name": "Hafer mit fettfreier Milch (Haferflocken, Weizenschrot, Gerste oder Polenta)"
+          },
+          {
+            "type": 0,
+            "name": "1 Grapefruit oder Orange"
+          }
+        ]
+      },
+      {
+        "name": "甜",
+        "recipes": [
+          {
+            "type": 0,
+            "name": "Joghurt (fettarm oder mit weniger Zucker ist besser)"
+          },
+          {
+            "type": 0,
+            "name": "1 Stück Käse (salzig oder mit wenig Fett ist besser)"
+          }
+        ]
+      },
+      {
+        "name": "午",
+        "recipes": [
+          {
+            "type": 0,
+            "name": "Gedünsteter brauner Reis oder gekochte Nudeln "
+          },
+          {
+            "type": 0,
+            "name": "2 Scheiben Vollkorntoast mit Gemüse (Zwiebeln, Tomaten, Salat etc.)"
+          }
+        ]
+      },
+      {
+        "name": "晚",
+        "recipes": [
+          {
+            "type": 0,
+            "name": "Obstsalat (Apfel, Birne, Orange, Grapefruit, Ananas etc.) "
+          },
+          {
+            "type": 0,
+            "name": "Gekochtes Gemüse (Spargel, Brokkoli, Blumenkohl, Zucchini, Spinat oder Erbsen) "
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "day": "25",
+    "meals": [
+      {
+        "name": "早",
+        "recipes": [
+          {
+            "type": 0,
+            "name": "1 Tasse Tee oder schwarzen Kaffee ohne Zucker und Milch "
+          },
+          {
+            "type": 0,
+            "name": "Hafer mit fettfreier Milch (Haferflocken, Weizenschrot, Gerste oder Polenta)"
+          }
+        ]
+      },
+      {
+        "name": "甜",
+        "recipes": [
+          {
+            "type": 0,
+            "name": "Beliebige Nüsse ohne Salz "
+          }
+        ]
+      },
+      {
+        "name": "午",
+        "recipes": [
+          {
+            "type": 0,
+            "name": "1 Grapefruit oder Orange"
+          },
+          {
+            "type": 0,
+            "name": "Gekochtes Gemüse (Spargel, Brokkoli, Blumenkohl, Zucchini, Spinat oder Erbsen) "
+          }
+        ]
+      },
+      {
+        "name": "晚",
+        "recipes": [
+          {
+            "type": 0,
+            "name": "Smoothie oder fettarmer Joghurt"
+          },
+          {
+            "type": 1,
+            "name": "Beliebig gegrilltes oder gekochtes, mageres Fleisch (Rindfleisch, Hühnerbrust, Lamm, Flankensteak etc.) "
+          },
+          {
+            "type": 2,
+            "name": "Obstsalat (Apfel, Birne, Orange, Grapefruit, Ananas etc.) "
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "day": "26",
+    "meals": [
+      {
+        "name": "早",
+        "recipes": [
+          {
+            "type": 0,
+            "name": "1 Tasse Tee oder schwarzen Kaffee ohne Zucker und Milch "
+          },
+          {
+            "type": 0,
+            "name": "Omlett aus drei ganzen Eiern und Gemüse"
+          }
+        ]
+      },
+      {
+        "name": "甜",
+        "recipes": [
+          {
+            "type": 0,
+            "name": "1 Keks (wenig Zucker oder ohne Zucker ist besser)"
+          }
+        ]
+      },
+      {
+        "name": "午",
+        "recipes": [
+          {
+            "type": 0,
+            "name": "Gedünsteter brauner Reis oder gekochte Nudeln "
+          },
+          {
+            "type": 0,
+            "name": "3 gebackene oder gekochte Kartoffeln"
+          }
+        ]
+      },
+      {
+        "name": "晚",
+        "recipes": [
+          {
+            "type": 0,
+            "name": "Ein paar Heidelbeeren, Erdbeeren, Himbeeren oder Brombeeren"
+          },
+          {
+            "type": 1,
+            "name": "Beliebig gegrillt oder gekochte Fische oder Meeresfrüchte (Tintenfisch, Krabben, Shrimps)"
+          },
+          {
+            "type": 2,
+            "name": "Gekochtes Gemüse (Spargel, Brokkoli, Blumenkohl, Zucchini, Spinat oder Erbsen) "
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "day": "27",
+    "meals": [
+      {
+        "name": "早",
+        "recipes": [
+          {
+            "type": 0,
+            "name": "1 Tasse Tee oder heißen Kakao ohne Zucker und Milch "
+          },
+          {
+            "type": 0,
+            "name": "Haferbrei"
+          }
+        ]
+      },
+      {
+        "name": "甜",
+        "recipes": [
+          {
+            "type": 0,
+            "name": "Joghurt oder Milch (fettfrei) mit Beeren"
+          }
+        ]
+      },
+      {
+        "name": "午",
+        "recipes": [
+          {
+            "type": 0,
+            "name": "Hafer mit fettfreier Milch (Haferflocken, Weizenschrot, Gerste oder Polenta)"
+          },
+          {
+            "type": 1,
+            "name": "Beliebig gegrilltes oder gekochtes, mageres Fleisch (Rindfleisch, Hühnerbrust, Lamm, Flankensteak etc.) "
+          },
+          {
+            "type": 2,
+            "name": "Obstsalat (Apfel, Birne, Orange, Grapefruit, Ananas etc.) "
+          }
+        ]
+      },
+      {
+        "name": "晚",
+        "recipes": [
+          {
+            "type": 0,
+            "name": "Obstsalat (Apfel, Birne, Orange, Grapefruit, Ananas etc.) "
+          },
+          {
+            "type": 0,
+            "name": "Gekochte oder gebackene Bohnen (Sojabohnen, Linsen, schwarze Bohnen, rote Bohnen etc.)"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "day": "28",
+    "meals": [
+      {
+        "name": "早",
+        "recipes": [
+          {
+            "type": 0,
+            "name": "1 Tasse Tee oder heißen Kakao ohne Zucker und Milch "
+          },
+          {
+            "type": 0,
+            "name": "1 Scheibe Vollkornbrot oder Toast"
+          }
+        ]
+      },
+      {
+        "name": "甜",
+        "recipes": [
+          {
+            "type": 0,
+            "name": "1 Keks (wenig Zucker oder ohne Zucker ist besser)"
+          }
+        ]
+      },
+      {
+        "name": "午",
+        "recipes": [
+          {
+            "type": 0,
+            "name": "Obstsalat (Apfel, Birne, Orange, Grapefruit, Ananas etc.) "
+          },
+          {
+            "type": 0,
+            "name": "Etwas Hummus oder Kartoffelbrei"
+          }
+        ]
+      },
+      {
+        "name": "晚",
+        "recipes": [
+          {
+            "type": 0,
+            "name": "Beliebige Gemüsesuppe ohne Salz"
+          },
+          {
+            "type": 1,
+            "name": "Hühnersalat (Hühnerbrust, gegrillt oder gekocht, mit etwas Obst oder Gemüse)"
+          },
+          {
+            "type": 2,
+            "name": "Gemüsesalat (Karotten, Tomaten, Paprika, Gurke etc.)"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "day": "29",
+    "meals": [
+      {
+        "name": "早",
+        "recipes": [
+          {
+            "type": 0,
+            "name": "1 Tasse Tee oder schwarzen Kaffee ohne Zucker und Milch "
+          },
+          {
+            "type": 0,
+            "name": "Omlett aus drei ganzen Eiern und Gemüse"
+          }
+        ]
+      },
+      {
+        "name": "甜",
+        "recipes": [
+          {
+            "type": 0,
+            "name": "Beliebige Nüsse ohne Salz "
+          }
+        ]
+      },
+      {
+        "name": "午",
+        "recipes": [
+          {
+            "type": 0,
+            "name": "Gedünsteter brauner Reis oder gekochte Nudeln "
+          },
+          {
+            "type": 0,
+            "name": "Gekochtes Gemüse (Spargel, Brokkoli, Blumenkohl, Zucchini, Spinat oder Erbsen) "
+          }
+        ]
+      },
+      {
+        "name": "晚",
+        "recipes": [
+          {
+            "type": 1,
+            "name": "1 Portion Obst (Apfel, Birne, Banane, Orange, Grapefruit, Ananas etc.) "
+          },
+          {
+            "type": 1,
+            "name": "Beliebig gegrilltes oder gekochtes, mageres Fleisch (Rindfleisch, Hühnerbrust, Lamm, Flankensteak etc.) "
+          },
+          {
+            "type": 2,
+            "name": "Obstsalat (Apfel, Birne, Orange, Grapefruit, Ananas etc.) "
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "day": "30",
+    "meals": [
+      {
+        "name": "早",
+        "recipes": [
+          {
+            "type": 0,
+            "name": "1 Tasse Tee oder heißen Kakao ohne Zucker und Milch "
+          },
+          {
+            "type": 0,
+            "name": "2 Rühreier (keine Butter oder Öl)"
+          },
+          {
+            "type": 0,
+            "name": "Hafer mit fettfreier Milch (Haferflocken, Weizenschrot, Gerste oder Polenta)"
+          }
+        ]
+      },
+      {
+        "name": "甜",
+        "recipes": [
+          {
+            "type": 0,
+            "name": "Gekochter Mais"
+          },
+          {
+            "type": 0,
+            "name": "Etwas Hummus oder Kartoffelbrei"
+          }
+        ]
+      },
+      {
+        "name": "午",
+        "recipes": [
+          {
+            "type": 0,
+            "name": "Haferbrei"
+          },
+          {
+            "type": 0,
+            "name": "Ein paar Heidelbeeren, Erdbeeren, Himbeeren oder Brombeeren"
+          }
+        ]
+      },
+      {
+        "name": "晚",
+        "recipes": [
+          {
+            "type": 0,
+            "name": "Beliebige Gemüsesuppe ohne Salz"
+          },
+          {
+            "type": 1,
+            "name": "Beliebig gegrillt oder gekochte Fische oder Meeresfrüchte (Tintenfisch, Krabben, Shrimps)"
+          },
+          {
+            "type": 2,
+            "name": "Gekochtes Gemüse (Spargel, Brokkoli, Blumenkohl, Zucchini, Spinat oder Erbsen) "
+          }
+        ]
+      }
+    ]
+  }
+]

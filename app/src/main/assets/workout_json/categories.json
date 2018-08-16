@@ -1,0 +1,25 @@
+{
+  "plan_categories": [
+    {
+      "id": 1,
+      "type": "Belly_Fat",
+      "title": "Burn Belly fat",
+      "detail":"Speed up your metabolism and abdominal muscles",
+      "image": "belly_abs.png"
+    },
+    {
+      "id": 2,
+      "type": "Perfect_Abs",
+      "title": "Perfect abs in 21 days",
+      "detail":"Effective abs to tone arms",
+      "image": "hard_abs.png"
+    },
+    {
+      "id": 3,
+      "type": "Six_Pack_Abs",
+      "title": "Six pack abs workout",
+      "detail":"Reduce waist with six pack",
+      "image": "six_packs_abs.png"
+    }
+  ]
+}

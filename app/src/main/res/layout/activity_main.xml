@@ -1,0 +1,303 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:background="@drawable/ic_main_bg"
+        android:scrollbars="none">
+
+        <android.support.constraint.ConstraintLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:padding="3dp">
+
+            <android.support.constraint.Guideline
+                android:id="@+id/guidelines_top"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:orientation="horizontal"
+                app:layout_constraintGuide_percent=".05" />
+
+            <android.support.constraint.Guideline
+                android:id="@+id/guidelines_left_main"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:orientation="vertical"
+                app:layout_constraintGuide_percent=".04" />
+
+            <android.support.constraint.Guideline
+                android:id="@+id/guidelines_right_main"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:orientation="vertical"
+                app:layout_constraintGuide_percent=".8" />
+
+            <TextView
+                android:id="@+id/tv_calories_main"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:gravity="top"
+                android:drawablePadding="@dimen/_10dp"
+                android:drawableLeft="@drawable/ic_calories"
+                android:text="@string/calories_pattern"
+                android:textColor="@android:color/white"
+                android:textSize="18sp"
+                android:textStyle="bold"
+                app:fontFamily="@font/oswald_bold"
+                app:layout_constraintLeft_toRightOf="@+id/guidelines_left_main"
+                app:layout_constraintTop_toBottomOf="@+id/guidelines_top" />
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:background="@drawable/round_corner_custom"
+                android:gravity="bottom"
+                android:inputType="textCapWords"
+                android:text="@string/daily_tips_text"
+                android:textColor="@android:color/white"
+                android:textSize="17sp"
+                android:textStyle="italic"
+                app:layout_constraintBottom_toBottomOf="@+id/tv_calories_main"
+                app:layout_constraintEnd_toEndOf="parent"
+                app:layout_constraintTop_toBottomOf="@+id/guidelines_top" />
+
+            <TextView
+                android:id="@+id/tv_workout_main"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="10dp"
+                android:layout_marginBottom="@dimen/_10dp"
+                android:drawableStart="@drawable/ic_dumbell"
+                android:drawablePadding="@dimen/_10dp"
+                android:gravity="top"
+                android:text="@string/workout_pattern"
+                android:textColor="@android:color/white"
+                android:textSize="18sp"
+                android:textStyle="bold"
+                app:fontFamily="@font/oswald_bold"
+                app:layout_constraintLeft_toRightOf="@+id/guidelines_left_main"
+                app:layout_constraintTop_toBottomOf="@+id/tv_calories_main" />
+
+            <android.support.constraint.ConstraintLayout
+
+                android:id="@+id/ly_days_view"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                app:layout_constraintLeft_toLeftOf="parent"
+                app:layout_constraintRight_toRightOf="parent"
+                app:layout_constraintTop_toBottomOf="@+id/tv_workout_main">
+
+                <TextView
+                    android:id="@+id/tv_monday"
+                    style="@style/DaysTextView"
+                    android:text="@string/monday_text"
+                    app:layout_constraintEnd_toStartOf="@+id/tv_tuesday"
+                    app:layout_constraintHorizontal_chainStyle="spread"
+                    app:layout_constraintStart_toStartOf="parent" />
+
+                <TextView
+                    android:id="@+id/tv_tuesday"
+                    style="@style/DaysTextView"
+                    android:text="@string/tuesday_text"
+                    app:layout_constraintEnd_toStartOf="@+id/tv_wednesday"
+                    app:layout_constraintStart_toEndOf="@+id/tv_monday" />
+
+                <TextView
+                    android:id="@+id/tv_wednesday"
+                    style="@style/DaysTextView"
+                    android:text="@string/wednesday_text"
+                    app:layout_constraintEnd_toStartOf="@+id/tv_thursday"
+                    app:layout_constraintStart_toEndOf="@+id/tv_tuesday" />
+
+                <TextView
+                    android:id="@+id/tv_thursday"
+                    style="@style/DaysTextView"
+                    android:text="@string/thursday_text"
+                    app:layout_constraintEnd_toStartOf="@+id/tv_friday"
+                    app:layout_constraintStart_toEndOf="@+id/tv_wednesday" />
+
+                <TextView
+                    android:id="@+id/tv_friday"
+                    style="@style/DaysTextView"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="@string/friday_text"
+                    app:layout_constraintEnd_toStartOf="@+id/tv_saturday"
+                    app:layout_constraintStart_toEndOf="@+id/tv_thursday" />
+
+                <TextView
+                    android:id="@+id/tv_saturday"
+                    style="@style/DaysTextView"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="@string/saturday_text"
+                    app:layout_constraintEnd_toStartOf="@+id/tv_sunday"
+                    app:layout_constraintStart_toEndOf="@+id/tv_friday" />
+
+                <TextView
+                    android:id="@+id/tv_sunday"
+                    style="@style/DaysTextView"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="@string/sunday_text"
+                    app:layout_constraintEnd_toEndOf="parent"
+                    app:layout_constraintStart_toEndOf="@+id/tv_saturday" />
+
+            </android.support.constraint.ConstraintLayout>
+
+            <android.support.constraint.ConstraintLayout
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:layout_marginTop="@dimen/_3dp"
+                app:layout_constraintBottom_toBottomOf="parent"
+                app:layout_constraintTop_toBottomOf="@+id/ly_days_view">
+
+                <android.support.constraint.ConstraintLayout
+                    android:id="@+id/cv_workout"
+                    android:layout_width="match_parent"
+                    android:layout_height="200dp"
+                    android:background="@drawable/ic_card_workout_bg"
+                    app:layout_constraintLeft_toLeftOf="parent"
+                    app:layout_constraintRight_toRightOf="parent">
+                    <android.support.constraint.Guideline
+                        android:id="@+id/guidelines_right_workout"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:orientation="vertical"
+                        app:layout_constraintGuide_percent=".91" />
+
+                    <ImageView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:src="@drawable/ic_card_workout_character"
+                        app:layout_constraintBottom_toBottomOf="parent"
+                        app:layout_constraintRight_toLeftOf="@+id/guidelines_right_workout"
+                        app:layout_constraintTop_toTopOf="parent" />
+
+                    <TextView
+                        android:id="@+id/workout_title"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_margin="16dp"
+                        android:text="@string/workout_text"
+                        android:textColor="@android:color/white"
+                        android:textSize="32sp"
+                        app:fontFamily="@font/oswald_bold"
+                        app:layout_constraintStart_toStartOf="parent"
+                        app:layout_constraintTop_toTopOf="parent" />
+
+                </android.support.constraint.ConstraintLayout>
+
+                <android.support.constraint.ConstraintLayout
+                    android:id="@+id/cv_swimming"
+                    android:layout_width="match_parent"
+                    android:layout_height="200dp"
+                    android:background="@drawable/ic_card_diet_plan_bg"
+                    app:layout_constraintLeft_toLeftOf="parent"
+                    app:layout_constraintRight_toRightOf="parent"
+                    app:layout_constraintTop_toBottomOf="@+id/cv_workout">
+
+                    <android.support.constraint.Guideline
+                        android:id="@+id/guidelines_left_diet"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:orientation="vertical"
+                        app:layout_constraintGuide_percent=".09" />
+
+                    <android.support.constraint.Guideline
+                        android:id="@+id/guidelines_right_diet"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:orientation="vertical"
+                        app:layout_constraintGuide_percent=".91" />
+
+
+                    <ImageView
+                        android:id="@+id/imageView3"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:src="@drawable/ic_card_diet_plan_character"
+                        app:layout_constraintBottom_toBottomOf="parent"
+                        app:layout_constraintEnd_toStartOf="@+id/guidelines_right_diet"
+                        app:layout_constraintTop_toTopOf="parent" />
+
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_margin="16dp"
+                        android:text="@string/text_diet_plan"
+                        android:textColor="@android:color/white"
+                        android:textSize="32sp"
+                        app:fontFamily="@font/oswald_bold"
+                        app:layout_constraintStart_toStartOf="parent"
+                        app:layout_constraintTop_toTopOf="parent" />
+                </android.support.constraint.ConstraintLayout>
+
+                <android.support.constraint.ConstraintLayout
+                    android:id="@+id/cv_manual"
+                    android:layout_width="match_parent"
+                    android:layout_height="200dp"
+                    android:background="@drawable/ic_card_report_bg"
+                    app:layout_constraintLeft_toLeftOf="parent"
+                    app:layout_constraintRight_toRightOf="parent"
+                    app:layout_constraintTop_toBottomOf="@+id/cv_swimming">
+
+                    <android.support.constraint.Guideline
+                        android:id="@+id/guidelines_left_tips"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:orientation="vertical"
+                        app:layout_constraintGuide_percent=".09" />
+
+                    <android.support.constraint.Guideline
+                        android:id="@+id/guidelines_right_tips"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:orientation="vertical"
+                        app:layout_constraintGuide_percent=".91" />
+
+
+                    <ImageView
+                        android:id="@+id/imageView4"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:src="@drawable/ic_card_report_character"
+                        app:layout_constraintBottom_toBottomOf="parent"
+                        app:layout_constraintEnd_toStartOf="@+id/guidelines_right_tips"
+                        app:layout_constraintTop_toTopOf="parent" />
+
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_margin="16dp"
+                        android:text="@string/report_text"
+                        android:textColor="@android:color/white"
+                        android:textSize="32sp"
+                        app:fontFamily="@font/oswald_bold"
+                        app:layout_constraintStart_toStartOf="parent"
+                        app:layout_constraintTop_toTopOf="parent" />
+
+
+                    <!--      <TextView
+                              android:id="@+id/manual_burnt_calories"
+                              android:layout_width="wrap_content"
+                              android:layout_height="wrap_content"
+                              android:layout_margin="10dp"
+                              android:background="@drawable/round_corner"
+                              android:padding="@dimen/_5dp"
+                              android:text="100 cal."
+                              android:textColor="@color/white"
+                              android:textSize="@dimen/_20sp"
+                              app:layout_constraintRight_toRightOf="parent"
+                              app:layout_constraintTop_toTopOf="parent" />
+      -->
+                </android.support.constraint.ConstraintLayout>
+
+            </android.support.constraint.ConstraintLayout>
+
+        </android.support.constraint.ConstraintLayout>
+    </ScrollView>
+
+</layout>

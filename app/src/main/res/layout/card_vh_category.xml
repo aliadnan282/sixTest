@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools">
+
+    <data>
+
+        <import type="com.workout.sixpacksabs.helper.AppUtils" />
+
+        <variable
+            name="category"
+            type="com.workout.sixpacksabs.data.entity.Category" />
+
+        <variable
+            name="adapter"
+            type="com.workout.sixpacksabs.view.adapter.CategoryAdapter" />
+
+        <!--   <variable
+               android:onClick="@{() -> handler.onCategoryClicked(category)}"
+
+               name="handler"
+               type="com.workout.sixpackabs.binder.MyHandler" />-->
+    </data>
+
+    <android.support.v7.widget.CardView
+
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        app:cardUseCompatPadding="true">
+
+        <android.support.constraint.ConstraintLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:background="?attr/selectableItemBackground"
+            android:onClick="@{(theView) -> adapter.onCategoryClicked(theView,category)}"
+            tools:layout_editor_absoluteY="81dp">
+            <!--android:onClick="@{handler::onClickTextShow}"-->
+
+            <ImageView
+                android:id="@+id/iv_category"
+                android:layout_width="@dimen/_100dp"
+                android:layout_height="@dimen/_100dp"
+                android:layout_margin="@dimen/_5dp"
+                android:contentDescription="@string/text_nstruction"
+                android:padding="@dimen/_5dp"
+                android:scaleType="fitCenter"
+                app:imageUrl="@{category.categoryImage}"
+                app:layout_constraintBottom_toBottomOf="parent"
+                app:layout_constraintStart_toStartOf="parent"
+                app:layout_constraintTop_toTopOf="parent"
+                tools:src="@drawable/abs" />
+
+            <TextView
+                android:id="@+id/tv_start"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_margin="@dimen/_2dp"
+                android:contentDescription="@string/text_start"
+                android:fontFamily="@font/oxygen_bold"
+                android:onClick="@{(theView) -> adapter.onCategoryClicked(theView,category)}"
+                android:padding="@dimen/_8dp"
+                android:text="@string/text_start"
+                android:textAppearance="@style/TextAppearance.AppCompat.Button"
+                android:textColor="@color/colorPrimary"
+                android:textSize="15sp"
+                android:textStyle="bold"
+                app:layout_constraintBottom_toBottomOf="parent"
+                app:layout_constraintEnd_toEndOf="parent"
+                app:layout_constraintRight_toRightOf="parent"
+                tools:text="@string/text_start" />
+
+            <TextView
+                android:id="@+id/category_title"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="@dimen/_5dp"
+                android:layout_marginTop="@dimen/_20dp"
+                android:fontFamily="@font/roboto_medium"
+                android:maxLines="1"
+                android:text="@{AppUtils.formatName(category.categoryName)}"
+                android:textAppearance="@style/TextAppearance.AppCompat.Button"
+                android:textSize="18sp"
+                app:layout_constraintStart_toEndOf="@+id/iv_category"
+                app:layout_constraintTop_toTopOf="parent"
+                tools:text="@tools:sample/first_names" />
+
+            <TextView
+                android:id="@+id/category_detail"
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="8dp"
+                android:scrollHorizontally="false"
+                android:text="@{category.categoryDetail}"
+                app:layout_constraintBottom_toTopOf="@+id/tv_start"
+                app:layout_constraintEnd_toEndOf="parent"
+                app:layout_constraintStart_toStartOf="@+id/category_title"
+                app:layout_constraintTop_toBottomOf="@+id/category_title"
+                tools:text="Speed up your metabolism and abdominal muscles" />
+
+            <ImageView
+                android:id="@+id/iv_category_level"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginBottom="8dp"
+                android:layout_marginLeft="8dp"
+                android:layout_marginStart="8dp"
+                android:layout_marginTop="8dp"
+                android:scaleType="fitCenter"
+                app:imagelevelUrl="@{category}"
+                app:layout_constraintBottom_toBottomOf="parent"
+                app:layout_constraintStart_toStartOf="@+id/category_detail"
+                app:layout_constraintTop_toBottomOf="@+id/category_detail"
+                tools:src="@drawable/ic_level_3" />
+        </android.support.constraint.ConstraintLayout>
+    </android.support.v7.widget.CardView>
+</layout>

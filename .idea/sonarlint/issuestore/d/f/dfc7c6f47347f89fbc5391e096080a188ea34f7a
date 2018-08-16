@@ -1,0 +1,17 @@
+
+Z"squid:SwitchLastCaseIsDefaultCheck""Add a default case to this switch.(øå´¡ÿÿÿÿÿ8ÈÑßìÓ,
+vsquid:S1450"[Remove the "mCardAdapter" field and declare it as a local variable in the relevant methods.(ğø¸J8ÈÑßìÓ,
+squid:S1450"eRemove the "mCardShadowTransformer" field and declare it as a local variable in the relevant methods.(¦ÈÆÙ8ÈÑßìÓ,
+}squid:S1450"\Remove the "mPagerAdapter" field and declare it as a local variable in the relevant methods.(ÿÿ€×ûÿÿÿÿ8ÈÑßìÓ,
+lsquid:S1301"KReplace this "switch" statement by "if" statements to increase readability.(øå´¡ÿÿÿÿÿ8ÈÑßìÓ,
+gsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(ŒÒÛÿ8ÈÑßìÓ,
+gsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(›†Ì´8ÈÑßìÓ,
+fsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(¥¸Ö8ÈÑßìÓ,
+lsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(¾Õñíûÿÿÿÿ8ÈÑßìÓ,
+fsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(«ï8ÈÑßìÓ,
+¢squid:S1186"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(ø´´øÿÿÿÿ8ÈÑßìÓ,
+¢squid:S1186"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(™Î«şÿÿÿÿ8ÈÑßìÓ,
+¢squid:S1186"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(ø´´øÿÿÿÿ8ÈÑßìÓ,
+¢squid:S1186"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(™Î«şÿÿÿÿ8ÈÑßìÓ,
+Csquid:S1185"(Remove this method to simply inherit it.(ºŠñ=8ÈÑßìÓ,
+isquid:MaximumInheritanceDepth"<This class has 7 parents which is greater than 5 authorized.(Œ©¯K8ÈÑßìÓ,

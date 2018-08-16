@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layout xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <android.support.constraint.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+        xmlns:tools="http://schemas.android.com/tools"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:fitsSystemWindows="true"
+        android:orientation="vertical"
+        tools:context=".view.activity.SettingActivity">
+
+
+        <ScrollView
+            android:id="@+id/scrollview_layout"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:paddingBottom="1dp"
+            android:paddingTop="1dp"
+            android:scrollIndicators="none"
+            app:layout_constraintBottom_toTopOf="@+id/ad_container">
+
+            <LinearLayout
+                android:id="@+id/layout_setting"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:orientation="vertical"
+                tools:context="com.dailyduas.activity.SettingActivity">
+
+                <include
+                    android:id="@+id/include_notify"
+                    layout="@layout/card_setting_notification_on_off" />
+
+                <include
+                    android:id="@+id/include_tts"
+                    layout="@layout/card_tts" />
+
+                <include
+                    android:id="@+id/include_time"
+                    layout="@layout/card_time_settings" />
+
+                <include
+                    android:id="@+id/include_privacy"
+                    layout="@layout/card_setting_privacy_policy" />
+
+                <include
+                    android:id="@+id/include_reset"
+                    layout="@layout/card_reset" />
+
+            </LinearLayout>
+        </ScrollView>
+
+        <FrameLayout
+            android:id="@+id/ad_container"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_gravity="bottom"
+            app:layout_constraintBottom_toBottomOf="parent"
+            app:layout_constraintLeft_toLeftOf="parent" />
+
+    </android.support.constraint.ConstraintLayout>
+</layout>
+
+
+

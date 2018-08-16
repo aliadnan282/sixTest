@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools">
+
+    <data>
+
+        <import type="com.workout.sixpacksabs.helper.AppUtils" />
+
+        <variable
+            name="planExercise"
+            type="com.workout.sixpacksabs.data.entity.PlanExercise" />
+
+        <variable
+            name="adapter"
+            type="com.workout.sixpacksabs.view.adapter.ExerciseListAdapter" />
+
+    </data>
+
+    <android.support.v7.widget.CardView
+        android:id="@+id/cv_exercise_list"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_margin="3dp"
+        android:background="?attr/selectableItemBackground"
+        app:cardCornerRadius="1dp"
+        app:cardUseCompatPadding="true"
+        app:contentPadding="@dimen/_5dp">
+
+        <android.support.constraint.ConstraintLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            tools:layout_editor_absoluteY="81dp">
+
+            <ImageView
+                android:id="@+id/iv_category"
+                android:layout_width="@dimen/_100dp"
+                android:layout_height="@dimen/_80dp"
+                android:adjustViewBounds="true"
+                android:contentDescription="@string/text_nstruction"
+                android:paddingBottom="-20dp"
+                android:paddingLeft="-20dp"
+                android:paddingRight="-20dp"
+                android:paddingTop="-20dp"
+                android:scaleType="centerCrop"
+                app:imageExerciseUrl="@{planExercise.exeName}"
+                app:layout_constraintEnd_toEndOf="parent"
+                app:layout_constraintTop_toTopOf="parent" />
+
+            <TextView
+                android:id="@+id/category_title"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="8dp"
+                android:fontFamily="@font/oxygen_bold"
+                android:text="@{AppUtils.formatName(planExercise.exeName)}"
+                android:textAppearance="@style/TextAppearance.AppCompat.Large"
+                android:textSize="21sp"
+                app:layout_constraintStart_toStartOf="parent"
+                app:layout_constraintTop_toTopOf="parent"
+                tools:text="@tools:sample/first_names" />
+
+            <TextView
+                android:id="@+id/exercise_reps"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:fontFamily="@font/oxygen_bold"
+                android:text="@{String.format(@string/reps_text,planExercise.exerciseReps)}"
+                android:textSize="18sp"
+                app:layout_constraintBottom_toBottomOf="parent"
+                app:layout_constraintStart_toStartOf="parent"
+                app:layout_constraintTop_toBottomOf="@+id/category_title" />
+        </android.support.constraint.ConstraintLayout>
+    </android.support.v7.widget.CardView>
+</layout>

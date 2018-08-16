@@ -1,0 +1,84 @@
+// Top-level build file where you can add configuration options common to all sub-projects/modules.
+
+buildscript {
+    ext.kotlin_version = '1.2.30'
+    repositories {
+        google()
+        jcenter()
+        maven {
+            url 'https://maven.fabric.io/public'
+        }
+    }
+    dependencies {
+        classpath 'com.android.tools.build:gradle:3.1.4'
+        classpath "org.jetbrains.kotlin:kotlin-gradle-plugin:$kotlin_version"
+        classpath 'io.fabric.tools:gradle:1.25.2'
+        // NOTE: Do not place your application dependencies here; they belong
+        // in the individual module build.gradle files
+        classpath 'com.google.gms:google-services:3.2.0'
+    }
+}
+
+allprojects {
+    repositories {
+        google()
+        jcenter()
+        maven { url "https://jitpack.io" }
+    }
+    ext {
+        google_play_services_library = '11.8.0'
+        constraint_library = '1.1.0'
+        google_support_library = '27.1.0'
+        multidex_library = '1.0.3'
+
+        gson_library = '2.8.1'
+        // glide_library = '4.6.1'
+        picasso_library = '2.71828'
+        arc_component_library = '1.1.0'
+        room_component_library = '1.1.0-alpha3'
+
+        androidBuildToolsVersion = "27.0.3"
+        androidApplicationId = 'com.workoutapps'
+        androidMinSdkVersion = 16
+        androidTargetSdkVersion = 26
+        androidCompileSdkVersion = 26
+        androidVersionCode = 1
+        androidVersionName = '1.0'
+        supportDependencies = [
+                appCompat        : "com.android.support:appcompat-v7:${google_support_library}",
+                appCompatV4      : "com.android.support:support-v4:${google_support_library}",
+                design           : "com.android.support:design:${google_support_library}",
+                constraintLayout : "com.android.support.constraint:constraint-layout:${constraint_library}",
+                percent          : "com.android.support:percent:${google_support_library}",
+                ads              : "com.google.android.gms:play-services-ads:${google_play_services_library}",
+                //  fitness     : "com.google.android.gms:play-services-fitness:${google_play_services_library}",
+                cardview         : "com.android.support:cardview-v7:${google_support_library}",
+                palette          : "com.android.support:palette-v7:${google_support_library}",
+                recyclerview     : "com.android.support:recyclerview-v7:${google_support_library}",
+                // jodaTime    : "net.danlew:android.joda:2.9.9",
+                multidex         : "com.android.support:multidex:${multidex_library}",
+                // support for Lifecycles
+                archCompiler     : "android.arch.lifecycle:common-java8:${arc_component_library}",
+                // ViewModel and LiveData
+                viewModelLiveData: "android.arch.lifecycle:extensions:${arc_component_library}",
+                // Room  room_component_library
+                room             : "android.arch.persistence.room:runtime:${room_component_library}",
+                roomCompiler     : "android.arch.persistence.room:compiler:${room_component_library}",
+                // Firebase
+                firebaseDatabase : "com.google.firebase:firebase-database:${google_play_services_library}",
+                firebaseStorage  : "com.google.firebase:firebase-storage:${google_play_services_library}",
+                firebaseAuth     : "com.google.firebase:firebase-auth:${google_play_services_library}",
+
+                // Gson encoding and decoding
+                gson             : "com.google.code.gson:gson:${gson_library}",
+                picasso          : "com.squareup.picasso:picasso:${picasso_library}",
+                stetho           : "com.facebook.fresco:stetho:1.8.1",
+                // glide            : "com.github.bumptech.glide:glide:${glide_library}",
+                // glideCompiler    : "com.github.bumptech.glide:compiler:${glide_library}"
+        ]
+    }
+}
+
+task clean(type: Delete) {
+    delete rootProject.buildDir
+}

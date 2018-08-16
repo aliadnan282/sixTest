@@ -1,0 +1,1780 @@
+[
+  {
+    "day": "1",
+    "meals": [
+      {
+        "name": "早",
+        "recipes": [
+          {
+            "type": 0,
+            "name": "1 tasse de thé ou de café noir sans sucre ni lait "
+          },
+          {
+            "type": 0,
+            "name": "Porridge de flocons d\u0027avoine"
+          }
+        ]
+      },
+      {
+        "name": "甜",
+        "recipes": [
+          {
+            "type": 0,
+            "name": "N\u0027importe quelle noix non salée "
+          },
+          {
+            "type": 0,
+            "name": "1 part de fromage (salé ou allégé en graisses préférable)"
+          }
+        ]
+      },
+      {
+        "name": "午",
+        "recipes": [
+          {
+            "type": 0,
+            "name": "2 tranches de pain complet avec des légumes (oignons, tomates, laitue, etc.)"
+          },
+          {
+            "type": 1,
+            "name": "N\u0027importe quelle viande maigre grillée ou vapeur (bœuf, blanc de poulet, agneau, bavette, etc.) "
+          },
+          {
+            "type": 2,
+            "name": "Salade de fruits (pomme, poire, orange, pamplemousse, ananas, etc.) "
+          }
+        ]
+      },
+      {
+        "name": "晚",
+        "recipes": [
+          {
+            "type": 1,
+            "name": "Salade de poulet (blanc de poulet, grillé ou vapeur, avec quelques fruits ou légumes)"
+          },
+          {
+            "type": 2,
+            "name": "Salade de légumes (carottes, tomates, poivrons, concombres, etc.)"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "day": "2",
+    "meals": [
+      {
+        "name": "早",
+        "recipes": [
+          {
+            "type": 0,
+            "name": "1 tasse de thé ou de café noir sans sucre ni lait "
+          },
+          {
+            "type": 0,
+            "name": "Flocons d\u0027avoine avec du lait écrémé (gruau, blé concassé, orge ou polenta)"
+          }
+        ]
+      },
+      {
+        "name": "甜",
+        "recipes": [
+          {
+            "type": 0,
+            "name": "1 cookie (allégé en sucre ou sans sucre préférable)"
+          }
+        ]
+      },
+      {
+        "name": "午",
+        "recipes": [
+          {
+            "type": 0,
+            "name": "Salade de légumes (carottes, tomates, poivrons, concombres, etc.)"
+          },
+          {
+            "type": 0,
+            "name": "Yaourt (allégé en graisses ou en sucre préférable)"
+          }
+        ]
+      },
+      {
+        "name": "晚",
+        "recipes": [
+          {
+            "type": 0,
+            "name": "N\u0027importe quelle soupe de légumes sans sel ajouté"
+          },
+          {
+            "type": 1,
+            "name": "N\u0027importe quel poisson grillé ou vapeur ou fruits de mer (calmars, crabes, crevettes)"
+          },
+          {
+            "type": 2,
+            "name": "Légumes cuits au four ou vapeur (asperge, brocoli, chou-fleur, courgette, épinard ou pois) "
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "day": "3",
+    "meals": [
+      {
+        "name": "早",
+        "recipes": [
+          {
+            "type": 0,
+            "name": "1 tasse de thé ou de café noir sans sucre ni lait "
+          },
+          {
+            "type": 0,
+            "name": "2 œufs brouillés (sans beurre ni huile)"
+          },
+          {
+            "type": 0,
+            "name": "Porridge de flocons d\u0027avoine"
+          }
+        ]
+      },
+      {
+        "name": "甜",
+        "recipes": [
+          {
+            "type": 0,
+            "name": "Yaourt (allégé en graisses ou en sucre préférable)"
+          },
+          {
+            "type": 0,
+            "name": "Houmous ou purée de pommes de terre"
+          }
+        ]
+      },
+      {
+        "name": "午",
+        "recipes": [
+          {
+            "type": 0,
+            "name": "Riz complet cuit à la vapeur ou pâtes cuites "
+          },
+          {
+            "type": 0,
+            "name": "Légumes cuits au four ou vapeur (asperge, brocoli, chou-fleur, courgette, épinard ou pois) "
+          }
+        ]
+      },
+      {
+        "name": "晚",
+        "recipes": [
+          {
+            "type": 0,
+            "name": "3 pommes de terre cuites au four ou vapeur"
+          },
+          {
+            "type": 1,
+            "name": "N\u0027importe quelle viande maigre grillée ou vapeur (bœuf, blanc de poulet, agneau, bavette, etc.) "
+          },
+          {
+            "type": 2,
+            "name": "Salade de fruits (pomme, poire, orange, pamplemousse, ananas, etc.) "
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "day": "4",
+    "meals": [
+      {
+        "name": "早",
+        "recipes": [
+          {
+            "type": 0,
+            "name": "1 tasse de thé ou de café noir sans sucre ni lait "
+          },
+          {
+            "type": 0,
+            "name": "2 tranches de pain complet avec des légumes (oignons, tomates, laitue, etc.)"
+          }
+        ]
+      },
+      {
+        "name": "甜",
+        "recipes": [
+          {
+            "type": 0,
+            "name": "Yaourt allégé ou lait avec quelques baies"
+          }
+        ]
+      },
+      {
+        "name": "午",
+        "recipes": [
+          {
+            "type": 0,
+            "name": "Quelques myrtilles, fraises, framboises ou mûres"
+          },
+          {
+            "type": 1,
+            "name": "N\u0027importe quel poisson grillé ou vapeur ou fruits de mer (calmars, crabes, crevettes)"
+          },
+          {
+            "type": 2,
+            "name": "Légumes cuits au four ou vapeur (asperge, brocoli, chou-fleur, courgette, épinard ou pois) "
+          }
+        ]
+      },
+      {
+        "name": "晚",
+        "recipes": [
+          {
+            "type": 0,
+            "name": "Épis de maïs cuits ou vapeur"
+          },
+          {
+            "type": 1,
+            "name": "Salade de poulet (blanc de poulet, grillé ou vapeur, avec quelques fruits ou légumes)"
+          },
+          {
+            "type": 2,
+            "name": "Salade de légumes (carottes, tomates, poivrons, concombres, etc.)"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "day": "5",
+    "meals": [
+      {
+        "name": "早",
+        "recipes": [
+          {
+            "type": 0,
+            "name": "1 tasse de thé ou de chocolat chaud sans sucre ni lait "
+          },
+          {
+            "type": 0,
+            "name": "2 œufs brouillés (sans beurre ni huile)"
+          },
+          {
+            "type": 0,
+            "name": "1 tranche de pain complet"
+          }
+        ]
+      },
+      {
+        "name": "甜",
+        "recipes": [
+          {
+            "type": 0,
+            "name": "N\u0027importe quelle noix non salée "
+          }
+        ]
+      },
+      {
+        "name": "午",
+        "recipes": [
+          {
+            "type": 0,
+            "name": "1 pamplemousse ou orange"
+          },
+          {
+            "type": 0,
+            "name": "Haricots cuits (graines de soja, lentilles, haricots noirs, haricots rouges, etc.)"
+          }
+        ]
+      },
+      {
+        "name": "晚",
+        "recipes": [
+          {
+            "type": 0,
+            "name": "Smoothie ou yaourt allégé"
+          },
+          {
+            "type": 0,
+            "name": "Yaourt allégé ou lait avec quelques baies"
+          },
+          {
+            "type": 1,
+            "name": "N\u0027importe quelle viande maigre grillée ou vapeur (bœuf, blanc de poulet, agneau, bavette, etc.) "
+          },
+          {
+            "type": 2,
+            "name": "Salade de fruits (pomme, poire, orange, pamplemousse, ananas, etc.) "
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "day": "6",
+    "meals": [
+      {
+        "name": "早",
+        "recipes": [
+          {
+            "type": 0,
+            "name": "1 tasse de thé ou de café noir sans sucre ni lait "
+          },
+          {
+            "type": 0,
+            "name": "Flocons d\u0027avoine avec du lait écrémé (gruau, blé concassé, orge ou polenta)"
+          }
+        ]
+      },
+      {
+        "name": "甜",
+        "recipes": [
+          {
+            "type": 0,
+            "name": "Houmous ou purée de pommes de terre"
+          },
+          {
+            "type": 0,
+            "name": "Yaourt allégé ou lait avec quelques baies"
+          }
+        ]
+      },
+      {
+        "name": "午",
+        "recipes": [
+          {
+            "type": 0,
+            "name": "2 tranches de pain complet avec des légumes (oignons, tomates, laitue, etc.)"
+          },
+          {
+            "type": 0,
+            "name": "Légumes cuits au four ou vapeur (asperge, brocoli, chou-fleur, courgette, épinard ou pois) "
+          }
+        ]
+      },
+      {
+        "name": "晚",
+        "recipes": [
+          {
+            "type": 0,
+            "name": "Salade de fruits (pomme, poire, orange, pamplemousse, ananas, etc.) "
+          },
+          {
+            "type": 1,
+            "name": "N\u0027importe quel poisson grillé ou vapeur ou fruits de mer (calmars, crabes, crevettes)"
+          },
+          {
+            "type": 2,
+            "name": "Légumes cuits au four ou vapeur (asperge, brocoli, chou-fleur, courgette, épinard ou pois) "
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "day": "7",
+    "meals": [
+      {
+        "name": "早",
+        "recipes": [
+          {
+            "type": 0,
+            "name": "1 tasse de thé ou de café noir sans sucre ni lait "
+          },
+          {
+            "type": 0,
+            "name": "Maïs grillé ou vapeur avec des légumes de votre choix"
+          }
+        ]
+      },
+      {
+        "name": "甜",
+        "recipes": [
+          {
+            "type": 0,
+            "name": "1 cookie (allégé en sucre ou sans sucre préférable)"
+          }
+        ]
+      },
+      {
+        "name": "午",
+        "recipes": [
+          {
+            "type": 0,
+            "name": "Omelette avec trois œufs et quelques légumes"
+          },
+          {
+            "type": 0,
+            "name": "Yaourt (allégé en graisses ou en sucre préférable)"
+          }
+        ]
+      },
+      {
+        "name": "晚",
+        "recipes": [
+          {
+            "type": 0,
+            "name": "Salade de légumes (carottes, tomates, poivrons, concombres, etc.)"
+          },
+          {
+            "type": 1,
+            "name": "N\u0027importe quelle viande maigre grillée ou vapeur (bœuf, blanc de poulet, agneau, bavette, etc.) "
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "day": "8",
+    "meals": [
+      {
+        "name": "早",
+        "recipes": [
+          {
+            "type": 0,
+            "name": "1 tasse de thé ou de café noir sans sucre ni lait "
+          },
+          {
+            "type": 0,
+            "name": "2 tranches de pain complet avec des légumes (oignons, tomates, laitue, etc.)"
+          }
+        ]
+      },
+      {
+        "name": "甜",
+        "recipes": [
+          {
+            "type": 0,
+            "name": "Yaourt allégé ou lait avec quelques baies"
+          },
+          {
+            "type": 0,
+            "name": "1 part de fromage (salé ou allégé en graisses préférable)"
+          }
+        ]
+      },
+      {
+        "name": "午",
+        "recipes": [
+          {
+            "type": 0,
+            "name": "Riz complet cuit à la vapeur ou pâtes cuites "
+          },
+          {
+            "type": 0,
+            "name": "3 pommes de terre cuites au four ou vapeur"
+          }
+        ]
+      },
+      {
+        "name": "晚",
+        "recipes": [
+          {
+            "type": 0,
+            "name": "N\u0027importe quelle soupe de légumes sans sel ajouté"
+          },
+          {
+            "type": 0,
+            "name": "Haricots cuits (graines de soja, lentilles, haricots noirs, haricots rouges, etc.)"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "day": "9",
+    "meals": [
+      {
+        "name": "早",
+        "recipes": [
+          {
+            "type": 0,
+            "name": "1 tasse de thé ou de café noir sans sucre ni lait "
+          },
+          {
+            "type": 0,
+            "name": "Porridge de flocons d\u0027avoine"
+          }
+        ]
+      },
+      {
+        "name": "甜",
+        "recipes": [
+          {
+            "type": 0,
+            "name": "1 cookie (allégé en sucre ou sans sucre préférable)"
+          }
+        ]
+      },
+      {
+        "name": "午",
+        "recipes": [
+          {
+            "type": 0,
+            "name": "Salade de légumes (carottes, tomates, poivrons, concombres, etc.)"
+          },
+          {
+            "type": 1,
+            "name": "N\u0027importe quelle viande maigre grillée ou vapeur (bœuf, blanc de poulet, agneau, bavette, etc.) "
+          }
+        ]
+      },
+      {
+        "name": "晚",
+        "recipes": [
+          {
+            "type": 1,
+            "name": "Salade de poulet (blanc de poulet, grillé ou vapeur, avec quelques fruits ou légumes)"
+          },
+          {
+            "type": 2,
+            "name": "Salade de légumes (carottes, tomates, poivrons, concombres, etc.)"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "day": "10",
+    "meals": [
+      {
+        "name": "早",
+        "recipes": [
+          {
+            "type": 0,
+            "name": "1 tasse de thé ou de chocolat chaud sans sucre ni lait "
+          },
+          {
+            "type": 0,
+            "name": "Maïs grillé ou vapeur avec des légumes de votre choix"
+          }
+        ]
+      },
+      {
+        "name": "甜",
+        "recipes": [
+          {
+            "type": 0,
+            "name": "Houmous ou purée de pommes de terre"
+          }
+        ]
+      },
+      {
+        "name": "午",
+        "recipes": [
+          {
+            "type": 0,
+            "name": "Smoothie ou yaourt allégé"
+          },
+          {
+            "type": 0,
+            "name": "Haricots cuits (graines de soja, lentilles, haricots noirs, haricots rouges, etc.)"
+          }
+        ]
+      },
+      {
+        "name": "晚",
+        "recipes": [
+          {
+            "type": 0,
+            "name": "1 portion de fruits (pomme, poire, banane, orange, pamplemousse, ananas, etc.) "
+          },
+          {
+            "type": 1,
+            "name": "N\u0027importe quel poisson grillé ou vapeur ou fruits de mer (calmars, crabes, crevettes)"
+          },
+          {
+            "type": 2,
+            "name": "Légumes cuits au four ou vapeur (asperge, brocoli, chou-fleur, courgette, épinard ou pois) "
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "day": "11",
+    "meals": [
+      {
+        "name": "早",
+        "recipes": [
+          {
+            "type": 0,
+            "name": "1 tasse de thé ou de café noir sans sucre ni lait "
+          },
+          {
+            "type": 0,
+            "name": "2 œufs brouillés (sans beurre ni huile)"
+          },
+          {
+            "type": 0,
+            "name": "2 tranches de pain complet avec des légumes (oignons, tomates, laitue, etc.)"
+          }
+        ]
+      },
+      {
+        "name": "甜",
+        "recipes": [
+          {
+            "type": 0,
+            "name": "Yaourt (allégé en graisses ou en sucre préférable)"
+          }
+        ]
+      },
+      {
+        "name": "午",
+        "recipes": [
+          {
+            "type": 0,
+            "name": "Quelques myrtilles, fraises, framboises ou mûres"
+          },
+          {
+            "type": 0,
+            "name": "Légumes cuits au four ou vapeur (asperge, brocoli, chou-fleur, courgette, épinard ou pois) "
+          }
+        ]
+      },
+      {
+        "name": "晚",
+        "recipes": [
+          {
+            "type": 0,
+            "name": "1 cookie (allégé en sucre ou sans sucre préférable)"
+          },
+          {
+            "type": 1,
+            "name": "N\u0027importe quelle viande maigre grillée ou vapeur (bœuf, blanc de poulet, agneau, bavette, etc.) "
+          },
+          {
+            "type": 2,
+            "name": "Salade de fruits (pomme, poire, orange, pamplemousse, ananas, etc.) "
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "day": "12",
+    "meals": [
+      {
+        "name": "早",
+        "recipes": [
+          {
+            "type": 0,
+            "name": "1 tasse de thé ou de café noir sans sucre ni lait "
+          },
+          {
+            "type": 0,
+            "name": "2 œufs brouillés (sans beurre ni huile)"
+          },
+          {
+            "type": 0,
+            "name": "Flocons d\u0027avoine avec du lait écrémé (gruau, blé concassé, orge ou polenta)"
+          }
+        ]
+      },
+      {
+        "name": "甜",
+        "recipes": [
+          {
+            "type": 0,
+            "name": "N\u0027importe quelle noix non salée "
+          }
+        ]
+      },
+      {
+        "name": "午",
+        "recipes": [
+          {
+            "type": 0,
+            "name": "Riz complet cuit à la vapeur ou pâtes cuites "
+          },
+          {
+            "type": 0,
+            "name": "N\u0027importe quelle soupe de légumes sans sel ajouté"
+          }
+        ]
+      },
+      {
+        "name": "晚",
+        "recipes": [
+          {
+            "type": 0,
+            "name": "1 pamplemousse ou orange"
+          },
+          {
+            "type": 1,
+            "name": "Salade de poulet (blanc de poulet, grillé ou vapeur, avec quelques fruits ou légumes)"
+          },
+          {
+            "type": 2,
+            "name": "Salade de légumes (carottes, tomates, poivrons, concombres, etc.)"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "day": "13",
+    "meals": [
+      {
+        "name": "早",
+        "recipes": [
+          {
+            "type": 0,
+            "name": "1 tasse de thé ou de café noir sans sucre ni lait "
+          },
+          {
+            "type": 0,
+            "name": "Omelette avec trois œufs et quelques légumes"
+          }
+        ]
+      },
+      {
+        "name": "甜",
+        "recipes": [
+          {
+            "type": 0,
+            "name": "1 cookie (allégé en sucre ou sans sucre préférable)"
+          }
+        ]
+      },
+      {
+        "name": "午",
+        "recipes": [
+          {
+            "type": 0,
+            "name": "Smoothie ou yaourt allégé"
+          },
+          {
+            "type": 0,
+            "name": "Légumes cuits au four ou vapeur (asperge, brocoli, chou-fleur, courgette, épinard ou pois) "
+          }
+        ]
+      },
+      {
+        "name": "晚",
+        "recipes": [
+          {
+            "type": 0,
+            "name": "N\u0027importe quelle soupe de légumes sans sel ajouté"
+          },
+          {
+            "type": 1,
+            "name": "N\u0027importe quel poisson grillé ou vapeur ou fruits de mer (calmars, crabes, crevettes)"
+          },
+          {
+            "type": 2,
+            "name": "Légumes cuits au four ou vapeur (asperge, brocoli, chou-fleur, courgette, épinard ou pois) "
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "day": "14",
+    "meals": [
+      {
+        "name": "早",
+        "recipes": [
+          {
+            "type": 0,
+            "name": "1 tasse de thé ou de café noir sans sucre ni lait "
+          },
+          {
+            "type": 0,
+            "name": "Flocons d\u0027avoine avec du lait écrémé (gruau, blé concassé, orge ou polenta)"
+          }
+        ]
+      },
+      {
+        "name": "甜",
+        "recipes": [
+          {
+            "type": 0,
+            "name": "N\u0027importe quelle noix non salée "
+          }
+        ]
+      },
+      {
+        "name": "午",
+        "recipes": [
+          {
+            "type": 0,
+            "name": "Yaourt (allégé en graisses ou en sucre préférable)"
+          },
+          {
+            "type": 1,
+            "name": "Salade de poulet (blanc de poulet, grillé ou vapeur, avec quelques fruits ou légumes)"
+          },
+          {
+            "type": 2,
+            "name": "Salade de légumes (carottes, tomates, poivrons, concombres, etc.)"
+          }
+        ]
+      },
+      {
+        "name": "晚",
+        "recipes": [
+          {
+            "type": 0,
+            "name": "Omelette avec trois œufs et quelques légumes"
+          },
+          {
+            "type": 0,
+            "name": "3 pommes de terre cuites au four ou vapeur"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "day": "15",
+    "meals": [
+      {
+        "name": "早",
+        "recipes": [
+          {
+            "type": 0,
+            "name": "1 tasse de thé ou de chocolat chaud sans sucre ni lait "
+          },
+          {
+            "type": 0,
+            "name": "Porridge de flocons d\u0027avoine"
+          }
+        ]
+      },
+      {
+        "name": "甜",
+        "recipes": [
+          {
+            "type": 0,
+            "name": "1 cookie (allégé en sucre ou sans sucre préférable)"
+          }
+        ]
+      },
+      {
+        "name": "午",
+        "recipes": [
+          {
+            "type": 0,
+            "name": "Flocons d\u0027avoine avec du lait écrémé (gruau, blé concassé, orge ou polenta)"
+          },
+          {
+            "type": 0,
+            "name": "Smoothie ou yaourt allégé"
+          }
+        ]
+      },
+      {
+        "name": "晚",
+        "recipes": [
+          {
+            "type": 0,
+            "name": "Yaourt (allégé en graisses ou en sucre préférable)"
+          },
+          {
+            "type": 1,
+            "name": "N\u0027importe quelle viande maigre grillée ou vapeur (bœuf, blanc de poulet, agneau, bavette, etc.) "
+          },
+          {
+            "type": 2,
+            "name": "Salade de fruits (pomme, poire, orange, pamplemousse, ananas, etc.) "
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "day": "16",
+    "meals": [
+      {
+        "name": "早",
+        "recipes": [
+          {
+            "type": 0,
+            "name": "1 tasse de thé ou de chocolat chaud sans sucre ni lait "
+          },
+          {
+            "type": 0,
+            "name": "1 tranche de pain complet"
+          },
+          {
+            "type": 0,
+            "name": "1 pamplemousse ou orange"
+          }
+        ]
+      },
+      {
+        "name": "甜",
+        "recipes": [
+          {
+            "type": 0,
+            "name": "Yaourt allégé ou lait avec quelques baies"
+          },
+          {
+            "type": 0,
+            "name": "1 cookie (allégé en sucre ou sans sucre préférable)"
+          }
+        ]
+      },
+      {
+        "name": "午",
+        "recipes": [
+          {
+            "type": 0,
+            "name": "Flocons d\u0027avoine avec du lait écrémé (gruau, blé concassé, orge ou polenta)"
+          },
+          {
+            "type": 0,
+            "name": "Haricots cuits (graines de soja, lentilles, haricots noirs, haricots rouges, etc.)"
+          }
+        ]
+      },
+      {
+        "name": "晚",
+        "recipes": [
+          {
+            "type": 0,
+            "name": "N\u0027importe quelle soupe de légumes sans sel ajouté"
+          },
+          {
+            "type": 1,
+            "name": "Salade de poulet (blanc de poulet, grillé ou vapeur, avec quelques fruits ou légumes)"
+          },
+          {
+            "type": 2,
+            "name": "Salade de légumes (carottes, tomates, poivrons, concombres, etc.)"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "day": "17",
+    "meals": [
+      {
+        "name": "早",
+        "recipes": [
+          {
+            "type": 0,
+            "name": "1 tasse de thé ou de café noir sans sucre ni lait "
+          },
+          {
+            "type": 0,
+            "name": "Omelette avec trois œufs et quelques légumes"
+          }
+        ]
+      },
+      {
+        "name": "甜",
+        "recipes": [
+          {
+            "type": 0,
+            "name": "Houmous ou purée de pommes de terre"
+          },
+          {
+            "type": 0,
+            "name": "1 cookie (allégé en sucre ou sans sucre préférable)"
+          }
+        ]
+      },
+      {
+        "name": "午",
+        "recipes": [
+          {
+            "type": 0,
+            "name": "Riz complet cuit à la vapeur ou pâtes cuites "
+          },
+          {
+            "type": 0,
+            "name": "Légumes cuits au four ou vapeur (asperge, brocoli, chou-fleur, courgette, épinard ou pois) "
+          }
+        ]
+      },
+      {
+        "name": "晚",
+        "recipes": [
+          {
+            "type": 0,
+            "name": "Salade de fruits (pomme, poire, orange, pamplemousse, ananas, etc.) "
+          },
+          {
+            "type": 1,
+            "name": "N\u0027importe quelle viande maigre grillée ou vapeur (bœuf, blanc de poulet, agneau, bavette, etc.) "
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "day": "18",
+    "meals": [
+      {
+        "name": "早",
+        "recipes": [
+          {
+            "type": 0,
+            "name": "1 tasse de thé ou de café noir sans sucre ni lait "
+          },
+          {
+            "type": 0,
+            "name": "Flocons d\u0027avoine avec du lait écrémé (gruau, blé concassé, orge ou polenta)"
+          }
+        ]
+      },
+      {
+        "name": "甜",
+        "recipes": [
+          {
+            "type": 0,
+            "name": "Épis de maïs cuits ou vapeur"
+          },
+          {
+            "type": 0,
+            "name": "N\u0027importe quelle noix non salée "
+          }
+        ]
+      },
+      {
+        "name": "午",
+        "recipes": [
+          {
+            "type": 0,
+            "name": "Porridge de flocons d\u0027avoine"
+          },
+          {
+            "type": 0,
+            "name": "Quelques myrtilles, fraises, framboises ou mûres"
+          }
+        ]
+      },
+      {
+        "name": "晚",
+        "recipes": [
+          {
+            "type": 0,
+            "name": "Salade de légumes (carottes, tomates, poivrons, concombres, etc.)"
+          },
+          {
+            "type": 1,
+            "name": "N\u0027importe quel poisson grillé ou vapeur ou fruits de mer (calmars, crabes, crevettes)"
+          },
+          {
+            "type": 2,
+            "name": "Légumes cuits au four ou vapeur (asperge, brocoli, chou-fleur, courgette, épinard ou pois) "
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "day": "19",
+    "meals": [
+      {
+        "name": "早",
+        "recipes": [
+          {
+            "type": 0,
+            "name": "1 tasse de thé ou de café noir sans sucre ni lait "
+          },
+          {
+            "type": 0,
+            "name": "Maïs grillé ou vapeur avec des légumes de votre choix"
+          }
+        ]
+      },
+      {
+        "name": "甜",
+        "recipes": [
+          {
+            "type": 0,
+            "name": "Yaourt (allégé en graisses ou en sucre préférable)"
+          },
+          {
+            "type": 0,
+            "name": "1 part de fromage (salé ou allégé en graisses préférable)"
+          }
+        ]
+      },
+      {
+        "name": "午",
+        "recipes": [
+          {
+            "type": 0,
+            "name": "Omelette avec trois œufs et quelques légumes"
+          },
+          {
+            "type": 1,
+            "name": "N\u0027importe quelle viande maigre grillée ou vapeur (bœuf, blanc de poulet, agneau, bavette, etc.) "
+          },
+          {
+            "type": 2,
+            "name": "Salade de fruits (pomme, poire, orange, pamplemousse, ananas, etc.) "
+          }
+        ]
+      },
+      {
+        "name": "晚",
+        "recipes": [
+          {
+            "type": 0,
+            "name": "Légumes cuits au four ou vapeur (asperge, brocoli, chou-fleur, courgette, épinard ou pois) "
+          },
+          {
+            "type": 0,
+            "name": "Yaourt allégé ou lait avec quelques baies"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "day": "20",
+    "meals": [
+      {
+        "name": "早",
+        "recipes": [
+          {
+            "type": 0,
+            "name": "1 tasse de thé ou de chocolat chaud sans sucre ni lait "
+          },
+          {
+            "type": 0,
+            "name": "2 œufs brouillés (sans beurre ni huile)"
+          },
+          {
+            "type": 0,
+            "name": "Flocons d\u0027avoine avec du lait écrémé (gruau, blé concassé, orge ou polenta)"
+          }
+        ]
+      },
+      {
+        "name": "甜",
+        "recipes": [
+          {
+            "type": 0,
+            "name": "Houmous ou purée de pommes de terre"
+          }
+        ]
+      },
+      {
+        "name": "午",
+        "recipes": [
+          {
+            "type": 0,
+            "name": "Porridge de flocons d\u0027avoine"
+          },
+          {
+            "type": 0,
+            "name": "1 cookie (allégé en sucre ou sans sucre préférable)"
+          }
+        ]
+      },
+      {
+        "name": "晚",
+        "recipes": [
+          {
+            "type": 0,
+            "name": "3 pommes de terre cuites au four ou vapeur"
+          },
+          {
+            "type": 1,
+            "name": "Salade de poulet (blanc de poulet, grillé ou vapeur, avec quelques fruits ou légumes)"
+          },
+          {
+            "type": 2,
+            "name": "Salade de légumes (carottes, tomates, poivrons, concombres, etc.)"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "day": "21",
+    "meals": [
+      {
+        "name": "早",
+        "recipes": [
+          {
+            "type": 0,
+            "name": "1 tasse de thé ou de café noir sans sucre ni lait "
+          },
+          {
+            "type": 0,
+            "name": "Maïs grillé ou vapeur avec des légumes de votre choix"
+          }
+        ]
+      },
+      {
+        "name": "甜",
+        "recipes": [
+          {
+            "type": 0,
+            "name": "Houmous ou purée de pommes de terre"
+          }
+        ]
+      },
+      {
+        "name": "午",
+        "recipes": [
+          {
+            "type": 0,
+            "name": "2 tranches de pain complet avec des légumes (oignons, tomates, laitue, etc.)"
+          },
+          {
+            "type": 0,
+            "name": "Salade de fruits (pomme, poire, orange, pamplemousse, ananas, etc.) "
+          }
+        ]
+      },
+      {
+        "name": "晚",
+        "recipes": [
+          {
+            "type": 0,
+            "name": "Yaourt allégé ou lait avec quelques baies"
+          },
+          {
+            "type": 1,
+            "name": "N\u0027importe quel poisson grillé ou vapeur ou fruits de mer (calmars, crabes, crevettes)"
+          },
+          {
+            "type": 2,
+            "name": "Légumes cuits au four ou vapeur (asperge, brocoli, chou-fleur, courgette, épinard ou pois) "
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "day": "22",
+    "meals": [
+      {
+        "name": "早",
+        "recipes": [
+          {
+            "type": 0,
+            "name": "1 tasse de thé ou de chocolat chaud sans sucre ni lait "
+          },
+          {
+            "type": 0,
+            "name": "Porridge de flocons d\u0027avoine"
+          }
+        ]
+      },
+      {
+        "name": "甜",
+        "recipes": [
+          {
+            "type": 0,
+            "name": "N\u0027importe quelle noix non salée "
+          }
+        ]
+      },
+      {
+        "name": "午",
+        "recipes": [
+          {
+            "type": 0,
+            "name": "Flocons d\u0027avoine avec du lait écrémé (gruau, blé concassé, orge ou polenta)"
+          },
+          {
+            "type": 1,
+            "name": "Salade de poulet (blanc de poulet, grillé ou vapeur, avec quelques fruits ou légumes)"
+          },
+          {
+            "type": 2,
+            "name": "Salade de légumes (carottes, tomates, poivrons, concombres, etc.)"
+          }
+        ]
+      },
+      {
+        "name": "晚",
+        "recipes": [
+          {
+            "type": 0,
+            "name": "1 pamplemousse ou orange"
+          },
+          {
+            "type": 0,
+            "name": "Salade de légumes (carottes, tomates, poivrons, concombres, etc.)"
+          },
+          {
+            "type": 0,
+            "name": "Yaourt (allégé en graisses ou en sucre préférable)"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "day": "23",
+    "meals": [
+      {
+        "name": "早",
+        "recipes": [
+          {
+            "type": 0,
+            "name": "1 tasse de thé ou de café noir sans sucre ni lait "
+          },
+          {
+            "type": 0,
+            "name": "2 œufs brouillés (sans beurre ni huile)"
+          },
+          {
+            "type": 0,
+            "name": "1 tranche de pain complet"
+          }
+        ]
+      },
+      {
+        "name": "甜",
+        "recipes": [
+          {
+            "type": 0,
+            "name": "1 cookie (allégé en sucre ou sans sucre préférable)"
+          }
+        ]
+      },
+      {
+        "name": "午",
+        "recipes": [
+          {
+            "type": 0,
+            "name": "Maïs grillé ou vapeur avec des légumes de votre choix"
+          },
+          {
+            "type": 0,
+            "name": "Quelques myrtilles, fraises, framboises ou mûres"
+          }
+        ]
+      },
+      {
+        "name": "晚",
+        "recipes": [
+          {
+            "type": 0,
+            "name": "Épis de maïs cuits ou vapeur"
+          },
+          {
+            "type": 1,
+            "name": "N\u0027importe quel poisson grillé ou vapeur ou fruits de mer (calmars, crabes, crevettes)"
+          },
+          {
+            "type": 2,
+            "name": "Légumes cuits au four ou vapeur (asperge, brocoli, chou-fleur, courgette, épinard ou pois) "
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "day": "24",
+    "meals": [
+      {
+        "name": "早",
+        "recipes": [
+          {
+            "type": 0,
+            "name": "1 tasse de thé ou de café noir sans sucre ni lait "
+          },
+          {
+            "type": 0,
+            "name": "Flocons d\u0027avoine avec du lait écrémé (gruau, blé concassé, orge ou polenta)"
+          },
+          {
+            "type": 0,
+            "name": "1 pamplemousse ou orange"
+          }
+        ]
+      },
+      {
+        "name": "甜",
+        "recipes": [
+          {
+            "type": 0,
+            "name": "Yaourt (allégé en graisses ou en sucre préférable)"
+          },
+          {
+            "type": 0,
+            "name": "1 part de fromage (salé ou allégé en graisses préférable)"
+          }
+        ]
+      },
+      {
+        "name": "午",
+        "recipes": [
+          {
+            "type": 0,
+            "name": "Riz complet cuit à la vapeur ou pâtes cuites "
+          },
+          {
+            "type": 0,
+            "name": "2 tranches de pain complet avec des légumes (oignons, tomates, laitue, etc.)"
+          }
+        ]
+      },
+      {
+        "name": "晚",
+        "recipes": [
+          {
+            "type": 0,
+            "name": "Salade de fruits (pomme, poire, orange, pamplemousse, ananas, etc.) "
+          },
+          {
+            "type": 0,
+            "name": "Légumes cuits au four ou vapeur (asperge, brocoli, chou-fleur, courgette, épinard ou pois) "
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "day": "25",
+    "meals": [
+      {
+        "name": "早",
+        "recipes": [
+          {
+            "type": 0,
+            "name": "1 tasse de thé ou de café noir sans sucre ni lait "
+          },
+          {
+            "type": 0,
+            "name": "Flocons d\u0027avoine avec du lait écrémé (gruau, blé concassé, orge ou polenta)"
+          }
+        ]
+      },
+      {
+        "name": "甜",
+        "recipes": [
+          {
+            "type": 0,
+            "name": "N\u0027importe quelle noix non salée "
+          }
+        ]
+      },
+      {
+        "name": "午",
+        "recipes": [
+          {
+            "type": 0,
+            "name": "1 pamplemousse ou orange"
+          },
+          {
+            "type": 0,
+            "name": "Légumes cuits au four ou vapeur (asperge, brocoli, chou-fleur, courgette, épinard ou pois) "
+          }
+        ]
+      },
+      {
+        "name": "晚",
+        "recipes": [
+          {
+            "type": 0,
+            "name": "Smoothie ou yaourt allégé"
+          },
+          {
+            "type": 1,
+            "name": "N\u0027importe quelle viande maigre grillée ou vapeur (bœuf, blanc de poulet, agneau, bavette, etc.) "
+          },
+          {
+            "type": 2,
+            "name": "Salade de fruits (pomme, poire, orange, pamplemousse, ananas, etc.) "
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "day": "26",
+    "meals": [
+      {
+        "name": "早",
+        "recipes": [
+          {
+            "type": 0,
+            "name": "1 tasse de thé ou de café noir sans sucre ni lait "
+          },
+          {
+            "type": 0,
+            "name": "Omelette avec trois œufs et quelques légumes"
+          }
+        ]
+      },
+      {
+        "name": "甜",
+        "recipes": [
+          {
+            "type": 0,
+            "name": "1 cookie (allégé en sucre ou sans sucre préférable)"
+          }
+        ]
+      },
+      {
+        "name": "午",
+        "recipes": [
+          {
+            "type": 0,
+            "name": "Riz complet cuit à la vapeur ou pâtes cuites "
+          },
+          {
+            "type": 0,
+            "name": "3 pommes de terre cuites au four ou vapeur"
+          }
+        ]
+      },
+      {
+        "name": "晚",
+        "recipes": [
+          {
+            "type": 0,
+            "name": "Quelques myrtilles, fraises, framboises ou mûres"
+          },
+          {
+            "type": 1,
+            "name": "N\u0027importe quel poisson grillé ou vapeur ou fruits de mer (calmars, crabes, crevettes)"
+          },
+          {
+            "type": 2,
+            "name": "Légumes cuits au four ou vapeur (asperge, brocoli, chou-fleur, courgette, épinard ou pois) "
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "day": "27",
+    "meals": [
+      {
+        "name": "早",
+        "recipes": [
+          {
+            "type": 0,
+            "name": "1 tasse de thé ou de chocolat chaud sans sucre ni lait "
+          },
+          {
+            "type": 0,
+            "name": "Porridge de flocons d\u0027avoine"
+          }
+        ]
+      },
+      {
+        "name": "甜",
+        "recipes": [
+          {
+            "type": 0,
+            "name": "Yaourt allégé ou lait avec quelques baies"
+          }
+        ]
+      },
+      {
+        "name": "午",
+        "recipes": [
+          {
+            "type": 0,
+            "name": "Flocons d\u0027avoine avec du lait écrémé (gruau, blé concassé, orge ou polenta)"
+          },
+          {
+            "type": 1,
+            "name": "N\u0027importe quelle viande maigre grillée ou vapeur (bœuf, blanc de poulet, agneau, bavette, etc.) "
+          },
+          {
+            "type": 2,
+            "name": "Salade de fruits (pomme, poire, orange, pamplemousse, ananas, etc.) "
+          }
+        ]
+      },
+      {
+        "name": "晚",
+        "recipes": [
+          {
+            "type": 0,
+            "name": "Salade de fruits (pomme, poire, orange, pamplemousse, ananas, etc.) "
+          },
+          {
+            "type": 0,
+            "name": "Haricots cuits (graines de soja, lentilles, haricots noirs, haricots rouges, etc.)"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "day": "28",
+    "meals": [
+      {
+        "name": "早",
+        "recipes": [
+          {
+            "type": 0,
+            "name": "1 tasse de thé ou de chocolat chaud sans sucre ni lait "
+          },
+          {
+            "type": 0,
+            "name": "1 tranche de pain complet"
+          }
+        ]
+      },
+      {
+        "name": "甜",
+        "recipes": [
+          {
+            "type": 0,
+            "name": "1 cookie (allégé en sucre ou sans sucre préférable)"
+          }
+        ]
+      },
+      {
+        "name": "午",
+        "recipes": [
+          {
+            "type": 0,
+            "name": "Salade de fruits (pomme, poire, orange, pamplemousse, ananas, etc.) "
+          },
+          {
+            "type": 0,
+            "name": "Houmous ou purée de pommes de terre"
+          }
+        ]
+      },
+      {
+        "name": "晚",
+        "recipes": [
+          {
+            "type": 0,
+            "name": "N\u0027importe quelle soupe de légumes sans sel ajouté"
+          },
+          {
+            "type": 1,
+            "name": "Salade de poulet (blanc de poulet, grillé ou vapeur, avec quelques fruits ou légumes)"
+          },
+          {
+            "type": 2,
+            "name": "Salade de légumes (carottes, tomates, poivrons, concombres, etc.)"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "day": "29",
+    "meals": [
+      {
+        "name": "早",
+        "recipes": [
+          {
+            "type": 0,
+            "name": "1 tasse de thé ou de café noir sans sucre ni lait "
+          },
+          {
+            "type": 0,
+            "name": "Omelette avec trois œufs et quelques légumes"
+          }
+        ]
+      },
+      {
+        "name": "甜",
+        "recipes": [
+          {
+            "type": 0,
+            "name": "N\u0027importe quelle noix non salée "
+          }
+        ]
+      },
+      {
+        "name": "午",
+        "recipes": [
+          {
+            "type": 0,
+            "name": "Riz complet cuit à la vapeur ou pâtes cuites "
+          },
+          {
+            "type": 0,
+            "name": "Légumes cuits au four ou vapeur (asperge, brocoli, chou-fleur, courgette, épinard ou pois) "
+          }
+        ]
+      },
+      {
+        "name": "晚",
+        "recipes": [
+          {
+            "type": 1,
+            "name": "1 portion de fruits (pomme, poire, banane, orange, pamplemousse, ananas, etc.) "
+          },
+          {
+            "type": 1,
+            "name": "N\u0027importe quelle viande maigre grillée ou vapeur (bœuf, blanc de poulet, agneau, bavette, etc.) "
+          },
+          {
+            "type": 2,
+            "name": "Salade de fruits (pomme, poire, orange, pamplemousse, ananas, etc.) "
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "day": "30",
+    "meals": [
+      {
+        "name": "早",
+        "recipes": [
+          {
+            "type": 0,
+            "name": "1 tasse de thé ou de chocolat chaud sans sucre ni lait "
+          },
+          {
+            "type": 0,
+            "name": "2 œufs brouillés (sans beurre ni huile)"
+          },
+          {
+            "type": 0,
+            "name": "Flocons d\u0027avoine avec du lait écrémé (gruau, blé concassé, orge ou polenta)"
+          }
+        ]
+      },
+      {
+        "name": "甜",
+        "recipes": [
+          {
+            "type": 0,
+            "name": "Épis de maïs cuits ou vapeur"
+          },
+          {
+            "type": 0,
+            "name": "Houmous ou purée de pommes de terre"
+          }
+        ]
+      },
+      {
+        "name": "午",
+        "recipes": [
+          {
+            "type": 0,
+            "name": "Porridge de flocons d\u0027avoine"
+          },
+          {
+            "type": 0,
+            "name": "Quelques myrtilles, fraises, framboises ou mûres"
+          }
+        ]
+      },
+      {
+        "name": "晚",
+        "recipes": [
+          {
+            "type": 0,
+            "name": "N\u0027importe quelle soupe de légumes sans sel ajouté"
+          },
+          {
+            "type": 1,
+            "name": "N\u0027importe quel poisson grillé ou vapeur ou fruits de mer (calmars, crabes, crevettes)"
+          },
+          {
+            "type": 2,
+            "name": "Légumes cuits au four ou vapeur (asperge, brocoli, chou-fleur, courgette, épinard ou pois) "
+          }
+        ]
+      }
+    ]
+  }
+]

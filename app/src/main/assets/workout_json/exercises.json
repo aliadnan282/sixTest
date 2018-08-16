@@ -1,0 +1,122 @@
+[
+  {
+    "exe_id": 100,
+    "exe_name": "abdominal_crunch",
+    "exe_image": "abdominal_crunch.png"
+  },
+  {
+    "exe_id": 101,
+    "exe_name": "bench_crunch",
+    "exe_image": "bench_crunch.png"
+  },
+  {
+    "exe_id": 102,
+    "exe_name": "bicycle_exercise",
+    "exe_image": "bicycle_exercise.png"
+  },
+  {
+    "exe_id": 103,
+    "exe_name": "bottom_leg_lift_left",
+    "exe_image": "bottom_leg_lift_left.png"
+  },
+  {
+    "exe_id": 104,
+    "exe_name": "bottom_leg_lift_right",
+    "exe_image": "bottom_leg_lift_right.png"
+  },
+  {
+    "exe_id": 105,
+    "exe_name": "butt_bridge",
+    "exe_image": "butt_bridge.png"
+  },
+  {
+    "exe_id": 106,
+    "exe_name": "crunches_with_legs",
+    "exe_image": "crunches_with_legs.png"
+  },
+  {
+    "exe_id": 107,
+    "exe_name": "decline_crunch",
+    "exe_image": "decline_crunch.png"
+  },
+  {
+    "exe_id": 108,
+    "exe_name": "flutter_kicks",
+    "exe_image": "flutter_kicks.png"
+  },
+  {
+    "exe_id": 109,
+    "exe_name": "hamstring_curl",
+    "exe_image": "hamstring_curl.png"
+  },
+  {
+    "exe_id": 110,
+    "exe_name": "heel_touch",
+    "exe_image": "heel_touch.png"
+  },
+  {
+    "exe_id": 111,
+    "exe_name": "leg_raises",
+    "exe_image": "leg_raises.png"
+  },
+  {
+    "exe_id": 112,
+    "exe_name": "long_arm_crunches",
+    "exe_image": "long_arm_crunches.png"
+  },
+  {
+    "exe_id": 113,
+    "exe_name": "mountain_climber",
+    "exe_image": "mountain_climber.png"
+  },
+  {
+    "exe_id": 114,
+    "exe_name": "reverse_crunches",
+    "exe_image": "reverse_crunches.png"
+  },
+  {
+    "exe_id": 115,
+    "exe_name": "rolling_squat",
+    "exe_image": "rolling_squat.png"
+  },
+  {
+    "exe_id": 116,
+    "exe_name": "side_leg_circle_left",
+    "exe_image": "side_leg_circle_left.png"
+  },
+  {
+    "exe_id": 117,
+    "exe_name": "side_leg_circle_right",
+    "exe_image": "side_leg_circle_right.png"
+  },
+  {
+    "exe_id": 118,
+    "exe_name": "sit_ups",
+    "exe_image": "sit_ups.png"
+  },
+  {
+    "exe_id": 119,
+    "exe_name": "sitting_twist",
+    "exe_image": "sitting_twist.png"
+  },
+  {
+    "exe_id": 120,
+    "exe_name": "situp_with_knee_raises",
+    "exe_image": "situp_with_knee_raises.png"
+  },
+  {
+    "exe_id": 121,
+    "exe_name": "up_and_down_plank",
+    "exe_image": "up_and_down_plank.png"
+  },
+  {
+    "exe_id": 122,
+    "exe_name": "elbow_plank",
+    "exe_image": "elbow_plank.png"
+  },
+  {
+    "exe_id": 123,
+    "exe_name": "cobra_stretch",
+    "exe_image": "cobra_stretch.png"
+  }
+]

@@ -1,0 +1,63 @@
+[
+  {
+    "day": "1",
+    "meals": [
+      {
+        "name": "Breakfast",
+        "recipes": [
+          {
+            "type": 0,
+            "name": "Take Bread  which is a good source of carbohydrates for abs workout. You can prepare very simple, caloric and balanced meals by combining bread with protein"
+          },
+          {
+            "type": 0,
+            "name": "Eat Whole eggs which are one of the best natural sources of protein that are readily available and easy to prepare. It is also one of the healthiest foods "
+          },
+          {
+            "type": 0,
+            "name": "Cheese is a very good source of protein and rich in healthy fats. Add it to meals if you need a calorie and flavor boost"
+          }
+        ]
+      },
+      {
+        "name": "Snack",
+        "recipes": [
+          {
+            "type": 0,
+            "name": "Take caramel apple shake: Combine 1 sliced apple, 1 cup (237 ml) of natural yogurt, 1 scoop of caramel- or vanilla-flavored whey protein and 1 tablespoon (15 ml) of sugar-free caramel sauce or flavouring"
+          },
+          {
+            "type": 0,
+            "name": "Have avocados which are loaded with healthy fats."
+          }
+        ]
+      },
+      {
+        "name": "Lunch",
+        "recipes": [
+          {
+            "type": 0,
+            "name": "Take rice which  is fairly calorie-dense, meaning you can easily obtain a high amount of carbs and calories from a single serving."
+          },
+          {
+            "type": 1,
+            "name": "Eat chicken which is a good source of protein and nutrients readily available and priceless that works even better than weight gain pills"
+          }
+        ]
+      },
+      {
+        "name": "Dinner",
+        "recipes": [
+          {
+            "type": 1,
+            "name": "Take red meat which  is an excellent source of protein that will help you gain abs. It contains leucine, an amino acid that helps stimulate muscle protein synthesis"
+          },
+          {
+            "type": 2,
+            "name": "Fat fish such as salmon and tuna are among the best non-vegetarian foods are best for flat abs."
+          }
+        ]
+      }
+    ]
+  }
+]

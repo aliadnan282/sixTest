@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.workout.sixpacksabs">
+
+    <uses-permission android:name="android.permission.INTERNET" />
+    <uses-permission android:name="android.permission.RECEIVE_BOOT_COMPLETED" />
+    <uses-permission android:name="com.android.vending.BILLING" />
+
+    <!-- <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" /> -->
+    <application
+        android:name=".SixPackAbs"
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme.NoActionBar">
+        <activity
+            android:name=".view.activity.ExerciseDaysActivity"
+            android:label="@string/day_activity"
+            android:parentActivityName=".view.activity.DrawerActivity">
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value=".view.activity.DrawerActivity" />
+        </activity>
+        <activity
+            android:name=".view.activity.ExerciseListActivity"
+            android:theme="@style/AppTheme" />
+        <activity
+            android:name=".view.activity.CongratulationsActivity"
+            android:theme="@style/AppTheme" />
+
+        <meta-data
+            android:name="preloaded_fonts"
+            android:resource="@array/preloaded_fonts" />
+
+        <activity
+            android:name=".view.activity.PlayingActivity"
+            android:parentActivityName=".view.activity.DrawerActivity"
+            android:screenOrientation="portrait" />
+        <activity android:name=".view.activity.RecipeDetailActivity" />
+        <activity
+            android:name=".view.activity.RestActivity"
+            android:parentActivityName=".view.activity.DrawerActivity"
+            android:theme="@style/AppTheme" />
+
+        <service android:name=".service.ReminderService">
+            <intent-filter>
+                <action android:name="com.firebase.jobdispatcher.ACTION_EXECUTE" />
+            </intent-filter>
+        </service>
+
+        <receiver android:name=".service.AlarmReceiver">
+            <intent-filter>
+                <action android:name="com.workout.sixpacksabs.alarm.action.trigger" />
+            </intent-filter>
+        </receiver>
+
+        <activity
+            android:name=".view.activity.DrawerActivity"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".view.activity.SettingActivity"
+            android:label="@string/menu_setting"
+            android:theme="@style/AppTheme">
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value=".view.activity.DrawerActivity" />
+        </activity>
+        <activity
+            android:name=".view.activity.SplashActivity"
+            android:configChanges="orientation|keyboardHidden|screenSize"
+            android:screenOrientation="portrait"
+            android:theme="@style/FullscreenTheme">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+
+            <meta-data
+                android:name="android.app.shortcuts"
+                android:resource="@xml/shortcuts" />
+        </activity>
+
+        <receiver
+            android:name=".service.MyBootReciever"
+            android:enabled="true"
+            android:exported="true">
+            <intent-filter>
+                <action android:name="android.intent.action.BOOT_COMPLETED" />
+            </intent-filter>
+        </receiver>
+
+        <activity android:name="com.workoutapps.abs.workout.tips.MainActivity" />
+        <activity android:name=".view.activity.MainActivity" />
+        <activity android:name=".view.activity.WorkoutActivity" />
+        <activity android:name=".view.activity.ReportActivity" />
+        <activity android:name=".view.activity.AchievementActivity"></activity>
+    </application>
+
+</manifest>
