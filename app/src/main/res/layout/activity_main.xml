@@ -2,6 +2,19 @@
 <layout xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:app="http://schemas.android.com/apk/res-auto">
 
+    <data>
+
+        <variable
+            name="activity"
+            type="com.workout.sixpacksabs.view.activity.MainActivity" />
+
+        <!--   <variable
+               android:onClick="@{() -> handler.onCategoryClicked(category)}"
+
+               name="handler"
+               type="com.workout.sixpackabs.binder.MyHandler" />-->
+    </data>
+
     <ScrollView
         android:layout_width="match_parent"
         android:layout_height="match_parent"
@@ -38,9 +51,9 @@
                 android:id="@+id/tv_calories_main"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
-                android:gravity="top"
-                android:drawablePadding="@dimen/_10dp"
                 android:drawableLeft="@drawable/ic_calories"
+                android:drawablePadding="@dimen/_10dp"
+                android:gravity="top"
                 android:text="@string/calories_pattern"
                 android:textColor="@android:color/white"
                 android:textSize="18sp"
@@ -67,10 +80,11 @@
                 android:id="@+id/tv_workout_main"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
-                android:layout_marginTop="10dp"
                 android:layout_marginBottom="@dimen/_10dp"
-                android:drawableStart="@drawable/ic_dumbell"
+                android:layout_marginTop="10dp"
+                android:drawableLeft="@drawable/ic_dumbell"
                 android:drawablePadding="@dimen/_10dp"
+                android:drawableStart="@drawable/ic_dumbell"
                 android:gravity="top"
                 android:text="@string/workout_pattern"
                 android:textColor="@android:color/white"
@@ -159,8 +173,10 @@
                     android:layout_width="match_parent"
                     android:layout_height="200dp"
                     android:background="@drawable/ic_card_workout_bg"
+                    android:onClick="@{() ->activity.openWorkoutActivity()}"
                     app:layout_constraintLeft_toLeftOf="parent"
                     app:layout_constraintRight_toRightOf="parent">
+
                     <android.support.constraint.Guideline
                         android:id="@+id/guidelines_right_workout"
                         android:layout_width="wrap_content"
@@ -191,10 +207,11 @@
                 </android.support.constraint.ConstraintLayout>
 
                 <android.support.constraint.ConstraintLayout
-                    android:id="@+id/cv_swimming"
+                    android:id="@+id/cv_diet_plan"
                     android:layout_width="match_parent"
                     android:layout_height="200dp"
                     android:background="@drawable/ic_card_diet_plan_bg"
+                    android:onClick="@{() ->activity.openDietPlanActivity()}"
                     app:layout_constraintLeft_toLeftOf="parent"
                     app:layout_constraintRight_toRightOf="parent"
                     app:layout_constraintTop_toBottomOf="@+id/cv_workout">
@@ -240,9 +257,10 @@
                     android:layout_width="match_parent"
                     android:layout_height="200dp"
                     android:background="@drawable/ic_card_report_bg"
+                    android:onClick="@{() ->activity.openReportActivity()}"
                     app:layout_constraintLeft_toLeftOf="parent"
                     app:layout_constraintRight_toRightOf="parent"
-                    app:layout_constraintTop_toBottomOf="@+id/cv_swimming">
+                    app:layout_constraintTop_toBottomOf="@+id/cv_diet_plan">
 
                     <android.support.constraint.Guideline
                         android:id="@+id/guidelines_left_tips"

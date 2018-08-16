@@ -18,7 +18,7 @@ import com.workout.sixpacksabs.manager.AdsManager;
  * Created by saqibmirza on 22/12/2016.
  */
 
-public class ShowExistDialog implements View.OnClickListener {
+public class ExitDialog implements View.OnClickListener {
 
     private Dialog dialog;
     private Context context;
@@ -26,7 +26,7 @@ public class ShowExistDialog implements View.OnClickListener {
 
     CloseAppListener closeAppListener;
 
-    public ShowExistDialog(Context context) {
+    public ExitDialog(Context context) {
         this.context = context;
         closeAppListener = (CloseAppListener) context;
         createDialog();

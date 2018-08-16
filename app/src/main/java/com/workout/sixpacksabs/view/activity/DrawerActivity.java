@@ -15,7 +15,6 @@ import android.support.v4.app.FragmentStatePagerAdapter;
 import android.support.v4.view.GravityCompat;
 import android.support.v4.view.ViewPager;
 import android.support.v7.app.ActionBarDrawerToggle;
-import android.support.v7.app.AppCompatActivity;
 import android.util.Log;
 import android.view.Menu;
 import android.view.MenuItem;
@@ -38,11 +37,7 @@ import com.workout.sixpacksabs.manager.AnalyticsManager;
 import com.workout.sixpacksabs.manager.CustomNotificationManager;
 import com.workout.sixpacksabs.model.HeaderModel;
 import com.workout.sixpacksabs.view.adapter.CardPagerAdapter;
-import com.workout.sixpacksabs.view.fragment.AchievementsFragment;
-import com.workout.sixpacksabs.view.fragment.CalendarFragment;
-import com.workout.sixpacksabs.view.fragment.CategoryFragment;
-import com.workout.sixpacksabs.view.fragment.RecipeFragment;
-import com.workout.sixpacksabs.view.fragment.ShowExistDialog;
+import com.workout.sixpacksabs.view.fragment.ExitDialog;
 
 import java.net.MalformedURLException;
 import java.net.URL;
@@ -83,7 +78,7 @@ public class DrawerActivity extends DaggerAppCompatActivity
     private CardPagerAdapter mCardAdapter;
     private ShadowTransformer mCardShadowTransformer;
     private ScreenSlidePagerAdapter mPagerAdapter;
-    private ShowExistDialog showExistDialog;
+    private ExitDialog showExistDialog;
     private ConsentInformation consentInformation;
 
     @Override
@@ -101,7 +96,7 @@ public class DrawerActivity extends DaggerAppCompatActivity
         if (intent.getExtras() != null)
             isDietPlan = intent.getIntExtra(PLAN_NUMBER, 1) == 0;
 
-       // appPreference = AppPreference.getInstance(this);
+        // appPreference = AppPreference.getInstance(this);
         if (!appPreference.getBoolean(IS_FIRST_RUN)) {
             appPreference.setBoolean(TTS_UNMUTE, true);
             appPreference.setBoolean(NOTIFICATION_ENABLE, true);
@@ -132,7 +127,7 @@ public class DrawerActivity extends DaggerAppCompatActivity
         activityDrawerBinding.navView.setNavigationItemSelectedListener(this);
 
         // Initialize exit dialog to load ad in advance
-        showExistDialog = new ShowExistDialog(this);
+        showExistDialog = new ExitDialog(this);
 
     }
 
@@ -460,16 +455,6 @@ public class DrawerActivity extends DaggerAppCompatActivity
         @Override
         public Fragment getItem(int position) {
             switch (position) {
-                case 0:
-                    return CategoryFragment.newInstance();
-                case 1:
-                    return RecipeFragment.newInstance();
-
-                case 2:
-                    return CalendarFragment.newInstance();
-
-                case 3:
-                    return AchievementsFragment.newInstance();
                 default:
                     break;
             }

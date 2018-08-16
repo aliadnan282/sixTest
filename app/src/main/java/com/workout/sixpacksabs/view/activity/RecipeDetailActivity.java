@@ -61,7 +61,7 @@ public class RecipeDetailActivity extends AppCompatActivity {
         }
         // collapsingToolbarLayout.setStatusBarScrimColor(getResources().getColor(android.R.color.transparent));
         getSupportActionBar().setDisplayHomeAsUpEnabled(true);
-        getSupportActionBar().setTitle(String.format(getString(R.string.recipe_detail_format), daysRecipePosition));
+        getSupportActionBar().setTitle(getString(R.string.recipe_detail_format));
         fetchCategoryData = new FetchCategoryData();
         fetchCategoryData.executeOnExecutor(SixPackThreadPoolExecutor.getInstance());
         activityRecipeBinding.doneFloatAction.setOnClickListener(view -> onFloatClicked());
@@ -116,7 +116,7 @@ public class RecipeDetailActivity extends AppCompatActivity {
 
 
     private void fillUI() {
-        daysRecipeModel = dayRecipeList.get(daysRecipePosition == 30 ? 29 : daysRecipePosition);
+        daysRecipeModel = dayRecipeList.get(0);
 
         StringBuilder stringBuilderBreakfast = new StringBuilder();
         for (RecipeModel recipeModel : daysRecipeModel.getMeals().get(BREAKFAST).getRecipeModels()) {

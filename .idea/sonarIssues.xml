@@ -113,6 +113,11 @@
             <set />
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/java/com/workout/sixpacksabs/manager/CustomNotificationManager.java">
+          <value>
+            <set />
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/app/src/main/java/com/workout/sixpacksabs/module/MainActivityModule.java">
           <value>
             <set />
@@ -133,7 +138,17 @@
             <set />
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/java/com/workout/sixpacksabs/view/activity/RecipeDetailActivity.java">
+          <value>
+            <set />
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/app/src/main/java/com/workout/sixpacksabs/view/activity/ReportActivity.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/java/com/workout/sixpacksabs/view/activity/SplashActivity.java">
           <value>
             <set />
           </value>
@@ -144,6 +159,21 @@
           </value>
         </entry>
         <entry key="$PROJECT_DIR$/app/src/main/java/com/workout/sixpacksabs/view/fragment/CategoryFragment.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/java/com/workout/sixpacksabs/view/fragment/ExitDialog.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/java/com/workout/sixpacksabs/view/fragment/ShowExistDialog.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/java/com/workout/sixpacksabs/view/fragment/ShowExitDialog.java">
           <value>
             <set />
           </value>
@@ -164,6 +194,11 @@
           </value>
         </entry>
         <entry key="$PROJECT_DIR$/app/src/main/res/layout/activity_achievement.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/res/layout/activity_days.xml">
           <value>
             <set />
           </value>

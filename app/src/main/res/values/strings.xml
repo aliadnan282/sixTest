@@ -26,7 +26,7 @@
     <string name="snack">Snack</string>
     <string name="dinner">Dinner</string>
     <string name="lunch">Lunch</string>
-    <string name="recipe_detail_format">Day %1$d recipe\'s</string>
+    <string name="recipe_detail_format">Today recipe\'s</string>
     <string name="kg">kg</string>
     <string name="lb">lb</string>
     <string name="weight">Weight</string>

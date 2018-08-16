@@ -17,6 +17,7 @@ import com.workout.sixpacksabs.helper.AppPreference;
 import com.workout.sixpacksabs.helper.AppUtils;
 import com.workout.sixpacksabs.service.AlarmReceiver;
 import com.workout.sixpacksabs.view.activity.DrawerActivity;
+import com.workout.sixpacksabs.view.activity.WorkoutActivity;
 
 import java.util.Calendar;
 
@@ -72,7 +73,7 @@ public class CustomNotificationManager {
 
         Notification.Builder notificationBuilder = null;
         String planName = appPreference.getCategoryString();
-        Intent notificationIntent = new Intent(AppConstant.mContext, DrawerActivity.class);
+        Intent notificationIntent = new Intent(AppConstant.mContext, WorkoutActivity.class);
         notificationIntent.putExtra("alarm_service", true);
         notificationIntent.addFlags(Intent.FLAG_ACTIVITY_CLEAR_TOP | Intent.FLAG_ACTIVITY_SINGLE_TOP);
         PendingIntent pendingIntent = PendingIntent.getActivity(AppConstant.mContext, 0, notificationIntent, FLAG_UPDATE_CURRENT);

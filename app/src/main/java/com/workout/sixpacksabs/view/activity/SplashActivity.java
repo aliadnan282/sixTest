@@ -52,7 +52,7 @@ public class SplashActivity extends AppCompatActivity {
         AppDatabase.getInstance(getApplication());
 
         new Handler().postDelayed(() -> {
-            Intent i = new Intent(SplashActivity.this, DrawerActivity.class);
+            Intent i = new Intent(SplashActivity.this, MainActivity.class);
             startActivity(i);
             finish();
             overridePendingTransition(R.anim.anim_slide_in_left, R.anim.anim_slide_out_left);
